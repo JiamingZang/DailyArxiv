@@ -2,7 +2,12 @@ name: Update
 
 on:
   workflow_dispatch:
-
+  label:
+    types:
+      - created # for test
+  schedule:
+      - cron: '30 16 * * 0-4' # 00:30 Beijing time every Monday to Friday
+      
 permissions:
   contents: write
   issues: write 
