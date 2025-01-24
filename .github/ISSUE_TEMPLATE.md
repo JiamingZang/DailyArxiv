@@ -23,6 +23,25 @@ labels: documentation
 | **[Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation](http://arxiv.org/abs/2409.18261v2)** | 2024-09-30 | <details><summary>ECCV ...</summary><p>ECCV 2024 (poster). Github page: https://github.com/3DTopia/Omni6D</p></details> |
 | **[ZeroPose: CAD-Prompted Zero-shot Object 6D Pose Estimation in Cluttered Scenes](http://arxiv.org/abs/2305.17934v3)** | 2024-09-29 |  |
 
+## Human Pose Estimation
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[BlanketGen2-Fit3D: Synthetic Blanket Augmentation Towards Improving Real-World In-Bed Blanket Occluded Human Pose Estimation](http://arxiv.org/abs/2501.12318v1)** | 2025-01-21 | 11 pages, 7 figures |
+| **[Towards Robust and Realistic Human Pose Estimation via WiFi Signals](http://arxiv.org/abs/2501.09411v2)** | 2025-01-21 | 12 pages, 9 figures |
+| **[WorldPose: A World Cup Dataset for Global 3D Human Pose Estimation](http://arxiv.org/abs/2501.02771v2)** | 2025-01-20 |  |
+| **[Refinement Module based on Parse Graph of Feature Map for Human Pose Estimation](http://arxiv.org/abs/2501.11069v1)** | 2025-01-19 |  |
+| **[SMPLest-X: Ultimate Scaling for Expressive Human Pose and Shape Estimation](http://arxiv.org/abs/2501.09782v1)** | 2025-01-16 | <details><summary>An ex...</summary><p>An extension of SMPLer-X [arXiv:2309.17448]. Homepage: https://caizhongang.com/projects/SMPLer-X/</p></details> |
+| **[A New Teacher-Reviewer-Student Framework for Semi-supervised 2D Human Pose Estimation](http://arxiv.org/abs/2501.09565v1)** | 2025-01-16 |  |
+| **[Towards Balanced Continual Multi-Modal Learning in Human Pose Estimation](http://arxiv.org/abs/2501.05264v3)** | 2025-01-16 |  |
+| **[Human Pose-Constrained UV Map Estimation](http://arxiv.org/abs/2501.08815v1)** | 2025-01-15 |  |
+| **[Poseidon: A ViT-based Architecture for Multi-Frame Pose Estimation with Adaptive Frame Weighting and Multi-Scale Feature Fusion](http://arxiv.org/abs/2501.08446v1)** | 2025-01-14 |  |
+| **[Leveraging 2D Masked Reconstruction for Domain Adaptation of 3D Pose Estimation](http://arxiv.org/abs/2501.08408v1)** | 2025-01-14 | 16 pages, 7 figures |
+| **[AgentPose: Progressive Distribution Alignment via Feature Agent for Human Pose Distillation](http://arxiv.org/abs/2501.08088v1)** | 2025-01-14 | 5 pages, 1 figures |
+| **[Robust Low-Light Human Pose Estimation through Illumination-Texture Modulation](http://arxiv.org/abs/2501.08038v1)** | 2025-01-14 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, conference</p></details> |
+| **[BioPose: Biomechanically-accurate 3D Pose Estimation from Monocular Videos](http://arxiv.org/abs/2501.07800v1)** | 2025-01-14 |  |
+| **[MC-VTON: Minimal Control Virtual Try-On Diffusion Transformer](http://arxiv.org/abs/2501.03630v2)** | 2025-01-10 |  |
+| **[SCRREAM : SCan, Register, REnder And Map:A Framework for Annotating Accurate and Dense 3D Indoor Scenes with a Benchmark](http://arxiv.org/abs/2410.22715v2)** | 2025-01-06 |  |
+
 ## 3d Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
