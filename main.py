@@ -50,8 +50,9 @@ f_is.write("**Please check the [Github](https://github.com/zezhishao/MTS_Daily_A
 for keyword in keywords:
     f_rm.write("## {0}\n".format(keyword))
     f_is.write("## {0}\n".format(keyword))
-    if len(keyword.split()) == 1: link = "AND" # for keyword with only one word, We search for papers containing this keyword in both the title and abstract.
-    else: link = "OR"
+    # if len(keyword.split()) == 1: link = "AND" # for keyword with only one word, We search for papers containing this keyword in both the title and abstract.
+    # else: link = "OR"
+    link = "OR"
     papers = get_daily_papers_by_keyword_with_retries(keyword, column_names, max_result, link)
     if papers is None: # failed to get papers
         print("Failed to get papers!")
