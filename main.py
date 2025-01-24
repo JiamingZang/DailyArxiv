@@ -17,7 +17,6 @@ current_date = datetime.now(beijing_timezone).strftime("%Y-%m-%d")
 with open("README.md", "r") as f:
     while True:
         line = f.readline()
-        print("ggg")
         if "Last update:" in line: break
     last_update_date = line.split(": ")[1].strip()
     if last_update_date == current_date:
