@@ -1,6 +1,7 @@
 name: Update
 
 on:
+  workflow_dispatch:
   label:
     types:
       - created # for test
