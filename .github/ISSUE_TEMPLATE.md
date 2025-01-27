@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2025
+title: Latest 15 Papers - January 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimizing Human Pose Estimation Through Focused Human and Joint Regions](http://arxiv.org/abs/2501.14439v1)** | 2025-01-24 |  |
+| **[Causal-Inspired Multitask Learning for Video-Based Human Pose Estimation](http://arxiv.org/abs/2501.14356v1)** | 2025-01-24 | 9 pages, 3 figures |
 | **[BlanketGen2-Fit3D: Synthetic Blanket Augmentation Towards Improving Real-World In-Bed Blanket Occluded Human Pose Estimation](http://arxiv.org/abs/2501.12318v1)** | 2025-01-21 | 11 pages, 7 figures |
 | **[Towards Robust and Realistic Human Pose Estimation via WiFi Signals](http://arxiv.org/abs/2501.09411v2)** | 2025-01-21 | 12 pages, 9 figures |
 | **[WorldPose: A World Cup Dataset for Global 3D Human Pose Estimation](http://arxiv.org/abs/2501.02771v2)** | 2025-01-20 |  |
@@ -39,44 +41,42 @@ labels: documentation
 | **[AgentPose: Progressive Distribution Alignment via Feature Agent for Human Pose Distillation](http://arxiv.org/abs/2501.08088v1)** | 2025-01-14 | 5 pages, 1 figures |
 | **[Robust Low-Light Human Pose Estimation through Illumination-Texture Modulation](http://arxiv.org/abs/2501.08038v1)** | 2025-01-14 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, conference</p></details> |
 | **[BioPose: Biomechanically-accurate 3D Pose Estimation from Monocular Videos](http://arxiv.org/abs/2501.07800v1)** | 2025-01-14 |  |
-| **[MC-VTON: Minimal Control Virtual Try-On Diffusion Transformer](http://arxiv.org/abs/2501.03630v2)** | 2025-01-10 |  |
-| **[SCRREAM : SCan, Register, REnder And Map:A Framework for Annotating Accurate and Dense 3D Indoor Scenes with a Benchmark](http://arxiv.org/abs/2410.22715v2)** | 2025-01-06 |  |
 
 ## 3d Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Trick-GS: A Balanced Bag of Tricks for Efficient Gaussian Splatting](http://arxiv.org/abs/2501.14534v1)** | 2025-01-24 | <details><summary>Accep...</summary><p>Accepted at ICASSP'25</p></details> |
+| **[Micro-macro Wavelet-based Gaussian Splatting for 3D Reconstruction from Unconstrained Images](http://arxiv.org/abs/2501.14231v1)** | 2025-01-24 | <details><summary>11 pa...</summary><p>11 pages, 6 figures,accepted by AAAI 2025</p></details> |
+| **[HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting](http://arxiv.org/abs/2501.14147v1)** | 2025-01-24 |  |
 | **[3DGSR: Implicit Surface Reconstruction with 3D Gaussian Splatting](http://arxiv.org/abs/2404.00409v2)** | 2025-01-23 |  |
 | **[GoDe: Gaussians on Demand for Progressive Level of Detail and Scalable Compression](http://arxiv.org/abs/2501.13558v1)** | 2025-01-23 |  |
 | **[MultiDreamer3D: Multi-concept 3D Customization with Concept-Aware Diffusion Guidance](http://arxiv.org/abs/2501.13449v1)** | 2025-01-23 | 9 pages |
 | **[GeomGS: LiDAR-Guided Geometry-Aware Gaussian Splatting for Robot Localization](http://arxiv.org/abs/2501.13417v1)** | 2025-01-23 | <details><summary>Prepr...</summary><p>Preprint, Under review</p></details> |
 | **[VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM](http://arxiv.org/abs/2501.13402v1)** | 2025-01-23 | 7 pages, 5 figures |
 | **[Deblur-Avatar: Animatable Avatars from Motion-Blurred Monocular Videos](http://arxiv.org/abs/2501.13335v1)** | 2025-01-23 |  |
+| **[3DGS$^2$: Near Second-order Converging 3D Gaussian Splatting](http://arxiv.org/abs/2501.13975v1)** | 2025-01-22 | <details><summary>11 pa...</summary><p>11 pages, submit on SIGGRAPH 2025</p></details> |
 | **[Sketch and Patch: Efficient 3D Gaussian Representation for Man-Made Scenes](http://arxiv.org/abs/2501.13045v1)** | 2025-01-22 |  |
 | **[GSVC: Efficient Video Representation and Compression Through 2D Gaussian Splatting](http://arxiv.org/abs/2501.12060v2)** | 2025-01-22 |  |
 | **[HAC++: Towards 100X Compression of 3D Gaussian Splatting](http://arxiv.org/abs/2501.12255v2)** | 2025-01-22 | <details><summary>Proje...</summary><p>Project Page: https://yihangchen-ee.github.io/project_hac++/ Code: https://github.com/YihangChen-ee/HAC-plus. This paper is a journal extension of HAC at arXiv:2403.14530 (ECCV 2024)</p></details> |
 | **[Volumetrically Consistent 3D Gaussian Rasterization](http://arxiv.org/abs/2412.03378v2)** | 2025-01-22 |  |
 | **[DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions](http://arxiv.org/abs/2501.12369v1)** | 2025-01-21 | <details><summary>Link ...</summary><p>Link to the project page: https://randomnerds.github.io/darbs.github.io/</p></details> |
-| **[DehazeGS: Seeing Through Fog with 3D Gaussian Splatting](http://arxiv.org/abs/2501.03659v4)** | 2025-01-21 | <details><summary>9 pag...</summary><p>9 pages,4 figures. visualizations are available at https://dehazegs.github.io/</p></details> |
-| **[See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization](http://arxiv.org/abs/2501.11508v1)** | 2025-01-20 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, has been accepted by the ICASSP 2025</p></details> |
-| **[GSTAR: Gaussian Surface Tracking and Reconstruction](http://arxiv.org/abs/2501.10283v2)** | 2025-01-20 |  |
-| **[RDG-GS: Relative Depth Guidance with Gaussian Splatting for Real-time Sparse-View 3D Rendering](http://arxiv.org/abs/2501.11102v1)** | 2025-01-19 | 24 pages, 12 figures |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step](http://arxiv.org/abs/2501.13926v1)** | 2025-01-23 | <details><summary>Journ...</summary><p>Journal Version. Code and models are released at https://github.com/ZiyuGuo99/Image-Generation-CoT</p></details> |
-| **[IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models](http://arxiv.org/abs/2501.13920v1)** | 2025-01-23 | <details><summary>75 pa...</summary><p>75 pages, 73 figures, Evaluation scripts: https://github.com/jylei16/Imagine-e</p></details> |
-| **[Truncated Consistency Models](http://arxiv.org/abs/2410.14895v2)** | 2025-01-23 | ICLR 2025 |
-| **[Improving Video Generation with Human Feedback](http://arxiv.org/abs/2501.13918v1)** | 2025-01-23 |  |
-| **[Binary Diffusion Probabilistic Model](http://arxiv.org/abs/2501.13915v1)** | 2025-01-23 |  |
-| **[Accelerate High-Quality Diffusion Models with Inner Loop Feedback](http://arxiv.org/abs/2501.13107v2)** | 2025-01-23 | <details><summary>submi...</summary><p>submission currently under review; 20 pages, 17 figures, 6 tables</p></details> |
-| **[Generating Realistic Forehead-Creases for User Verification via Conditioned Piecewise Polynomial Curves](http://arxiv.org/abs/2501.13889v1)** | 2025-01-23 | <details><summary>Accep...</summary><p>Accepted at WACV-W 2025</p></details> |
-| **[Everyone-Can-Sing: Zero-Shot Singing Voice Synthesis and Conversion with Speech Reference](http://arxiv.org/abs/2501.13870v1)** | 2025-01-23 |  |
-| **[Efficient Domain Augmentation for Autonomous Driving Testing Using Diffusion Models](http://arxiv.org/abs/2409.13661v2)** | 2025-01-23 |  |
-| **[DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation](http://arxiv.org/abs/2410.08159v2)** | 2025-01-23 | Accepted by ICLR2025 |
-| **[Efficient Shallow Ritz Method For 1D Diffusion Problems](http://arxiv.org/abs/2404.17750v2)** | 2025-01-23 |  |
-| **[Unveiling the Power of Noise Priors: Enhancing Diffusion Models for Mobile Traffic Prediction](http://arxiv.org/abs/2501.13794v1)** | 2025-01-23 |  |
-| **[An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem](http://arxiv.org/abs/2501.13767v1)** | 2025-01-23 | Accepted at KDD2025 |
-| **[Training-Free Consistency Pipeline for Fashion Repose](http://arxiv.org/abs/2501.13692v1)** | 2025-01-23 |  |
-| **[Societal Adaptation to Advanced AI](http://arxiv.org/abs/2405.10295v3)** | 2025-01-23 |  |
+| **[Relightable Full-Body Gaussian Codec Avatars](http://arxiv.org/abs/2501.14726v1)** | 2025-01-24 | <details><summary>14 pa...</summary><p>14 pages, 9 figures. Project page: https://neuralbodies.github.io/RFGCA</p></details> |
+| **[Diffusion based Text-to-Music Generationwith Global and Local Text based Conditioning](http://arxiv.org/abs/2501.14680v1)** | 2025-01-24 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
+| **[Controlling Moments with Kernel Stein Discrepancies](http://arxiv.org/abs/2211.05408v6)** | 2025-01-24 | <details><summary>102 p...</summary><p>102 pages, 10 figures, Update key citations</p></details> |
+| **[Artificial Barriers for stochastic differential equations and for construction of boundary-preserving schemes](http://arxiv.org/abs/2410.04850v2)** | 2025-01-24 | 32 pages, 6 figures |
+| **[On the multidimensional elephant random walk with stops](http://arxiv.org/abs/2501.14594v1)** | 2025-01-24 |  |
+| **[Numerical Ergodicity of Stochastic Allen--Cahn Equation driven by Multiplicative White Noise](http://arxiv.org/abs/2408.02935v2)** | 2025-01-24 | <details><summary>to ap...</summary><p>to appear at Commun. Math. Res</p></details> |
+| **[Diffusive transport on the real line: semi-contractive gradient flows and their discretization](http://arxiv.org/abs/2501.14527v1)** | 2025-01-24 | 26 pages |
+| **[Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.*](http://arxiv.org/abs/2501.14524v1)** | 2025-01-24 |  |
+| **[Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs](http://arxiv.org/abs/2406.18849v3)** | 2025-01-24 | Accepted by ICLR2025 |
+| **[One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt](http://arxiv.org/abs/2501.13554v2)** | 2025-01-24 | <details><summary>28 pa...</summary><p>28 pages, 22 figures, ICLR2025 conference</p></details> |
+| **[Central schemes for systems of non-local balance laws](http://arxiv.org/abs/2501.14425v1)** | 2025-01-24 |  |
+| **[Handling Heterophily in Recommender Systems with Wavelet Hypergraph Diffusion](http://arxiv.org/abs/2501.14399v1)** | 2025-01-24 |  |
+| **[A Survey on Diffusion Models for Anomaly Detection](http://arxiv.org/abs/2501.11430v3)** | 2025-01-24 |  |
+| **[ComPC: Completing a 3D Point Cloud with 2D Diffusion Priors](http://arxiv.org/abs/2404.06814v2)** | 2025-01-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
+| **[CDI: Blind Image Restoration Fidelity Evaluation based on Consistency with Degraded Image](http://arxiv.org/abs/2501.14264v1)** | 2025-01-24 |  |
 
