@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 06, 2025
+title: Latest 15 Papers - February 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,7 +45,10 @@ labels: documentation
 ## 3d Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GP-GS: Gaussian Processes for Enhanced Gaussian Splatting](http://arxiv.org/abs/2502.02283v1)** | 2025-02-04 | 14 pages,11 figures |
+| **[GP-GS: Gaussian Processes for Enhanced Gaussian Splatting](http://arxiv.org/abs/2502.02283v2)** | 2025-02-05 | 14 pages,11 figures |
+| **[GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM](http://arxiv.org/abs/2502.03228v1)** | 2025-02-05 |  |
+| **[Segment Any 3D Gaussians](http://arxiv.org/abs/2312.00860v3)** | 2025-02-05 | <details><summary>AAAI-...</summary><p>AAAI-25. Project page: https://jumpat.github.io/SAGA</p></details> |
+| **[GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting](http://arxiv.org/abs/2408.11085v3)** | 2025-02-05 | <details><summary>Accep...</summary><p>Accepted to ICLR2025. During the ICLR review process, we changed the name of our framework from GSLoc to GS-CPR (Camera Pose Refinement) according to the comments of reviewers. The project page is available at https://gsloc.active.vision</p></details> |
 | **[GaussNav: Gaussian Splatting for Visual Navigation](http://arxiv.org/abs/2403.11625v3)** | 2025-02-04 | journal |
 | **[LAYOUTDREAMER: Physics-guided Layout for Text-to-3D Compositional Scene Generation](http://arxiv.org/abs/2502.01949v1)** | 2025-02-04 |  |
 | **[UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping](http://arxiv.org/abs/2502.01846v1)** | 2025-02-03 | <details><summary>https...</summary><p>https://aashishrai3799.github.io/uvgs</p></details> |
@@ -57,26 +60,23 @@ labels: documentation
 | **[EmoTalkingGaussian: Continuous Emotion-conditioned Talking Head Synthesis](http://arxiv.org/abs/2502.00654v1)** | 2025-02-02 | 22 pages |
 | **[Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation](http://arxiv.org/abs/2502.00173v1)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted to WACV 2025</p></details> |
 | **[Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping](http://arxiv.org/abs/2501.19319v1)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted by ICRA 2025</p></details> |
-| **[RaySplats: Ray Tracing based Gaussian Splatting](http://arxiv.org/abs/2501.19196v1)** | 2025-01-31 |  |
-| **[VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting](http://arxiv.org/abs/2501.17978v2)** | 2025-01-31 |  |
-| **[JGHand: Joint-Driven Animatable Hand Avater via 3D Gaussian Splatting](http://arxiv.org/abs/2501.19088v1)** | 2025-01-31 |  |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Calibrated Multi-Preference Optimization for Aligning Diffusion Models](http://arxiv.org/abs/2502.02588v1)** | 2025-02-04 |  |
-| **[Open Materials Generation with Stochastic Interpolants](http://arxiv.org/abs/2502.02582v1)** | 2025-02-04 |  |
-| **[LoRA-X: Bridging Foundation Models with Training-Free Cross-Model Adaptation](http://arxiv.org/abs/2501.16559v2)** | 2025-02-04 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
-| **[SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration](http://arxiv.org/abs/2501.01320v3)** | 2025-02-04 | <details><summary>Draft...</summary><p>Draft ver., may be updated in the future. Project page: https://iceclear.github.io/projects/seedvr/</p></details> |
-| **[AAD-DCE: An Aggregated Multimodal Attention Mechanism for Early and Late Dynamic Contrast Enhanced Prostate MRI Synthesis](http://arxiv.org/abs/2502.02555v1)** | 2025-02-04 |  |
-| **[UFID: A Unified Framework for Input-level Backdoor Detection on Diffusion Models](http://arxiv.org/abs/2404.01101v2)** | 2025-02-04 | 18 pages,24 figures |
-| **[Trajectory Flow Matching with Applications to Clinical Time Series Modeling](http://arxiv.org/abs/2410.21154v2)** | 2025-02-04 | <details><summary>NeurI...</summary><p>NeurIPS 2024 Spotlight</p></details> |
-| **[Diff9D: Diffusion-Based Domain-Generalized Category-Level 9-DoF Object Pose Estimation](http://arxiv.org/abs/2502.02525v1)** | 2025-02-04 | 17 pages, 13 figures |
-| **[Privacy Attacks on Image AutoRegressive Models](http://arxiv.org/abs/2502.02514v1)** | 2025-02-04 | <details><summary>Code:...</summary><p>Code: https://github.com/sprintml/privacy_attacks_against_iars</p></details> |
-| **[Generative Modeling on Lie Groups via Euclidean Generalized Score Matching](http://arxiv.org/abs/2502.02513v1)** | 2025-02-04 | 27 pages |
-| **[Do Graph Diffusion Models Accurately Capture and Generate Substructure Distributions?](http://arxiv.org/abs/2502.02488v1)** | 2025-02-04 | Under Review |
-| **[Distributional Diffusion Models with Scoring Rules](http://arxiv.org/abs/2502.02483v1)** | 2025-02-04 |  |
-| **[Style transfer as data augmentation: evaluating unpaired image-to-image translation models in mammography](http://arxiv.org/abs/2502.02475v1)** | 2025-02-04 |  |
-| **[Towards Consistent and Controllable Image Synthesis for Face Editing](http://arxiv.org/abs/2502.02465v1)** | 2025-02-04 |  |
-| **[Sparse Data Generation Using Diffusion Models](http://arxiv.org/abs/2502.02448v1)** | 2025-02-04 |  |
+| **[Bayesian learning with Gaussian processes for low-dimensional representations of time-dependent nonlinear systems](http://arxiv.org/abs/2408.03455v2)** | 2025-02-05 | <details><summary>https...</summary><p>https://github.com/Sandialabs/GP-BayesOpInf</p></details> |
+| **[Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics](http://arxiv.org/abs/2502.03449v1)** | 2025-02-05 | <details><summary>Proje...</summary><p>Project page: https://dress-1-to-3.github.io/</p></details> |
+| **[Masked Autoencoders Are Effective Tokenizers for Diffusion Models](http://arxiv.org/abs/2502.03444v1)** | 2025-02-05 |  |
+| **[Taking a Big Step: Large Learning Rates in Denoising Score Matching Prevent Memorization](http://arxiv.org/abs/2502.03435v1)** | 2025-02-05 |  |
+| **[On Fairness of Unified Multimodal Large Language Model for Image Generation](http://arxiv.org/abs/2502.03429v1)** | 2025-02-05 |  |
+| **[TruePose: Human-Parsing-guided Attention Diffusion for Full-ID Preserving Pose Transfer](http://arxiv.org/abs/2502.03426v1)** | 2025-02-05 |  |
+| **[A Mixture-Based Framework for Guiding Diffusion Models](http://arxiv.org/abs/2502.03332v1)** | 2025-02-05 |  |
+| **[Controllable GUI Exploration](http://arxiv.org/abs/2502.03330v1)** | 2025-02-05 |  |
+| **[An efficient end-to-end computational framework for the generation of ECG calibrated volumetric models of human atrial electrophysiology](http://arxiv.org/abs/2502.03322v1)** | 2025-02-05 | <details><summary>39 pa...</summary><p>39 pages, 13 figures, 11 tables</p></details> |
+| **[Causal Composition Diffusion Model for Closed-loop Traffic Generation](http://arxiv.org/abs/2412.17920v2)** | 2025-02-05 |  |
+| **[Improving Consistency Models with Generator-Augmented Flows](http://arxiv.org/abs/2406.09570v3)** | 2025-02-05 |  |
+| **[Practical Introduction to FEM with GMSH: A MATLAB/Octave Perspective](http://arxiv.org/abs/2502.03248v1)** | 2025-02-05 | 42p |
+| **[PSC: Posterior Sampling-Based Compression](http://arxiv.org/abs/2407.09896v3)** | 2025-02-05 |  |
+| **[MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent](http://arxiv.org/abs/2502.03207v1)** | 2025-02-05 |  |
+| **[Multilevel Picard approximations for McKean-Vlasov stochastic differential equations with nonconstant diffusion](http://arxiv.org/abs/2502.03205v1)** | 2025-02-05 |  |
 
