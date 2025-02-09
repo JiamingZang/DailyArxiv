@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 07, 2025
+title: Latest 15 Papers - February 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## 6d Object Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Advanced Object Detection and Pose Estimation with Hybrid Task Cascade and High-Resolution Networks](http://arxiv.org/abs/2502.03877v1)** | 2025-02-06 |  |
 | **[FreeZe: Training-free zero-shot 6D pose estimation with geometric and vision foundation models](http://arxiv.org/abs/2312.00947v3)** | 2025-01-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2024. Project page: https://andreacaraffa.github.io/freeze</p></details> |
 | **[A Novel Convolution and Attention Mechanism-based Model for 6D Object Pose Estimation](http://arxiv.org/abs/2501.01993v1)** | 2024-12-31 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 6 tables</p></details> |
 | **[ReFlow6D: Refraction-Guided Transparent Object 6D Pose Estimation via Intermediate Representation Learning](http://arxiv.org/abs/2412.20830v1)** | 2024-12-30 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting](http://arxiv.org/abs/2411.03807v3)** | 2024-11-08 |  |
 | **[Modular Quantization-Aware Training for 6D Object Pose Estimation](http://arxiv.org/abs/2303.06753v3)** | 2024-11-04 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR), 2024</p></details> |
 | **[Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation](http://arxiv.org/abs/2409.18261v2)** | 2024-09-30 | <details><summary>ECCV ...</summary><p>ECCV 2024 (poster). Github page: https://github.com/3DTopia/Omni6D</p></details> |
-| **[ZeroPose: CAD-Prompted Zero-shot Object 6D Pose Estimation in Cluttered Scenes](http://arxiv.org/abs/2305.17934v3)** | 2024-09-29 |  |
 
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bayesian learning with Gaussian processes for low-dimensional representations of time-dependent nonlinear systems](http://arxiv.org/abs/2408.03455v2)** | 2025-02-05 | <details><summary>https...</summary><p>https://github.com/Sandialabs/GP-BayesOpInf</p></details> |
-| **[Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics](http://arxiv.org/abs/2502.03449v1)** | 2025-02-05 | <details><summary>Proje...</summary><p>Project page: https://dress-1-to-3.github.io/</p></details> |
-| **[Masked Autoencoders Are Effective Tokenizers for Diffusion Models](http://arxiv.org/abs/2502.03444v1)** | 2025-02-05 |  |
-| **[Taking a Big Step: Large Learning Rates in Denoising Score Matching Prevent Memorization](http://arxiv.org/abs/2502.03435v1)** | 2025-02-05 |  |
-| **[On Fairness of Unified Multimodal Large Language Model for Image Generation](http://arxiv.org/abs/2502.03429v1)** | 2025-02-05 |  |
-| **[TruePose: Human-Parsing-guided Attention Diffusion for Full-ID Preserving Pose Transfer](http://arxiv.org/abs/2502.03426v1)** | 2025-02-05 |  |
-| **[A Mixture-Based Framework for Guiding Diffusion Models](http://arxiv.org/abs/2502.03332v1)** | 2025-02-05 |  |
-| **[Controllable GUI Exploration](http://arxiv.org/abs/2502.03330v1)** | 2025-02-05 |  |
-| **[An efficient end-to-end computational framework for the generation of ECG calibrated volumetric models of human atrial electrophysiology](http://arxiv.org/abs/2502.03322v1)** | 2025-02-05 | <details><summary>39 pa...</summary><p>39 pages, 13 figures, 11 tables</p></details> |
-| **[Causal Composition Diffusion Model for Closed-loop Traffic Generation](http://arxiv.org/abs/2412.17920v2)** | 2025-02-05 |  |
-| **[Improving Consistency Models with Generator-Augmented Flows](http://arxiv.org/abs/2406.09570v3)** | 2025-02-05 |  |
-| **[Practical Introduction to FEM with GMSH: A MATLAB/Octave Perspective](http://arxiv.org/abs/2502.03248v1)** | 2025-02-05 | 42p |
-| **[PSC: Posterior Sampling-Based Compression](http://arxiv.org/abs/2407.09896v3)** | 2025-02-05 |  |
-| **[MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent](http://arxiv.org/abs/2502.03207v1)** | 2025-02-05 |  |
-| **[Multilevel Picard approximations for McKean-Vlasov stochastic differential equations with nonconstant diffusion](http://arxiv.org/abs/2502.03205v1)** | 2025-02-05 |  |
+| **[ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features](http://arxiv.org/abs/2502.04320v1)** | 2025-02-06 |  |
+| **[HOG-Diff: Higher-Order Guided Diffusion for Graph Generation](http://arxiv.org/abs/2502.04308v1)** | 2025-02-06 |  |
+| **[MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation](http://arxiv.org/abs/2502.04299v1)** | 2025-02-06 | <details><summary>It is...</summary><p>It is best viewed in Acrobat. Project page: https://motion-canvas25.github.io/</p></details> |
+| **[Statistical guarantees for continuous-time policy evaluation: blessing of ellipticity and new tradeoffs](http://arxiv.org/abs/2502.04297v1)** | 2025-02-06 |  |
+| **[Unpicking Data at the Seams: Understanding Disentanglement in VAEs](http://arxiv.org/abs/2410.22559v4)** | 2025-02-06 |  |
+| **[Numerical moment stabilization of central difference approximations for linear stationary reaction-convection-diffusion equations with applications to stationary Hamilton-Jacobi equations](http://arxiv.org/abs/2502.04142v1)** | 2025-02-06 |  |
+| **[Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis](http://arxiv.org/abs/2502.04128v1)** | 2025-02-06 |  |
+| **[Generative Adversarial Networks Bridging Art and Machine Intelligence](http://arxiv.org/abs/2502.04116v1)** | 2025-02-06 |  |
+| **[KAN See In the Dark](http://arxiv.org/abs/2409.03404v2)** | 2025-02-06 |  |
+| **[Harmonious Group Choreography with Trajectory-Controllable Diffusion](http://arxiv.org/abs/2403.06189v4)** | 2025-02-06 |  |
+| **[The Role of Network and Identity in the Diffusion of Hashtags](http://arxiv.org/abs/2407.12771v2)** | 2025-02-06 |  |
+| **[TQ-DiT: Efficient Time-Aware Quantization for Diffusion Transformers](http://arxiv.org/abs/2502.04056v1)** | 2025-02-06 | 8 pages |
+| **[PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models](http://arxiv.org/abs/2502.04050v1)** | 2025-02-06 | <details><summary>Proje...</summary><p>Project page: https://partedit.github.io/PartEdit/</p></details> |
+| **[Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation](http://arxiv.org/abs/2410.08001v3)** | 2025-02-06 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/RoboDual/</p></details> |
+| **[DiTAR: Diffusion Transformer Autoregressive Modeling for Speech Generation](http://arxiv.org/abs/2502.03930v1)** | 2025-02-06 | 16 pages, 8 figures |
 
