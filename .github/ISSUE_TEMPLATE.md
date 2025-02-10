@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 10, 2025
+title: Latest 15 Papers - February 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Measuring Physical Plausibility of 3D Human Poses Using Physics Simulation](http://arxiv.org/abs/2502.04483v1)** | 2025-02-06 | Accepted to BMVC2024 |
 | **[BinaryHPE: 3D Human Pose and Shape Estimation via Binarization](http://arxiv.org/abs/2311.14323v2)** | 2025-02-01 | <details><summary>The c...</summary><p>The code will be available at https://github.com/ZHITENGLI/BiDRN</p></details> |
 | **[Collaboratively Self-supervised Video Representation Learning for Action Recognition](http://arxiv.org/abs/2401.07584v2)** | 2025-01-31 |  |
 | **[XRF V2: A Dataset for Action Summarization with Wi-Fi Signals, and IMUs in Phones, Watches, Earbuds, and Glasses](http://arxiv.org/abs/2501.19034v1)** | 2025-01-31 | <details><summary>27 pa...</summary><p>27 pages, 11 figures, 8 tables</p></details> |
@@ -40,11 +41,14 @@ labels: documentation
 | **[WorldPose: A World Cup Dataset for Global 3D Human Pose Estimation](http://arxiv.org/abs/2501.02771v2)** | 2025-01-20 |  |
 | **[Refinement Module based on Parse Graph of Feature Map for Human Pose Estimation](http://arxiv.org/abs/2501.11069v1)** | 2025-01-19 |  |
 | **[SMPLest-X: Ultimate Scaling for Expressive Human Pose and Shape Estimation](http://arxiv.org/abs/2501.09782v1)** | 2025-01-16 | <details><summary>An ex...</summary><p>An extension of SMPLer-X [arXiv:2309.17448]. Homepage: https://caizhongang.com/projects/SMPLer-X/</p></details> |
-| **[A New Teacher-Reviewer-Student Framework for Semi-supervised 2D Human Pose Estimation](http://arxiv.org/abs/2501.09565v1)** | 2025-01-16 |  |
 
 ## 3d Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting](http://arxiv.org/abs/2502.05176v1)** | 2025-02-07 | <details><summary>Proje...</summary><p>Project page: https://kkennethwu.github.io/aurafusion360/</p></details> |
+| **[Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting](http://arxiv.org/abs/2501.18672v2)** | 2025-02-07 | <details><summary>Visit...</summary><p>Visit our project page at https://quyans.github.io/Drag-Your-Gaussian</p></details> |
+| **[HAC++: Towards 100X Compression of 3D Gaussian Splatting](http://arxiv.org/abs/2501.12255v3)** | 2025-02-07 | <details><summary>Proje...</summary><p>Project Page: https://yihangchen-ee.github.io/project_hac++/ Code: https://github.com/YihangChen-ee/HAC-plus. This paper is a journal extension of HAC at arXiv:2403.14530 (ECCV 2024)</p></details> |
+| **[OccGS: Zero-shot 3D Occupancy Reconstruction with Semantic and Geometric-Aware Gaussian Splatting](http://arxiv.org/abs/2502.04981v1)** | 2025-02-07 |  |
 | **[GP-GS: Gaussian Processes for Enhanced Gaussian Splatting](http://arxiv.org/abs/2502.02283v2)** | 2025-02-05 | 14 pages,11 figures |
 | **[GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM](http://arxiv.org/abs/2502.03228v1)** | 2025-02-05 |  |
 | **[Segment Any 3D Gaussians](http://arxiv.org/abs/2312.00860v3)** | 2025-02-05 | <details><summary>AAAI-...</summary><p>AAAI-25. Project page: https://jumpat.github.io/SAGA</p></details> |
@@ -56,27 +60,23 @@ labels: documentation
 | **[VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion](http://arxiv.org/abs/2502.01536v1)** | 2025-02-03 | <details><summary>Proje...</summary><p>Project Page: https://vr-robo.github.io/</p></details> |
 | **[CityLoc: 6DoF Pose Distributional Localization for Text Descriptions in Large-Scale Scenes with Gaussian Representation](http://arxiv.org/abs/2501.08982v2)** | 2025-02-03 |  |
 | **[CATSplat: Context-Aware Transformer with Spatial Guidance for Generalizable 3D Gaussian Splatting from A Single-View Image](http://arxiv.org/abs/2412.12906v2)** | 2025-02-03 |  |
-| **[Topology-Aware 3D Gaussian Splatting: Leveraging Persistent Homology for Optimized Structural Integrity](http://arxiv.org/abs/2412.16619v3)** | 2025-02-02 |  |
-| **[EmoTalkingGaussian: Continuous Emotion-conditioned Talking Head Synthesis](http://arxiv.org/abs/2502.00654v1)** | 2025-02-02 | 22 pages |
-| **[Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation](http://arxiv.org/abs/2502.00173v1)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted to WACV 2025</p></details> |
-| **[Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping](http://arxiv.org/abs/2501.19319v1)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted by ICRA 2025</p></details> |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features](http://arxiv.org/abs/2502.04320v1)** | 2025-02-06 |  |
-| **[HOG-Diff: Higher-Order Guided Diffusion for Graph Generation](http://arxiv.org/abs/2502.04308v1)** | 2025-02-06 |  |
-| **[MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation](http://arxiv.org/abs/2502.04299v1)** | 2025-02-06 | <details><summary>It is...</summary><p>It is best viewed in Acrobat. Project page: https://motion-canvas25.github.io/</p></details> |
-| **[Statistical guarantees for continuous-time policy evaluation: blessing of ellipticity and new tradeoffs](http://arxiv.org/abs/2502.04297v1)** | 2025-02-06 |  |
-| **[Unpicking Data at the Seams: Understanding Disentanglement in VAEs](http://arxiv.org/abs/2410.22559v4)** | 2025-02-06 |  |
-| **[Numerical moment stabilization of central difference approximations for linear stationary reaction-convection-diffusion equations with applications to stationary Hamilton-Jacobi equations](http://arxiv.org/abs/2502.04142v1)** | 2025-02-06 |  |
-| **[Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis](http://arxiv.org/abs/2502.04128v1)** | 2025-02-06 |  |
-| **[Generative Adversarial Networks Bridging Art and Machine Intelligence](http://arxiv.org/abs/2502.04116v1)** | 2025-02-06 |  |
-| **[KAN See In the Dark](http://arxiv.org/abs/2409.03404v2)** | 2025-02-06 |  |
-| **[Harmonious Group Choreography with Trajectory-Controllable Diffusion](http://arxiv.org/abs/2403.06189v4)** | 2025-02-06 |  |
-| **[The Role of Network and Identity in the Diffusion of Hashtags](http://arxiv.org/abs/2407.12771v2)** | 2025-02-06 |  |
-| **[TQ-DiT: Efficient Time-Aware Quantization for Diffusion Transformers](http://arxiv.org/abs/2502.04056v1)** | 2025-02-06 | 8 pages |
-| **[PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models](http://arxiv.org/abs/2502.04050v1)** | 2025-02-06 | <details><summary>Proje...</summary><p>Project page: https://partedit.github.io/PartEdit/</p></details> |
-| **[Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation](http://arxiv.org/abs/2410.08001v3)** | 2025-02-06 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/RoboDual/</p></details> |
-| **[DiTAR: Diffusion Transformer Autoregressive Modeling for Speech Generation](http://arxiv.org/abs/2502.03930v1)** | 2025-02-06 | 16 pages, 8 figures |
+| **[FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation](http://arxiv.org/abs/2502.05179v1)** | 2025-02-07 | <details><summary>Model...</summary><p>Model and Weight: https://github.com/FoundationVision/FlashVideo</p></details> |
+| **[AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting](http://arxiv.org/abs/2502.05176v1)** | 2025-02-07 | <details><summary>Proje...</summary><p>Project page: https://kkennethwu.github.io/aurafusion360/</p></details> |
+| **[Fillerbuster: Multi-View Scene Completion for Casual Captures](http://arxiv.org/abs/2502.05175v1)** | 2025-02-07 | <details><summary>Proje...</summary><p>Project page at https://ethanweber.me/fillerbuster/</p></details> |
+| **[Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling](http://arxiv.org/abs/2409.02908v4)** | 2025-02-07 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025</p></details> |
+| **[Hummingbird: High Fidelity Image Generation via Multimodal Context Alignment](http://arxiv.org/abs/2502.05153v1)** | 2025-02-07 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025. Project page: https://roar-ai.github.io/hummingbird</p></details> |
+| **[Latent Swap Joint Diffusion for Long-Form Audio Generation](http://arxiv.org/abs/2502.05130v1)** | 2025-02-07 |  |
+| **[Predicting Steady-State Behavior in Complex Networks with Graph Neural Networks](http://arxiv.org/abs/2502.01693v2)** | 2025-02-07 | 13 pages, 7 figures |
+| **[Optimizing the diffusion coefficient of overdamped Langevin dynamics](http://arxiv.org/abs/2404.12087v3)** | 2025-02-07 | 78 pages, 12 figures |
+| **[Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds](http://arxiv.org/abs/2411.18810v3)** | 2025-02-07 |  |
+| **[Beautiful Images, Toxic Words: Understanding and Addressing Offensive Text in Generated Images](http://arxiv.org/abs/2502.05066v1)** | 2025-02-07 |  |
+| **[On modified Euler methods for McKean-Vlasov stochastic differential equations with super-linear coefficients](http://arxiv.org/abs/2502.05057v1)** | 2025-02-07 | 25 pages, 14 figures |
+| **[Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting](http://arxiv.org/abs/2501.18672v2)** | 2025-02-07 | <details><summary>Visit...</summary><p>Visit our project page at https://quyans.github.io/Drag-Your-Gaussian</p></details> |
+| **[Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification](http://arxiv.org/abs/2502.05000v1)** | 2025-02-07 | <details><summary>Accep...</summary><p>Accepted for poster at WWW 2025</p></details> |
+| **[C2GM: Cascading Conditional Generation of Multi-scale Maps from Remote Sensing Images Constrained by Geographic Features](http://arxiv.org/abs/2502.04991v1)** | 2025-02-07 |  |
+| **[State-observation augmented diffusion model for nonlinear assimilation with unknown dynamics](http://arxiv.org/abs/2407.21314v2)** | 2025-02-07 |  |
 
