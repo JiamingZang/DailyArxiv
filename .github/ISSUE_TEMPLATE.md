@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 12, 2025
+title: Latest 15 Papers - February 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,38 +45,38 @@ labels: documentation
 ## 3d Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping](http://arxiv.org/abs/2502.01846v2)** | 2025-02-11 | <details><summary>https...</summary><p>https://aashishrai3799.github.io/uvgs</p></details> |
+| **[Flow Distillation Sampling: Regularizing 3D Gaussians with Pre-trained Matching Priors](http://arxiv.org/abs/2502.07615v1)** | 2025-02-11 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
+| **[EdgeGaussians -- 3D Edge Mapping via Gaussian Splatting](http://arxiv.org/abs/2409.12886v2)** | 2025-02-11 | <details><summary>To ap...</summary><p>To appear in the proceedings of WACV 2025</p></details> |
+| **[HAC++: Towards 100X Compression of 3D Gaussian Splatting](http://arxiv.org/abs/2501.12255v4)** | 2025-02-11 | <details><summary>Proje...</summary><p>Project Page: https://yihangchen-ee.github.io/project_hac++/ Code: https://github.com/YihangChen-ee/HAC-plus. This paper is a journal extension of HAC at arXiv:2403.14530 (ECCV 2024)</p></details> |
+| **[BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis](http://arxiv.org/abs/2411.08508v3)** | 2025-02-11 |  |
+| **[DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation](http://arxiv.org/abs/2407.11394v3)** | 2025-02-11 | ICLR 2025 |
 | **[LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming](http://arxiv.org/abs/2408.14823v2)** | 2025-02-10 | <details><summary>3DV 2...</summary><p>3DV 2025; Project Page: https://yuang-ian.github.io/lapisgs/ ; Code: https://github.com/nus-vv-streams/lapis-gs</p></details> |
 | **[Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting](http://arxiv.org/abs/2403.09981v3)** | 2025-02-09 | 3DV-2025 |
 | **[DEGAS: Detailed Expressions on Full-Body Gaussian Avatars](http://arxiv.org/abs/2408.10588v2)** | 2025-02-08 | 3DV 2025 |
 | **[Neural Surface Priors for Editable Gaussian Splatting](http://arxiv.org/abs/2411.18311v2)** | 2025-02-07 | 9 pages, 7 figures |
 | **[AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting](http://arxiv.org/abs/2502.05176v1)** | 2025-02-07 | <details><summary>Proje...</summary><p>Project page: https://kkennethwu.github.io/aurafusion360/</p></details> |
 | **[Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting](http://arxiv.org/abs/2501.18672v2)** | 2025-02-07 | <details><summary>Visit...</summary><p>Visit our project page at https://quyans.github.io/Drag-Your-Gaussian</p></details> |
-| **[HAC++: Towards 100X Compression of 3D Gaussian Splatting](http://arxiv.org/abs/2501.12255v3)** | 2025-02-07 | <details><summary>Proje...</summary><p>Project Page: https://yihangchen-ee.github.io/project_hac++/ Code: https://github.com/YihangChen-ee/HAC-plus. This paper is a journal extension of HAC at arXiv:2403.14530 (ECCV 2024)</p></details> |
 | **[OccGS: Zero-shot 3D Occupancy Reconstruction with Semantic and Geometric-Aware Gaussian Splatting](http://arxiv.org/abs/2502.04981v1)** | 2025-02-07 |  |
 | **[GP-GS: Gaussian Processes for Enhanced Gaussian Splatting](http://arxiv.org/abs/2502.02283v2)** | 2025-02-05 | 14 pages,11 figures |
 | **[GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM](http://arxiv.org/abs/2502.03228v1)** | 2025-02-05 |  |
-| **[Segment Any 3D Gaussians](http://arxiv.org/abs/2312.00860v3)** | 2025-02-05 | <details><summary>AAAI-...</summary><p>AAAI-25. Project page: https://jumpat.github.io/SAGA</p></details> |
-| **[GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting](http://arxiv.org/abs/2408.11085v3)** | 2025-02-05 | <details><summary>Accep...</summary><p>Accepted to ICLR2025. During the ICLR review process, we changed the name of our framework from GSLoc to GS-CPR (Camera Pose Refinement) according to the comments of reviewers. The project page is available at https://gsloc.active.vision</p></details> |
-| **[GaussNav: Gaussian Splatting for Visual Navigation](http://arxiv.org/abs/2403.11625v3)** | 2025-02-04 | journal |
-| **[LAYOUTDREAMER: Physics-guided Layout for Text-to-3D Compositional Scene Generation](http://arxiv.org/abs/2502.01949v1)** | 2025-02-04 |  |
-| **[UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping](http://arxiv.org/abs/2502.01846v1)** | 2025-02-03 | <details><summary>https...</summary><p>https://aashishrai3799.github.io/uvgs</p></details> |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT](http://arxiv.org/abs/2502.06782v1)** | 2025-02-10 |  |
-| **[Guided and Variance-Corrected Fusion with One-shot Style Alignment for Large-Content Image Generation](http://arxiv.org/abs/2412.12771v2)** | 2025-02-10 |  |
-| **[Grounding Text-to-Image Diffusion Models for Controlled High-Quality Image Generation](http://arxiv.org/abs/2501.09194v2)** | 2025-02-10 |  |
-| **[Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions](http://arxiv.org/abs/2502.06768v1)** | 2025-02-10 |  |
-| **[History-Guided Video Diffusion](http://arxiv.org/abs/2502.06764v1)** | 2025-02-10 | <details><summary>Proje...</summary><p>Project Website: https://boyuan.space/history-guidance</p></details> |
-| **[Neumann eigenmaps for landmark embedding](http://arxiv.org/abs/2502.06689v1)** | 2025-02-10 |  |
-| **[Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene](http://arxiv.org/abs/2502.06682v1)** | 2025-02-10 |  |
-| **[Do generative video models learn physical principles from watching videos?](http://arxiv.org/abs/2501.09038v2)** | 2025-02-10 |  |
-| **[Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification](http://arxiv.org/abs/2502.06619v1)** | 2025-02-10 |  |
-| **[TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models](http://arxiv.org/abs/2502.06608v1)** | 2025-02-10 |  |
-| **[MaterialFusion: High-Quality, Zero-Shot, and Controllable Material Transfer with Diffusion Models](http://arxiv.org/abs/2502.06606v1)** | 2025-02-10 |  |
-| **[Surrogate models for diffusion on graphs via sparse polynomials](http://arxiv.org/abs/2502.06595v1)** | 2025-02-10 |  |
-| **[A Large-scale AI-generated Image Inpainting Benchmark](http://arxiv.org/abs/2502.06593v1)** | 2025-02-10 |  |
-| **[Predictive Red Teaming: Breaking Policies Without Breaking Robots](http://arxiv.org/abs/2502.06575v1)** | 2025-02-10 |  |
-| **[Diffusion Models for Computational Neuroimaging: A Survey](http://arxiv.org/abs/2502.06552v1)** | 2025-02-10 | 9 pages, 1 figure |
+| **[MatSwap: Light-aware material transfers in images](http://arxiv.org/abs/2502.07784v1)** | 2025-02-11 |  |
+| **[Pippo: High-Resolution Multi-View Humans from a Single Image](http://arxiv.org/abs/2502.07785v1)** | 2025-02-11 | <details><summary>Proje...</summary><p>Project Page - http://yashkant.github.io/pippo</p></details> |
+| **[UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping](http://arxiv.org/abs/2502.01846v2)** | 2025-02-11 | <details><summary>https...</summary><p>https://aashishrai3799.github.io/uvgs</p></details> |
+| **[CausalGeD: Blending Causality and Diffusion for Spatial Gene Expression Generation](http://arxiv.org/abs/2502.07751v1)** | 2025-02-11 |  |
+| **[A BDDC Preconditioner for the Cardiac EMI Model in three Dimensions](http://arxiv.org/abs/2502.07722v1)** | 2025-02-11 |  |
+| **[pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized Federated Learning](http://arxiv.org/abs/2409.05701v3)** | 2025-02-11 |  |
+| **[RenderBox: Expressive Performance Rendering with Text Control](http://arxiv.org/abs/2502.07711v1)** | 2025-02-11 |  |
+| **[Magic 1-For-1: Generating One Minute Video Clips within One Minute](http://arxiv.org/abs/2502.07701v1)** | 2025-02-11 |  |
+| **[Matrix3D: Large Photogrammetry Model All-in-One](http://arxiv.org/abs/2502.07685v1)** | 2025-02-11 | <details><summary>Proje...</summary><p>Project Page: https://nju-3dv.github.io/projects/matrix3d</p></details> |
+| **[Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models](http://arxiv.org/abs/2406.12042v3)** | 2025-02-11 |  |
+| **[Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data](http://arxiv.org/abs/2406.03736v3)** | 2025-02-11 |  |
+| **[Consistency Training with Physical Constraints](http://arxiv.org/abs/2502.07636v1)** | 2025-02-11 |  |
+| **[Tractable Transformers for Flexible Conditional Generation](http://arxiv.org/abs/2502.07616v1)** | 2025-02-11 |  |
+| **[DSV: Exploiting Dynamic Sparsity to Accelerate Large-Scale Video DiT Training](http://arxiv.org/abs/2502.07590v1)** | 2025-02-11 |  |
+| **[Efficient Image-to-Image Diffusion Classifier for Adversarial Robustness](http://arxiv.org/abs/2408.08502v2)** | 2025-02-11 |  |
 
