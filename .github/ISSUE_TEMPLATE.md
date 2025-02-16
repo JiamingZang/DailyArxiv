@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 14, 2025
+title: Latest 15 Papers - February 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Metamorphic Testing for Pose Estimation Systems](http://arxiv.org/abs/2502.09460v1)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted for publication at 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)</p></details> |
+| **[Boosting Semi-Supervised 2D Human Pose Estimation by Revisiting Data Augmentation and Consistency Training](http://arxiv.org/abs/2402.11566v3)** | 2025-02-13 | <details><summary>under...</summary><p>under review. Semi-Supervised 2D Human Pose Estimation</p></details> |
 | **[Human Arm Pose Estimation with a Shoulder-worn Force-Myography Device for Human-Robot Interaction](http://arxiv.org/abs/2411.07644v2)** | 2025-02-09 |  |
 | **[Measuring Physical Plausibility of 3D Human Poses Using Physics Simulation](http://arxiv.org/abs/2502.04483v1)** | 2025-02-06 | Accepted to BMVC2024 |
 | **[BinaryHPE: 3D Human Pose and Shape Estimation via Binarization](http://arxiv.org/abs/2311.14323v2)** | 2025-02-01 | <details><summary>The c...</summary><p>The code will be available at https://github.com/ZHITENGLI/BiDRN</p></details> |
@@ -39,12 +41,12 @@ labels: documentation
 | **[Causal-Inspired Multitask Learning for Video-Based Human Pose Estimation](http://arxiv.org/abs/2501.14356v1)** | 2025-01-24 | 9 pages, 3 figures |
 | **[BlanketGen2-Fit3D: Synthetic Blanket Augmentation Towards Improving Real-World In-Bed Blanket Occluded Human Pose Estimation](http://arxiv.org/abs/2501.12318v1)** | 2025-01-21 | 11 pages, 7 figures |
 | **[Towards Robust and Realistic Human Pose Estimation via WiFi Signals](http://arxiv.org/abs/2501.09411v2)** | 2025-01-21 | 12 pages, 9 figures |
-| **[WorldPose: A World Cup Dataset for Global 3D Human Pose Estimation](http://arxiv.org/abs/2501.02771v2)** | 2025-01-20 |  |
-| **[Refinement Module based on Parse Graph of Feature Map for Human Pose Estimation](http://arxiv.org/abs/2501.11069v1)** | 2025-01-19 |  |
 
 ## 3d Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[4-LEGS: 4D Language Embedded Gaussian Splatting](http://arxiv.org/abs/2410.10719v3)** | 2025-02-13 | <details><summary>Eurog...</summary><p>Eurographics 2025. Project webpage: https://tau-vailab.github.io/4-LEGS/</p></details> |
+| **[RenderWorld: World Model with Self-Supervised 3D Label](http://arxiv.org/abs/2409.11356v2)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted in 2025 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
 | **[3D Gaussian Splatting as Markov Chain Monte Carlo](http://arxiv.org/abs/2404.09591v3)** | 2025-02-12 |  |
 | **[WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting](http://arxiv.org/abs/2412.18862v3)** | 2025-02-12 |  |
 | **[Interactive Holographic Visualization for 3D Facial Avatar](http://arxiv.org/abs/2502.08085v1)** | 2025-02-12 |  |
@@ -58,25 +60,23 @@ labels: documentation
 | **[LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming](http://arxiv.org/abs/2408.14823v2)** | 2025-02-10 | <details><summary>3DV 2...</summary><p>3DV 2025; Project Page: https://yuang-ian.github.io/lapisgs/ ; Code: https://github.com/nus-vv-streams/lapis-gs</p></details> |
 | **[Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting](http://arxiv.org/abs/2403.09981v3)** | 2025-02-09 | 3DV-2025 |
 | **[DEGAS: Detailed Expressions on Full-Body Gaussian Avatars](http://arxiv.org/abs/2408.10588v2)** | 2025-02-08 | 3DV 2025 |
-| **[Neural Surface Priors for Editable Gaussian Splatting](http://arxiv.org/abs/2411.18311v2)** | 2025-02-07 | 9 pages, 7 figures |
-| **[AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting](http://arxiv.org/abs/2502.05176v1)** | 2025-02-07 | <details><summary>Proje...</summary><p>Project page: https://kkennethwu.github.io/aurafusion360/</p></details> |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation](http://arxiv.org/abs/2502.08642v1)** | 2025-02-12 | <details><summary>https...</summary><p>https://swiftsketch.github.io/</p></details> |
-| **[CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](http://arxiv.org/abs/2502.08639v1)** | 2025-02-12 |  |
-| **[A provably stable numerical method for the anisotropic diffusion equation in confined magnetic fields](http://arxiv.org/abs/2306.00423v4)** | 2025-02-12 | 30 pages, 11 figures |
-| **[Enhancing Diffusion Models Efficiency by Disentangling Total-Variance and Signal-to-Noise Ratio](http://arxiv.org/abs/2502.08598v1)** | 2025-02-12 |  |
-| **[Light-A-Video: Training-free Video Relighting via Progressive Light Fusion](http://arxiv.org/abs/2502.08590v1)** | 2025-02-12 | <details><summary>Proje...</summary><p>Project Page: https://bujiazi.github.io/light-a-video.github.io/</p></details> |
-| **[Ultrasound Image Generation using Latent Diffusion Models](http://arxiv.org/abs/2502.08580v1)** | 2025-02-12 | <details><summary>6 pag...</summary><p>6 pages conference paper for SPIE medical imaging</p></details> |
-| **[Mapping the Landscape of Generative AI in Network Monitoring and Management](http://arxiv.org/abs/2502.08576v1)** | 2025-02-12 | <details><summary>32 pa...</summary><p>32 pages, 9 figure, 10 tables</p></details> |
-| **[Brain Latent Progression: Individual-based Spatiotemporal Disease Progression on 3D Brain MRIs via Latent Diffusion](http://arxiv.org/abs/2502.08560v1)** | 2025-02-12 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2405.03328</p></details> |
-| **[BCDDM: Branch-Corrected Denoising Diffusion Model for Black Hole Image Generation](http://arxiv.org/abs/2502.08528v1)** | 2025-02-12 |  |
-| **[One-Shot Federated Learning with Classifier-Free Diffusion Models](http://arxiv.org/abs/2502.08488v1)** | 2025-02-12 |  |
-| **[Learning to Group and Grasp Multiple Objects](http://arxiv.org/abs/2502.08452v1)** | 2025-02-12 |  |
-| **[GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation](http://arxiv.org/abs/2409.20154v4)** | 2025-02-12 | <details><summary>ICLR ...</summary><p>ICLR 2025. The first two authors contributed equally</p></details> |
-| **[X-Diffusion: Generating Detailed 3D MRI Volumes From a Single Image Using Cross-Sectional Diffusion Models](http://arxiv.org/abs/2404.19604v2)** | 2025-02-12 | <details><summary>prepr...</summary><p>preprint, project website: https://emmanuelleb985.github.io/XDiffusion/</p></details> |
-| **[Poincaré Inequality for Local Log-Polyak-Lojasiewicz Measures : Non-asymptotic Analysis in Low-temperature Regime](http://arxiv.org/abs/2502.06862v2)** | 2025-02-12 | <details><summary>This ...</summary><p>This is a replacement version of arXiv:2501.00429</p></details> |
-| **[A Survey on Pre-Trained Diffusion Model Distillations](http://arxiv.org/abs/2502.08364v1)** | 2025-02-12 |  |
+| **[Theoretical Benefit and Limitation of Diffusion Language Model](http://arxiv.org/abs/2502.09622v1)** | 2025-02-13 | 32 pages, 3 figures |
+| **[RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets](http://arxiv.org/abs/2502.09615v1)** | 2025-02-13 | <details><summary>Proje...</summary><p>Project page: https://www.liuisabella.com/RigAnything</p></details> |
+| **[Score-of-Mixture Training: Training One-Step Generative Models Made Simple](http://arxiv.org/abs/2502.09609v1)** | 2025-02-13 | 27 pages, 9 figures |
+| **[Rolling Ahead Diffusion for Traffic Scene Simulation](http://arxiv.org/abs/2502.09587v1)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted to Workshop on Machine Learning for Autonomous Driving at AAAI 2025</p></details> |
+| **[DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra](http://arxiv.org/abs/2502.09571v1)** | 2025-02-13 | Preprint |
+| **[Diffusing DeBias: a Recipe for Turning a Bug into a Feature](http://arxiv.org/abs/2502.09564v1)** | 2025-02-13 | 29 Pages, 12 Figures |
+| **[Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model](http://arxiv.org/abs/2502.09533v1)** | 2025-02-13 |  |
+| **[Diffusion Models for Molecules: A Survey of Methods and Tasks](http://arxiv.org/abs/2502.09511v1)** | 2025-02-13 |  |
+| **[Port-Hamiltonian Architectural Bias for Long-Range Propagation in Deep Graph Networks](http://arxiv.org/abs/2405.17163v2)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025 (https://openreview.net/forum?id=03EkqSCKuO)</p></details> |
+| **[A Bias-Correction Decentralized Stochastic Gradient Algorithm with Momentum Acceleration](http://arxiv.org/abs/2501.19082v2)** | 2025-02-13 |  |
+| **[Redistribute Ensemble Training for Mitigating Memorization in Diffusion Models](http://arxiv.org/abs/2502.09434v1)** | 2025-02-13 | <details><summary>12 pa...</summary><p>12 pages,9 figures. arXiv admin note: substantial text overlap with arXiv:2407.15328</p></details> |
+| **[Multicontinuum Modeling of Time-Fractional Diffusion-Wave Equation in Heterogeneous Media](http://arxiv.org/abs/2502.09428v1)** | 2025-02-13 |  |
+| **[ADBM: Adversarial diffusion bridge model for reliable adversarial purification](http://arxiv.org/abs/2408.00315v3)** | 2025-02-13 | ICLR 2025 |
+| **[Diffusion Transformer Policy: Scaling Diffusion Transformer for Generalist Vision-Language-Action Learning](http://arxiv.org/abs/2410.15959v3)** | 2025-02-13 | Preprint |
+| **[ImageRAG: Dynamic Image Retrieval for Reference-Guided Image Generation](http://arxiv.org/abs/2502.09411v1)** | 2025-02-13 |  |
 
