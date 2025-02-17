@@ -1,8 +1,8 @@
 ---
-title: Latest 15 Papers - February 17, 2025
+title: Latest 15 Papers - February 18, 2025
 labels: documentation
 ---
-**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
+**Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
 
 ## 6d Object Pose Estimation
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Theoretical Benefit and Limitation of Diffusion Language Model](http://arxiv.org/abs/2502.09622v1)** | 2025-02-13 | 32 pages, 3 figures |
-| **[RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets](http://arxiv.org/abs/2502.09615v1)** | 2025-02-13 | <details><summary>Proje...</summary><p>Project page: https://www.liuisabella.com/RigAnything</p></details> |
-| **[Score-of-Mixture Training: Training One-Step Generative Models Made Simple](http://arxiv.org/abs/2502.09609v1)** | 2025-02-13 | 27 pages, 9 figures |
-| **[Rolling Ahead Diffusion for Traffic Scene Simulation](http://arxiv.org/abs/2502.09587v1)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted to Workshop on Machine Learning for Autonomous Driving at AAAI 2025</p></details> |
-| **[DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra](http://arxiv.org/abs/2502.09571v1)** | 2025-02-13 | Preprint |
-| **[Diffusing DeBias: a Recipe for Turning a Bug into a Feature](http://arxiv.org/abs/2502.09564v1)** | 2025-02-13 | 29 Pages, 12 Figures |
-| **[Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model](http://arxiv.org/abs/2502.09533v1)** | 2025-02-13 |  |
-| **[Diffusion Models for Molecules: A Survey of Methods and Tasks](http://arxiv.org/abs/2502.09511v1)** | 2025-02-13 |  |
-| **[Port-Hamiltonian Architectural Bias for Long-Range Propagation in Deep Graph Networks](http://arxiv.org/abs/2405.17163v2)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025 (https://openreview.net/forum?id=03EkqSCKuO)</p></details> |
-| **[A Bias-Correction Decentralized Stochastic Gradient Algorithm with Momentum Acceleration](http://arxiv.org/abs/2501.19082v2)** | 2025-02-13 |  |
-| **[Redistribute Ensemble Training for Mitigating Memorization in Diffusion Models](http://arxiv.org/abs/2502.09434v1)** | 2025-02-13 | <details><summary>12 pa...</summary><p>12 pages,9 figures. arXiv admin note: substantial text overlap with arXiv:2407.15328</p></details> |
-| **[Multicontinuum Modeling of Time-Fractional Diffusion-Wave Equation in Heterogeneous Media](http://arxiv.org/abs/2502.09428v1)** | 2025-02-13 |  |
-| **[ADBM: Adversarial diffusion bridge model for reliable adversarial purification](http://arxiv.org/abs/2408.00315v3)** | 2025-02-13 | ICLR 2025 |
-| **[Diffusion Transformer Policy: Scaling Diffusion Transformer for Generalist Vision-Language-Action Learning](http://arxiv.org/abs/2410.15959v3)** | 2025-02-13 | Preprint |
-| **[ImageRAG: Dynamic Image Retrieval for Reference-Guided Image Generation](http://arxiv.org/abs/2502.09411v1)** | 2025-02-13 |  |
+| **[Region-Adaptive Sampling for Diffusion Transformers](http://arxiv.org/abs/2502.10389v1)** | 2025-02-14 |  |
+| **[ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](http://arxiv.org/abs/2502.10377v1)** | 2025-02-14 | <details><summary>Proje...</summary><p>Project page: https://restyle3d.github.io/</p></details> |
+| **[Dimension-free Score Matching and Time Bootstrapping for Diffusion Models](http://arxiv.org/abs/2502.10354v1)** | 2025-02-14 |  |
+| **[Magic 1-For-1: Generating One Minute Video Clips within One Minute](http://arxiv.org/abs/2502.07701v2)** | 2025-02-14 | <details><summary>Serio...</summary><p>Serious modification needed.</p></details> |
+| **[DiOpt: Self-supervised Diffusion for Constrained Optimization](http://arxiv.org/abs/2502.10330v1)** | 2025-02-14 |  |
+| **[Generalised Parallel Tempering: Flexible Replica Exchange via Flows and Diffusions](http://arxiv.org/abs/2502.10328v1)** | 2025-02-14 |  |
+| **[The Devil is in the Prompts: De-Identification Traces Enhance Memorization Risks in Synthetic Chest X-Ray Generation](http://arxiv.org/abs/2502.07516v2)** | 2025-02-14 |  |
+| **[Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model](http://arxiv.org/abs/2502.10248v1)** | 2025-02-14 | 35 pages, 14 figures |
+| **[Shaping Inductive Bias in Diffusion Models through Frequency-Based Noise Control](http://arxiv.org/abs/2502.10236v1)** | 2025-02-14 |  |
+| **[Performance and Robustness of Signal-Dependent vs. Signal-Independent Binaural Signal Matching with Wearable Microphone Arrays](http://arxiv.org/abs/2409.11731v3)** | 2025-02-14 |  |
+| **[The shape of the brain's connections is predictive of cognitive performance: an explainable machine learning study](http://arxiv.org/abs/2410.15108v2)** | 2025-02-14 | <details><summary>This ...</summary><p>This work has been accepted by Human Brain Mapping for publication</p></details> |
+| **[TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds](http://arxiv.org/abs/2410.22099v4)** | 2025-02-14 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 4 tables. This work has been accepted to 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)</p></details> |
+| **[FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion](http://arxiv.org/abs/2502.05606v2)** | 2025-02-14 | <details><summary>Webpa...</summary><p>Webpage: https://petershen-csworld.github.io/FreeBlend. -- updated</p></details> |
+| **[Agentic End-to-End De Novo Protein Design for Tailored Dynamics Using a Language Diffusion Model](http://arxiv.org/abs/2502.10173v1)** | 2025-02-14 |  |
+| **[High-order finite element methods for three-dimensional multicomponent convection-diffusion](http://arxiv.org/abs/2408.17390v2)** | 2025-02-14 |  |
 
