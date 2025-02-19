@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 19, 2025
+title: Latest 15 Papers - February 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,11 +26,12 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VarGes: Improving Variation in Co-Speech 3D Gesture Generation via StyleCLIPS](http://arxiv.org/abs/2502.10729v2)** | 2025-02-18 |  |
+| **[Spatiotemporal Multi-Camera Calibration using Freely Moving People](http://arxiv.org/abs/2502.12546v1)** | 2025-02-18 | 8 pages, 4 figures |
 | **[X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing](http://arxiv.org/abs/2410.10167v3)** | 2025-02-17 |  |
 | **[SurgPose: a Dataset for Articulated Robotic Surgical Tool Pose Estimation and Tracking](http://arxiv.org/abs/2502.11534v1)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted by ICRA 2025</p></details> |
 | **[Refinement Module based on Parse Graph of Feature Map for Human Pose Estimation](http://arxiv.org/abs/2501.11069v2)** | 2025-02-16 |  |
 | **[CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models](http://arxiv.org/abs/2407.15886v2)** | 2025-02-16 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
-| **[VarGes: Improving Variation in Co-Speech 3D Gesture Generation via StyleCLIPS](http://arxiv.org/abs/2502.10729v1)** | 2025-02-15 |  |
 | **[Semantics-aware Test-time Adaptation for 3D Human Pose Estimation](http://arxiv.org/abs/2502.10724v1)** | 2025-02-15 | 10 pages, 4 figures |
 | **[Learning semantical dynamics and spatiotemporal collaboration for human pose estimation in video](http://arxiv.org/abs/2502.10616v1)** | 2025-02-15 |  |
 | **[Metamorphic Testing for Pose Estimation Systems](http://arxiv.org/abs/2502.09460v1)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted for publication at 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)</p></details> |
@@ -40,11 +41,12 @@ labels: documentation
 | **[BinaryHPE: 3D Human Pose and Shape Estimation via Binarization](http://arxiv.org/abs/2311.14323v2)** | 2025-02-01 | <details><summary>The c...</summary><p>The code will be available at https://github.com/ZHITENGLI/BiDRN</p></details> |
 | **[Collaboratively Self-supervised Video Representation Learning for Action Recognition](http://arxiv.org/abs/2401.07584v2)** | 2025-01-31 |  |
 | **[XRF V2: A Dataset for Action Summarization with Wi-Fi Signals, and IMUs in Phones, Watches, Earbuds, and Glasses](http://arxiv.org/abs/2501.19034v1)** | 2025-01-31 | <details><summary>27 pa...</summary><p>27 pages, 11 figures, 8 tables</p></details> |
-| **[SimpleDepthPose: Fast and Reliable Human Pose Estimation with RGBD-Images](http://arxiv.org/abs/2501.18478v1)** | 2025-01-30 |  |
 
 ## 3d Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM](http://arxiv.org/abs/2502.03228v2)** | 2025-02-18 | <details><summary>The p...</summary><p>The paper was accepted by ICRA 2025</p></details> |
+| **[PUGS: Zero-shot Physical Understanding with Gaussian Splatting](http://arxiv.org/abs/2502.12231v1)** | 2025-02-17 | <details><summary>ICRA ...</summary><p>ICRA 2025, Project page: https://evernorif.github.io/PUGS/</p></details> |
 | **[3D Gaussian Inpainting with Depth-Guided Cross-View Consistency](http://arxiv.org/abs/2502.11801v1)** | 2025-02-17 |  |
 | **[Exploring the Versal AI Engine for 3D Gaussian Splatting](http://arxiv.org/abs/2502.11782v1)** | 2025-02-17 |  |
 | **[GaussianMotion: End-to-End Learning of Animatable Gaussian Avatars with Pose Guidance from Text](http://arxiv.org/abs/2502.11642v1)** | 2025-02-17 | 8 pages |
@@ -58,25 +60,23 @@ labels: documentation
 | **[RenderWorld: World Model with Self-Supervised 3D Label](http://arxiv.org/abs/2409.11356v2)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted in 2025 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
 | **[3D Gaussian Splatting as Markov Chain Monte Carlo](http://arxiv.org/abs/2404.09591v3)** | 2025-02-12 |  |
 | **[WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting](http://arxiv.org/abs/2412.18862v3)** | 2025-02-12 |  |
-| **[Interactive Holographic Visualization for 3D Facial Avatar](http://arxiv.org/abs/2502.08085v1)** | 2025-02-12 |  |
-| **[UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping](http://arxiv.org/abs/2502.01846v2)** | 2025-02-11 | <details><summary>https...</summary><p>https://aashishrai3799.github.io/uvgs</p></details> |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diffusion Models without Classifier-free Guidance](http://arxiv.org/abs/2502.12154v1)** | 2025-02-17 |  |
-| **[Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening](http://arxiv.org/abs/2502.12146v1)** | 2025-02-17 | <details><summary>Code:...</summary><p>Code: https://github.com/Gen-Verse/Diffusion-Sharpening</p></details> |
-| **[MagicArticulate: Make Your 3D Models Articulation-Ready](http://arxiv.org/abs/2502.12135v1)** | 2025-02-17 |  |
-| **[How compositional generalization and creativity improve as diffusion models are trained](http://arxiv.org/abs/2502.12089v1)** | 2025-02-17 |  |
-| **[HumanGif: Single-View Human Diffusion with Generative Prior](http://arxiv.org/abs/2502.12080v1)** | 2025-02-17 | <details><summary>Proje...</summary><p>Project page: https://skhu101.github.io/HumanGif/</p></details> |
-| **[DiTTo-TTS: Diffusion Transformers for Scalable Text-to-Speech without Domain-Specific Factors](http://arxiv.org/abs/2406.11427v2)** | 2025-02-17 |  |
-| **[A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond](http://arxiv.org/abs/2502.12048v1)** | 2025-02-17 |  |
-| **[ConsistentDreamer: View-Consistent Meshes Through Balanced Multi-View Gaussian Optimization](http://arxiv.org/abs/2502.09278v2)** | 2025-02-17 | <details><summary>Manus...</summary><p>Manuscript accepted by Pattern Recognition Letters</p></details> |
-| **[Characterizing Photorealism and Artifacts in Diffusion Model-Generated Images](http://arxiv.org/abs/2502.11989v1)** | 2025-02-17 | <details><summary>26 pa...</summary><p>26 pages, 24 Figures, Accepted by ACM CHI 2025</p></details> |
-| **[Image Inversion: A Survey from GANs to Diffusion and Beyond](http://arxiv.org/abs/2502.11974v1)** | 2025-02-17 | 10 pages, 2 figures |
-| **[Path Planning for Masked Diffusion Model Sampling](http://arxiv.org/abs/2502.03540v3)** | 2025-02-17 |  |
-| **[Efficient Domain Augmentation for Autonomous Driving Testing Using Diffusion Models](http://arxiv.org/abs/2409.13661v3)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted for publication at the 47th International Conference on Software Engineering (ICSE 2025). This research was partially supported by project EMELIOT, funded by MUR under the PRIN 2020 program (n. 2020W3A5FY), by the Bavarian Ministry of Economic Affairs, Regional Development and Energy, by the TUM Global Incentive Fund, and by the EU Project Sec4AI4Sec (n. 101120393)</p></details> |
-| **[Debiasing Guidance for Discrete Diffusion with Sequential Monte Carlo](http://arxiv.org/abs/2502.06079v2)** | 2025-02-17 | 29 pages, 14 figures |
-| **[Neural Guided Diffusion Bridges](http://arxiv.org/abs/2502.11909v1)** | 2025-02-17 |  |
-| **[Approximating a spatially-heterogeneously mass-emitting object by multiple point sources in a diffusion model](http://arxiv.org/abs/2502.11908v1)** | 2025-02-17 |  |
+| **[AV-Flow: Transforming Text to Audio-Visual Human-like Interactions](http://arxiv.org/abs/2502.13133v1)** | 2025-02-18 |  |
+| **[Is Noise Conditioning Necessary for Denoising Generative Models?](http://arxiv.org/abs/2502.13129v1)** | 2025-02-18 |  |
+| **[STAR: Scale-wise Text-conditioned AutoRegressive image generation](http://arxiv.org/abs/2406.10797v3)** | 2025-02-18 | 16 pages |
+| **[Score Matching Riemannian Diffusion Means](http://arxiv.org/abs/2502.13106v1)** | 2025-02-18 |  |
+| **[Media Slant is Contagious](http://arxiv.org/abs/2202.07269v4)** | 2025-02-18 |  |
+| **[Personalized Image Generation with Deep Generative Models: A Decade Survey](http://arxiv.org/abs/2502.13081v1)** | 2025-02-18 | <details><summary>39 pa...</summary><p>39 pages; under submission; more information: https://github.com/csyxwei/Awesome-Personalized-Image-Generation</p></details> |
+| **[Large Language Diffusion Models](http://arxiv.org/abs/2502.09992v2)** | 2025-02-18 |  |
+| **[Does Training with Synthetic Data Truly Protect Privacy?](http://arxiv.org/abs/2502.12976v1)** | 2025-02-18 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
+| **[Guaranteed Conditional Diffusion: 3D Block-based Models for Scientific Data Compression](http://arxiv.org/abs/2502.12951v1)** | 2025-02-18 |  |
+| **[LGDE: Local Graph-based Dictionary Expansion](http://arxiv.org/abs/2405.07764v3)** | 2025-02-18 | <details><summary>Pytho...</summary><p>Python code available at: https://github.com/barahona-research-group/LGDE</p></details> |
+| **[Don't drop your samples! Coherence-aware training benefits Conditional diffusion](http://arxiv.org/abs/2405.20324v2)** | 2025-02-18 | <details><summary>Accep...</summary><p>Accepted at CVPR 2024 as a Highlight. Project page: https://nicolas-dufour.github.io/cad.html</p></details> |
+| **[RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models](http://arxiv.org/abs/2502.12794v1)** | 2025-02-18 | <details><summary>Publi...</summary><p>Published in ICLR 2025</p></details> |
+| **[Composition and Control with Distilled Energy Diffusion Models and Sequential Monte Carlo](http://arxiv.org/abs/2502.12786v1)** | 2025-02-18 | <details><summary>Initi...</summary><p>Initial submission to openreview on October 3, 2024 (https://openreview.net/forum?id=6GyX0YRw8P); accepted to AISTATS 2025</p></details> |
+| **[High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion](http://arxiv.org/abs/2502.12752v1)** | 2025-02-18 |  |
+| **[3D Shape-to-Image Brownian Bridge Diffusion for Brain MRI Synthesis from Cortical Surfaces](http://arxiv.org/abs/2502.12742v1)** | 2025-02-18 | <details><summary>Accep...</summary><p>Accepted by Information Processing in Medical Imaging (IPMI) 2025</p></details> |
 
