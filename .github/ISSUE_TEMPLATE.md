@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 20, 2025
+title: Latest 15 Papers - February 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -45,6 +45,9 @@ labels: documentation
 ## 3d Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments](http://arxiv.org/abs/2502.13803v1)** | 2025-02-19 |  |
+| **[Hybrid Explicit Representation for Ultra-Realistic Head Avatars](http://arxiv.org/abs/2403.11453v2)** | 2025-02-19 | 16 pages |
+| **[WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting](http://arxiv.org/abs/2412.04832v2)** | 2025-02-19 | <details><summary>accep...</summary><p>accepted to the IEEE International Conference on Computer Communications (INFOCOM 2025)</p></details> |
 | **[GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM](http://arxiv.org/abs/2502.03228v2)** | 2025-02-18 | <details><summary>The p...</summary><p>The paper was accepted by ICRA 2025</p></details> |
 | **[PUGS: Zero-shot Physical Understanding with Gaussian Splatting](http://arxiv.org/abs/2502.12231v1)** | 2025-02-17 | <details><summary>ICRA ...</summary><p>ICRA 2025, Project page: https://evernorif.github.io/PUGS/</p></details> |
 | **[3D Gaussian Inpainting with Depth-Guided Cross-View Consistency](http://arxiv.org/abs/2502.11801v1)** | 2025-02-17 |  |
@@ -57,26 +60,23 @@ labels: documentation
 | **[GaussianSpa: An "Optimizing-Sparsifying" Simplification Framework for Compact and High-Quality 3D Gaussian Splatting](http://arxiv.org/abs/2411.06019v2)** | 2025-02-15 | <details><summary>Proje...</summary><p>Project page at https://noodle-lab.github.io/gaussianspa/</p></details> |
 | **[X-SG$^2$S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks](http://arxiv.org/abs/2502.10475v1)** | 2025-02-13 |  |
 | **[4-LEGS: 4D Language Embedded Gaussian Splatting](http://arxiv.org/abs/2410.10719v3)** | 2025-02-13 | <details><summary>Eurog...</summary><p>Eurographics 2025. Project webpage: https://tau-vailab.github.io/4-LEGS/</p></details> |
-| **[RenderWorld: World Model with Self-Supervised 3D Label](http://arxiv.org/abs/2409.11356v2)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted in 2025 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
-| **[3D Gaussian Splatting as Markov Chain Monte Carlo](http://arxiv.org/abs/2404.09591v3)** | 2025-02-12 |  |
-| **[WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting](http://arxiv.org/abs/2412.18862v3)** | 2025-02-12 |  |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AV-Flow: Transforming Text to Audio-Visual Human-like Interactions](http://arxiv.org/abs/2502.13133v1)** | 2025-02-18 |  |
-| **[Is Noise Conditioning Necessary for Denoising Generative Models?](http://arxiv.org/abs/2502.13129v1)** | 2025-02-18 |  |
-| **[STAR: Scale-wise Text-conditioned AutoRegressive image generation](http://arxiv.org/abs/2406.10797v3)** | 2025-02-18 | 16 pages |
-| **[Score Matching Riemannian Diffusion Means](http://arxiv.org/abs/2502.13106v1)** | 2025-02-18 |  |
-| **[Media Slant is Contagious](http://arxiv.org/abs/2202.07269v4)** | 2025-02-18 |  |
-| **[Personalized Image Generation with Deep Generative Models: A Decade Survey](http://arxiv.org/abs/2502.13081v1)** | 2025-02-18 | <details><summary>39 pa...</summary><p>39 pages; under submission; more information: https://github.com/csyxwei/Awesome-Personalized-Image-Generation</p></details> |
-| **[Large Language Diffusion Models](http://arxiv.org/abs/2502.09992v2)** | 2025-02-18 |  |
-| **[Does Training with Synthetic Data Truly Protect Privacy?](http://arxiv.org/abs/2502.12976v1)** | 2025-02-18 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
-| **[Guaranteed Conditional Diffusion: 3D Block-based Models for Scientific Data Compression](http://arxiv.org/abs/2502.12951v1)** | 2025-02-18 |  |
-| **[LGDE: Local Graph-based Dictionary Expansion](http://arxiv.org/abs/2405.07764v3)** | 2025-02-18 | <details><summary>Pytho...</summary><p>Python code available at: https://github.com/barahona-research-group/LGDE</p></details> |
-| **[Don't drop your samples! Coherence-aware training benefits Conditional diffusion](http://arxiv.org/abs/2405.20324v2)** | 2025-02-18 | <details><summary>Accep...</summary><p>Accepted at CVPR 2024 as a Highlight. Project page: https://nicolas-dufour.github.io/cad.html</p></details> |
-| **[RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models](http://arxiv.org/abs/2502.12794v1)** | 2025-02-18 | <details><summary>Publi...</summary><p>Published in ICLR 2025</p></details> |
-| **[Composition and Control with Distilled Energy Diffusion Models and Sequential Monte Carlo](http://arxiv.org/abs/2502.12786v1)** | 2025-02-18 | <details><summary>Initi...</summary><p>Initial submission to openreview on October 3, 2024 (https://openreview.net/forum?id=6GyX0YRw8P); accepted to AISTATS 2025</p></details> |
-| **[High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion](http://arxiv.org/abs/2502.12752v1)** | 2025-02-18 |  |
-| **[3D Shape-to-Image Brownian Bridge Diffusion for Brain MRI Synthesis from Cortical Surfaces](http://arxiv.org/abs/2502.12742v1)** | 2025-02-18 | <details><summary>Accep...</summary><p>Accepted by Information Processing in Medical Imaging (IPMI) 2025</p></details> |
+| **[IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360$^\circ$ Cameras](http://arxiv.org/abs/2502.12545v2)** | 2025-02-19 |  |
+| **[IP-Composer: Semantic Composition of Visual Concepts](http://arxiv.org/abs/2502.13951v1)** | 2025-02-19 | <details><summary>Proje...</summary><p>Project Page: https://ip-composer.github.io/IP-Composer/</p></details> |
+| **[High-Quality 3D Creation from A Single Image Using Subject-Specific Knowledge Prior](http://arxiv.org/abs/2312.11535v3)** | 2025-02-19 | <details><summary>ICRA2...</summary><p>ICRA2025, Project Page: https://nnanhuang.github.io/projects/customize-it-3d/</p></details> |
+| **[Image compositing is all you need for data augmentation](http://arxiv.org/abs/2502.13936v1)** | 2025-02-19 | <details><summary>Accep...</summary><p>Accepted in VISAPP 2025</p></details> |
+| **[Improving Probabilistic Diffusion Models With Optimal Diagonal Covariance Matching](http://arxiv.org/abs/2406.10808v4)** | 2025-02-19 |  |
+| **[TESS 2: A Large-Scale Generalist Diffusion Language Model](http://arxiv.org/abs/2502.13917v1)** | 2025-02-19 | preprint |
+| **[NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants](http://arxiv.org/abs/2502.13894v1)** | 2025-02-19 | Accepted to ICRA2025 |
+| **[EC-DIT: Scaling Diffusion Transformers with Adaptive Expert-Choice Routing](http://arxiv.org/abs/2410.02098v4)** | 2025-02-19 |  |
+| **[PoGDiff: Product-of-Gaussians Diffusion Models for Imbalanced Text-to-Image Generation](http://arxiv.org/abs/2502.08106v2)** | 2025-02-19 |  |
+| **[Efficient Dataset Distillation via Diffusion-Driven Patch Selection for Improved Generalization](http://arxiv.org/abs/2412.09959v2)** | 2025-02-19 | Under Review |
+| **[Generative Video Semantic Communication via Multimodal Semantic Fusion with Large Model](http://arxiv.org/abs/2502.13838v1)** | 2025-02-19 |  |
+| **[DiffGuard: Text-Based Safety Checker for Diffusion Models](http://arxiv.org/abs/2412.00064v2)** | 2025-02-19 |  |
+| **[Synthetic Tabular Data Generation for Imbalanced Classification: The Surprising Effectiveness of an Overlap Class](http://arxiv.org/abs/2412.15657v2)** | 2025-02-19 | AAAI Conference 2025 |
+| **[BNEM: A Boltzmann Sampler Based on Bootstrapped Noised Energy Matching](http://arxiv.org/abs/2409.09787v3)** | 2025-02-19 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 2 tables</p></details> |
+| **[Invisible Servoing: a Visual Servoing Approach with Return-Conditioned Latent Diffusion](http://arxiv.org/abs/2409.13337v2)** | 2025-02-19 |  |
 
