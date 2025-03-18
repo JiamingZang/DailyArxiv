@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 17, 2025
+title: Latest 15 Papers - March 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,10 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Classroom-Inspired Multi-Mentor Distillation with Adaptive Learning Strategies](http://arxiv.org/abs/2409.20237v2)** | 2025-03-17 | <details><summary>Accep...</summary><p>Accepted in IntelliSys 2025</p></details> |
+| **[Gun Detection Using Combined Human Pose and Weapon Appearance](http://arxiv.org/abs/2503.12215v1)** | 2025-03-15 |  |
+| **[Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation](http://arxiv.org/abs/2503.11652v1)** | 2025-03-14 | <details><summary>Proje...</summary><p>Project page: https://4dqv.mpi-inf.mpg.de/EgoRear/</p></details> |
+| **[Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses](http://arxiv.org/abs/2503.11194v1)** | 2025-03-14 |  |
 | **[Refinement Module based on Parse Graph of Feature Map for Human Pose Estimation](http://arxiv.org/abs/2501.11069v4)** | 2025-03-13 |  |
 | **[GenHPE: Generative Counterfactuals for 3D Human Pose Estimation with Radio Frequency Signals](http://arxiv.org/abs/2503.09537v1)** | 2025-03-12 |  |
 | **[Detection, Pose Estimation and Segmentation for Multiple Bodies: Closing the Virtuous Circle](http://arxiv.org/abs/2412.01562v2)** | 2025-03-12 | <details><summary>Code:...</summary><p>Code: https://mirapurkrabek.github.io/BBox-Mask-Pose</p></details> |
@@ -37,46 +41,42 @@ labels: documentation
 | **[Realistic Clothed Human and Object Joint Reconstruction from a Single Image](http://arxiv.org/abs/2502.18150v2)** | 2025-03-08 |  |
 | **[Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos](http://arxiv.org/abs/2412.19089v2)** | 2025-03-08 |  |
 | **[Multi-Grained Feature Pruning for Video-Based Human Pose Estimation](http://arxiv.org/abs/2503.05365v1)** | 2025-03-07 |  |
-| **[SimpleDepthPose: Fast and Reliable Human Pose Estimation with RGBD-Images](http://arxiv.org/abs/2501.18478v2)** | 2025-03-07 |  |
-| **[BGM2Pose: Active 3D Human Pose Estimation with Non-Stationary Sounds](http://arxiv.org/abs/2503.00389v1)** | 2025-03-01 |  |
-| **[Transformers with Joint Tokens and Local-Global Attention for Efficient Human Pose Estimation](http://arxiv.org/abs/2503.00232v1)** | 2025-02-28 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[BST: Badminton Stroke-type Transformer for Skeleton-based Action Recognition in Racket Sports](http://arxiv.org/abs/2502.21085v1)** | 2025-02-28 | <details><summary>8 pag...</summary><p>8 pages (excluding references). The code will be released in a few months</p></details> |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds](http://arxiv.org/abs/2503.10625v1)** | 2025-03-13 | <details><summary>Proje...</summary><p>Project Page: https://lingtengqiu.github.io/LHM/</p></details> |
-| **[MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction](http://arxiv.org/abs/2503.10604v1)** | 2025-03-13 |  |
-| **[MVGSR: Multi-View Consistency Gaussian Splatting for Robust Surface Reconstruction](http://arxiv.org/abs/2503.08093v2)** | 2025-03-13 | <details><summary>proje...</summary><p>project page https://mvgsr.github.io</p></details> |
-| **[4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models](http://arxiv.org/abs/2503.10437v1)** | 2025-03-13 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project Page: https://4d-langsplat.github.io</p></details> |
-| **[SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving](http://arxiv.org/abs/2411.16816v3)** | 2025-03-13 |  |
-| **[VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames](http://arxiv.org/abs/2503.10286v1)** | 2025-03-13 |  |
-| **[ROODI: Reconstructing Occluded Objects with Denoising Inpainters](http://arxiv.org/abs/2503.10256v1)** | 2025-03-13 | <details><summary>Proje...</summary><p>Project page: https://yeonjin-chang.github.io/ROODI/</p></details> |
-| **[GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction](http://arxiv.org/abs/2503.10170v1)** | 2025-03-13 |  |
-| **[3D Student Splatting and Scooping](http://arxiv.org/abs/2503.10148v1)** | 2025-03-13 |  |
-| **[GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping](http://arxiv.org/abs/2503.10143v1)** | 2025-03-13 | <details><summary>This ...</summary><p>This paper is accepted by CVPR 2025. Project page is available at https://liujf1226.github.io/GaussHDR</p></details> |
-| **[DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting](http://arxiv.org/abs/2503.00746v3)** | 2025-03-13 | CVPR 2025 |
-| **[Extrapolated Urban View Synthesis Benchmark](http://arxiv.org/abs/2412.05256v3)** | 2025-03-12 | <details><summary>Proje...</summary><p>Project page: https://ai4ce.github.io/EUVS-Benchmark/</p></details> |
-| **[Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation](http://arxiv.org/abs/2503.09464v1)** | 2025-03-12 |  |
-| **[Online Language Splatting](http://arxiv.org/abs/2503.09447v1)** | 2025-03-12 |  |
-| **[Fast Feedforward 3D Gaussian Splatting Compression](http://arxiv.org/abs/2410.08017v3)** | 2025-03-12 | <details><summary>Proje...</summary><p>Project Page: https://yihangchen-ee.github.io/project_fcgs/ Code: https://github.com/yihangchen-ee/fcgs/</p></details> |
+| **[GuardSplat: Efficient and Robust Watermarking for 3D Gaussian Splatting](http://arxiv.org/abs/2411.19895v5)** | 2025-03-17 | <details><summary>This ...</summary><p>This paper is accepted by the IEEE/CVF International Conference on Computer Vision and Pattern Recognition (CVPR), 2025</p></details> |
+| **[Generative Gaussian Splatting: Generating 3D Scenes with Video Diffusion Priors](http://arxiv.org/abs/2503.13272v1)** | 2025-03-17 |  |
+| **[DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction](http://arxiv.org/abs/2503.13176v1)** | 2025-03-17 |  |
+| **[Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization](http://arxiv.org/abs/2503.13086v1)** | 2025-03-17 |  |
+| **[LAGA: Layered 3D Avatar Generation and Customization via Gaussian Splatting](http://arxiv.org/abs/2405.12663v2)** | 2025-03-17 |  |
+| **[MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting](http://arxiv.org/abs/2501.03714v2)** | 2025-03-17 | <details><summary>The l...</summary><p>The last two authors are co-corresponding authors. Please visit our project page at https://kaist-viclab.github.io/MoDecGS-site/</p></details> |
+| **[NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance](http://arxiv.org/abs/2312.00846v2)** | 2025-03-17 |  |
+| **[Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering](http://arxiv.org/abs/2412.04459v3)** | 2025-03-17 | <details><summary>CVPR ...</summary><p>CVPR 2025; Project page at https://svraster.github.io/ ; Code at https://github.com/NVlabs/svraster</p></details> |
+| **[CAT-3DGS Pro: A New Benchmark for Efficient 3DGS Compression](http://arxiv.org/abs/2503.12862v1)** | 2025-03-17 |  |
+| **[CompMarkGS: Robust Watermarking for Compression 3D Gaussian Splatting](http://arxiv.org/abs/2503.12836v1)** | 2025-03-17 | 23 pages, 17 figures |
+| **[AV-Surf: Surface-Enhanced Geometry-Aware Novel-View Acoustic Synthesis](http://arxiv.org/abs/2503.12806v1)** | 2025-03-17 |  |
+| **[Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios](http://arxiv.org/abs/2503.08317v2)** | 2025-03-17 | 10 pages |
+| **[Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation](http://arxiv.org/abs/2411.14423v2)** | 2025-03-16 | <details><summary>CVPR ...</summary><p>CVPR 2025. Homepage: https://zhuomanliu.github.io/PhysFlow/</p></details> |
+| **[AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis](http://arxiv.org/abs/2406.08920v3)** | 2025-03-16 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2024</p></details> |
+| **[Deblur Gaussian Splatting SLAM](http://arxiv.org/abs/2503.12572v1)** | 2025-03-16 |  |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective](http://arxiv.org/abs/2503.10638v1)** | 2025-03-13 |  |
-| **[GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing](http://arxiv.org/abs/2503.10639v1)** | 2025-03-13 | <details><summary>Datas...</summary><p>Dataset and models are released in https://github.com/rongyaofang/GoT</p></details> |
-| **[Distilling Diversity and Control in Diffusion Models](http://arxiv.org/abs/2503.10637v1)** | 2025-03-13 | <details><summary>Proje...</summary><p>Project Page: https://distillation.baulab.info</p></details> |
-| **[V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes](http://arxiv.org/abs/2503.10634v1)** | 2025-03-13 | <details><summary>Proje...</summary><p>Project Website: https://immortalco.github.io/V2Edit/</p></details> |
-| **[HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](http://arxiv.org/abs/2503.10631v1)** | 2025-03-13 |  |
-| **[NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models](http://arxiv.org/abs/2503.10626v1)** | 2025-03-13 |  |
-| **[DiT-Air: Revisiting the Efficiency of Diffusion Model Architecture Design in Text to Image Generation](http://arxiv.org/abs/2503.10618v1)** | 2025-03-13 |  |
-| **[ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer](http://arxiv.org/abs/2503.10614v1)** | 2025-03-13 |  |
-| **[CoSTA$\ast$: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing](http://arxiv.org/abs/2503.10613v1)** | 2025-03-13 |  |
-| **[MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction](http://arxiv.org/abs/2503.10604v1)** | 2025-03-13 |  |
-| **[CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models](http://arxiv.org/abs/2503.10592v1)** | 2025-03-13 | <details><summary>Proje...</summary><p>Project page: https://hehao13.github.io/Projects-CameraCtrl-II/</p></details> |
-| **[Long Context Tuning for Video Generation](http://arxiv.org/abs/2503.10589v1)** | 2025-03-13 | <details><summary>Proje...</summary><p>Project Page: https://guoyww.github.io/projects/long-context-video/</p></details> |
-| **[Rigorous enclosure of Lyapunov exponents of stochastic flows](http://arxiv.org/abs/2411.07064v2)** | 2025-03-13 |  |
-| **[Mathematical and numerical methods for understanding immune cell motion during wound healing](http://arxiv.org/abs/2503.10552v1)** | 2025-03-13 |  |
-| **[MASQUE: A Text-Guided Diffusion-Based Framework for Localized and Customized Adversarial Makeup](http://arxiv.org/abs/2503.10549v1)** | 2025-03-13 |  |
+| **[BlobCtrl: A Unified and Flexible Framework for Element-level Image Generation and Editing](http://arxiv.org/abs/2503.13434v1)** | 2025-03-17 | <details><summary>Proje...</summary><p>Project Webpage: https://liyaowei-stu.github.io/project/BlobCtrl/</p></details> |
+| **[SyncDiff: Diffusion-based Talking Head Synthesis with Bottlenecked Temporal Visual Prior for Improved Synchronization](http://arxiv.org/abs/2503.13371v1)** | 2025-03-17 | <details><summary>Accep...</summary><p>Accepted to WACV 2025</p></details> |
+| **[Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design](http://arxiv.org/abs/2410.13643v2)** | 2025-03-17 | ICLR 2025 |
+| **[One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation](http://arxiv.org/abs/2503.13358v1)** | 2025-03-17 |  |
+| **[MagicDistillation: Weak-to-Strong Video Distillation for Large-Scale Portrait Few-Step Synthesis](http://arxiv.org/abs/2503.13319v1)** | 2025-03-17 |  |
+| **[Classifier-Free Guidance inside the Attraction Basin May Cause Memorization](http://arxiv.org/abs/2411.16738v2)** | 2025-03-17 | CVPR 2025 |
+| **[TraSCE: Trajectory Steering for Concept Erasure](http://arxiv.org/abs/2412.07658v2)** | 2025-03-17 |  |
+| **[Generative Gaussian Splatting: Generating 3D Scenes with Video Diffusion Priors](http://arxiv.org/abs/2503.13272v1)** | 2025-03-17 |  |
+| **[FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis](http://arxiv.org/abs/2503.13265v1)** | 2025-03-17 |  |
+| **[HoloGest: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures](http://arxiv.org/abs/2503.13229v1)** | 2025-03-17 | Accepted by 3DV 2025 |
+| **[MedLoRD: A Medical Low-Resource Diffusion Model for High-Resolution 3D CT Image Synthesis](http://arxiv.org/abs/2503.13211v1)** | 2025-03-17 |  |
+| **[Influence Functions for Scalable Data Attribution in Diffusion Models](http://arxiv.org/abs/2410.13850v4)** | 2025-03-17 |  |
+| **[Reangle-A-Video: 4D Video Generation as Video-to-Video Translation](http://arxiv.org/abs/2503.09151v2)** | 2025-03-17 | <details><summary>Proje...</summary><p>Project page: https://hyeonho99.github.io/reangle-a-video/</p></details> |
+| **[Patient-specific radiomic feature selection with reconstructed healthy persona of knee MR images](http://arxiv.org/abs/2503.13131v1)** | 2025-03-17 |  |
+| **[Video Depth without Video Models](http://arxiv.org/abs/2411.19189v2)** | 2025-03-17 | <details><summary>Proje...</summary><p>Project page: rollingdepth.github.io</p></details> |
 
