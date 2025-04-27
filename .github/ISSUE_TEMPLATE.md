@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 25, 2025
+title: Latest 15 Papers - April 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unveiling Hidden Vulnerabilities in Digital Human Generation via Adversarial Attacks](http://arxiv.org/abs/2504.17457v1)** | 2025-04-24 | 14 pages, 7 figures |
 | **[WiFi based Human Fall and Activity Recognition using Transformer based Encoder Decoder and Graph Neural Networks](http://arxiv.org/abs/2504.16655v1)** | 2025-04-23 | 8 pages, 4 figures |
 | **[GADS: A Super Lightweight Model for Head Pose Estimation](http://arxiv.org/abs/2504.15751v1)** | 2025-04-22 | <details><summary>16 pa...</summary><p>16 pages, 5 tables, 10 figures, not submitted to any conference or journal</p></details> |
 | **[DirDist: A Metric for Comparing 3D Shapes Using Directional Distance Fields](http://arxiv.org/abs/2401.09736v4)** | 2025-04-21 | Accepted by T-PAMI |
@@ -40,11 +41,14 @@ labels: documentation
 | **[TT3D: Table Tennis 3D Reconstruction](http://arxiv.org/abs/2504.10035v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted to CVSport 2025</p></details> |
 | **[Leveraging Anthropometric Measurements to Improve Human Mesh Estimation and Ensure Consistent Body Shapes](http://arxiv.org/abs/2409.17671v4)** | 2025-04-14 | <details><summary>accep...</summary><p>accepted for CVSports@CVPR'25</p></details> |
 | **[Efficient 2D to Full 3D Human Pose Uplifting including Joint Rotations](http://arxiv.org/abs/2504.09953v1)** | 2025-04-14 | <details><summary>accep...</summary><p>accepted at CVSports@CVPR'25</p></details> |
-| **[EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage](http://arxiv.org/abs/2504.08718v1)** | 2025-04-11 |  |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos](http://arxiv.org/abs/2504.17728v1)** | 2025-04-24 | <details><summary>Sourc...</summary><p>Source Code: https://github.com/WU-CVGL/CasualHDRSplat</p></details> |
+| **[When Gaussian Meets Surfel: Ultra-fast High-fidelity Radiance Field Rendering](http://arxiv.org/abs/2504.17545v1)** | 2025-04-24 |  |
+| **[PhysFlow: Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation](http://arxiv.org/abs/2411.14423v3)** | 2025-04-24 | <details><summary>CVPR ...</summary><p>CVPR 2025. Homepage: https://zhuomanliu.github.io/PhysFlow/</p></details> |
+| **[NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap](http://arxiv.org/abs/2405.05702v8)** | 2025-04-24 | 9pages, 4 figures |
 | **[Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment](http://arxiv.org/abs/2504.01503v2)** | 2025-04-23 | <details><summary>CVPR ...</summary><p>CVPR 2025, project page: https://cuiziteng.github.io/Luminance_GS_web/</p></details> |
 | **[Gaussian Splatting is an Effective Data Generator for 3D Object Detection](http://arxiv.org/abs/2504.16740v1)** | 2025-04-23 |  |
 | **[PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation](http://arxiv.org/abs/2504.16693v1)** | 2025-04-23 |  |
@@ -56,27 +60,23 @@ labels: documentation
 | **[HEMGS: A Hybrid Entropy Model for 3D Gaussian Splatting Data Compression](http://arxiv.org/abs/2411.18473v2)** | 2025-04-22 |  |
 | **[3DGR-CT: Sparse-View CT Reconstruction with a 3D Gaussian Representation](http://arxiv.org/abs/2312.15676v2)** | 2025-04-22 |  |
 | **[ThermalGaussian: Thermal 3D Gaussian Splatting](http://arxiv.org/abs/2409.07200v2)** | 2025-04-22 | 10 pages, 7 figures |
-| **[Faster and Better 3D Splatting via Group Training](http://arxiv.org/abs/2412.07608v2)** | 2025-04-22 |  |
-| **[StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians](http://arxiv.org/abs/2504.15281v1)** | 2025-04-21 | <details><summary>16 pa...</summary><p>16 pages; Project page: https://styleme3d.github.io/</p></details> |
-| **[Immersive Teleoperation Framework for Locomanipulation Tasks](http://arxiv.org/abs/2504.15229v1)** | 2025-04-21 | <details><summary>CASE2...</summary><p>CASE2025, 8 pages, 9 figures</p></details> |
-| **[MoBGS: Motion Deblurring Dynamic 3D Gaussian Splatting for Blurry Monocular Video](http://arxiv.org/abs/2504.15122v1)** | 2025-04-21 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work (equal contribution). The last two authors advised equally to this work</p></details> |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Should We Learn Contact-Rich Manipulation Policies from Sampling-Based Planners?](http://arxiv.org/abs/2412.09743v2)** | 2025-04-23 |  |
-| **[Latent Diffusion Planning for Imitation Learning](http://arxiv.org/abs/2504.16925v1)** | 2025-04-23 |  |
-| **[DiffArtist: Towards Structure and Appearance Controllable Image Stylization](http://arxiv.org/abs/2407.15842v3)** | 2025-04-23 | <details><summary>Homep...</summary><p>Homepage: https://DiffusionArtist.github.io</p></details> |
-| **[DreamO: A Unified Framework for Image Customization](http://arxiv.org/abs/2504.16915v1)** | 2025-04-23 |  |
-| **[Solving Inverse Problems in Protein Space Using Diffusion-Based Priors](http://arxiv.org/abs/2406.04239v2)** | 2025-04-23 |  |
-| **[Planning with Diffusion Models for Target-Oriented Dialogue Systems](http://arxiv.org/abs/2504.16858v1)** | 2025-04-23 |  |
-| **[Evolutionary Optimization of Physics-Informed Neural Networks: Advancing Generalizability by the Baldwin Effect](http://arxiv.org/abs/2312.03243v3)** | 2025-04-23 |  |
-| **[Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models](http://arxiv.org/abs/2504.16843v1)** | 2025-04-23 |  |
-| **[Distributed Unknown Input Observers for Discrete-Time Linear Time-Invariant Systems](http://arxiv.org/abs/2504.16815v1)** | 2025-04-23 |  |
-| **[OSDFace: One-Step Diffusion Model for Face Restoration](http://arxiv.org/abs/2411.17163v2)** | 2025-04-23 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. The code and model will be available at https://github.com/jkwang28/OSDFace</p></details> |
-| **[Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks](http://arxiv.org/abs/2504.16748v1)** | 2025-04-23 | Submitted to ICML |
-| **[AudioX: Diffusion Transformer for Anything-to-Audio Generation](http://arxiv.org/abs/2503.10522v2)** | 2025-04-23 | <details><summary>The c...</summary><p>The code and datasets will be available at https://zeyuet.github.io/AudioX/</p></details> |
-| **[Gaussian Splatting is an Effective Data Generator for 3D Object Detection](http://arxiv.org/abs/2504.16740v1)** | 2025-04-23 |  |
-| **[MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning](http://arxiv.org/abs/2504.16738v1)** | 2025-04-23 | <details><summary>Under...</summary><p>Under review. Project page: https://skill-mosaic.github.io</p></details> |
-| **[Anti-Aesthetics: Protecting Facial Privacy against Customized Text-to-Image Synthesis](http://arxiv.org/abs/2504.12129v2)** | 2025-04-23 | <details><summary>After...</summary><p>After the submission of the paper, we realized that the study still has room for expansion. In order to make the research findings more profound and comprehensive, we have decided to withdraw the paper so that we can conduct further research and expansion</p></details> |
+| **[LiDPM: Rethinking Point Diffusion for Lidar Scene Completion](http://arxiv.org/abs/2504.17791v1)** | 2025-04-24 | <details><summary>Accep...</summary><p>Accepted to IEEE IV 2025</p></details> |
+| **[Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models](http://arxiv.org/abs/2504.17789v1)** | 2025-04-24 |  |
+| **[Step1X-Edit: A Practical Framework for General Image Editing](http://arxiv.org/abs/2504.17761v1)** | 2025-04-24 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
+| **[A sliced Wasserstein and diffusion approach to random coefficient models](http://arxiv.org/abs/2502.04654v2)** | 2025-04-24 | <details><summary>This ...</summary><p>This version added a new section relating the proposed approach to treatment effect distribution estimation</p></details> |
+| **[Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining](http://arxiv.org/abs/2408.02657v3)** | 2025-04-24 | <details><summary>Code ...</summary><p>Code available at: https://github.com/Alpha-VLLM/Lumina-mGPT</p></details> |
+| **[Weak-to-Strong Diffusion with Reflection](http://arxiv.org/abs/2502.00473v3)** | 2025-04-24 | <details><summary>23 pa...</summary><p>23 pages, 23 figures, 15 tables</p></details> |
+| **[Contrastive Learning with Synthetic Positives](http://arxiv.org/abs/2408.16965v2)** | 2025-04-24 | 8 pages, conference |
+| **[polyGen: A Learning Framework for Atomic-level Polymer Structure Generation](http://arxiv.org/abs/2504.17656v1)** | 2025-04-24 |  |
+| **[Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization](http://arxiv.org/abs/2504.17628v1)** | 2025-04-24 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, journal article</p></details> |
+| **[TarDiff: Target-Oriented Diffusion Guidance for Synthetic Electronic Health Record Time Series Generation](http://arxiv.org/abs/2504.17613v1)** | 2025-04-24 |  |
+| **[Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks](http://arxiv.org/abs/2504.16748v2)** | 2025-04-24 | Submitted to ICML |
+| **[Text-to-Image Alignment in Denoising-Based Models through Step Selection](http://arxiv.org/abs/2504.17525v1)** | 2025-04-24 |  |
+| **[ESDiff: Encoding Strategy-inspired Diffusion Model with Few-shot Learning for Color Image Inpainting](http://arxiv.org/abs/2504.17524v1)** | 2025-04-24 | <details><summary>11 pa...</summary><p>11 pages,10 figures,Submit to tcsvt</p></details> |
+| **[Continuous and complete liver vessel segmentation with graph-attention guided diffusion](http://arxiv.org/abs/2411.00617v2)** | 2025-04-24 | Second version |
+| **[ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion](http://arxiv.org/abs/2404.17230v3)** | 2025-04-24 | 13 pages in total |
 
