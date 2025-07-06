@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 04, 2025
+title: Latest 15 Papers - July 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning](http://arxiv.org/abs/2507.02565v1)** | 2025-07-03 |  |
 | **[Multi-person Physics-based Pose Estimation for Combat Sports](http://arxiv.org/abs/2504.08175v2)** | 2025-07-01 |  |
 | **[Multi-Modal Graph Convolutional Network with Sinusoidal Encoding for Robust Human Action Segmentation](http://arxiv.org/abs/2507.00752v1)** | 2025-07-01 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, accepted in IROS25, Hangzhou, China</p></details> |
 | **[Validation of AI-Based 3D Human Pose Estimation in a Cyber-Physical Environment](http://arxiv.org/abs/2506.23739v1)** | 2025-06-30 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, Preprint for 2025 IEEE IAVVC (International Automated Vehicle Validation Conference)</p></details> |
@@ -40,11 +41,16 @@ labels: documentation
 | **[PoseGRAF: Geometric-Reinforced Adaptive Fusion for Monocular 3D Human Pose Estimation](http://arxiv.org/abs/2506.14596v1)** | 2025-06-17 |  |
 | **[MogaNet: Multi-order Gated Aggregation Network](http://arxiv.org/abs/2211.03295v4)** | 2025-06-16 | <details><summary>ICLR ...</summary><p>ICLR 2024. Preprint V4 (35 pages, fixed typos). Code and models refer to https://github.com/Westlake-AI/MogaNet</p></details> |
 | **[Markerless Multi-view 3D Human Pose Estimation: a survey](http://arxiv.org/abs/2407.03817v2)** | 2025-06-09 | <details><summary>26 pa...</summary><p>26 pages, 10 tables, 6 figures, accepted at Image and Vision Computing (IMAVIS)</p></details> |
-| **[Deep Inertial Pose: A deep learning approach for human pose estimation](http://arxiv.org/abs/2506.06850v1)** | 2025-06-07 |  |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HyperGaussians: High-Dimensional Gaussian Splatting for High-Fidelity Animatable Face Avatars](http://arxiv.org/abs/2507.02803v1)** | 2025-07-03 | <details><summary>Proje...</summary><p>Project page: https://gserifi.github.io/HyperGaussians</p></details> |
+| **[Free Your Hands: Lightweight Turntable-Based Object Capture Pipeline](http://arxiv.org/abs/2503.05511v5)** | 2025-07-03 |  |
+| **[ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects](http://arxiv.org/abs/2507.02600v1)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted by IROS 2025</p></details> |
+| **[RGE-GS: Reward-Guided Expansive Driving Scene Reconstruction via Diffusion Priors](http://arxiv.org/abs/2506.22800v2)** | 2025-07-03 |  |
+| **[LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling](http://arxiv.org/abs/2507.02363v1)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[Gbake: Baking 3D Gaussian Splats into Reflection Probes](http://arxiv.org/abs/2507.02257v1)** | 2025-07-03 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2025 Posters</p></details> |
 | **[GraphGSOcc: Semantic-Geometric Graph Transformer with Dynamic-Static Decoupling for 3D Gaussian Splatting-based Occupancy Prediction](http://arxiv.org/abs/2506.14825v2)** | 2025-07-02 |  |
 | **[DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction](http://arxiv.org/abs/2503.13176v2)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation](http://arxiv.org/abs/2507.01367v1)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
@@ -54,29 +60,23 @@ labels: documentation
 | **[GaussianVLM: Scene-centric 3D Vision-Language Models using Language-aligned Gaussian Splats for Embodied Reasoning and Beyond](http://arxiv.org/abs/2507.00886v1)** | 2025-07-01 |  |
 | **[SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting](http://arxiv.org/abs/2506.23309v2)** | 2025-07-01 | <details><summary>MICCA...</summary><p>MICCAI 2025. Project Page: https://lastbasket.github.io/MICCAI-2025-SurgTPGS/</p></details> |
 | **[LOD-GS: Level-of-Detail-Sensitive 3D Gaussian Splatting for Detail Conserved Anti-Aliasing](http://arxiv.org/abs/2507.00554v1)** | 2025-07-01 |  |
-| **[BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting](http://arxiv.org/abs/2506.22099v2)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025, Project Page: https://github.com/fudan-zvg/BezierGS</p></details> |
-| **[GDGS: 3D Gaussian Splatting Via Geometry-Guided Initialization And Dynamic Density Control](http://arxiv.org/abs/2507.00363v1)** | 2025-07-01 |  |
-| **[Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC](http://arxiv.org/abs/2502.07007v3)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025 Survey Track</p></details> |
-| **[MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction](http://arxiv.org/abs/2506.24096v1)** | 2025-06-30 | <details><summary>10 pa...</summary><p>10 pages. A presentation video of our approach is available at https://youtu.be/_SGNhhNz0fE</p></details> |
-| **[GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering](http://arxiv.org/abs/2506.23957v1)** | 2025-06-30 | <details><summary>siggr...</summary><p>siggraph 2025, project website: https://sinoyou.github.io/gavs</p></details> |
-| **[AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention](http://arxiv.org/abs/2506.23611v1)** | 2025-06-30 |  |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation](http://arxiv.org/abs/2507.01961v1)** | 2025-07-02 |  |
-| **[FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model](http://arxiv.org/abs/2507.01953v1)** | 2025-07-02 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://yukangcao.github.io/FreeMorph/</p></details> |
-| **[Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](http://arxiv.org/abs/2507.01908v1)** | 2025-07-02 |  |
-| **[FramePrompt: In-context Controllable Animation with Zero Structural Changes](http://arxiv.org/abs/2506.17301v2)** | 2025-07-02 | <details><summary>Proje...</summary><p>Project page: https://frameprompt.github.io/</p></details> |
-| **[Frontiers of Generative AI for Network Optimization: Theories, Limits, and Visions](http://arxiv.org/abs/2507.01773v1)** | 2025-07-02 |  |
-| **[Improving Consistency Models with Generator-Augmented Flows](http://arxiv.org/abs/2406.09570v4)** | 2025-07-02 |  |
-| **[HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion](http://arxiv.org/abs/2507.01737v1)** | 2025-07-02 |  |
-| **[SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space](http://arxiv.org/abs/2507.01723v1)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
-| **[Entropic optimal transport beyond product reference couplings: the Gaussian case on Euclidean space](http://arxiv.org/abs/2507.01709v1)** | 2025-07-02 | 32 pages, 4 figures |
-| **[There and Back Again: On the relation between Noise and Image Inversions in Diffusion Models](http://arxiv.org/abs/2410.23530v3)** | 2025-07-02 | Preprint |
-| **[EP-Diffuser: An Efficient Diffusion Model for Traffic Scene Generation and Prediction via Polynomial Representations](http://arxiv.org/abs/2504.05422v2)** | 2025-07-02 |  |
-| **[Mod-Adapter: Tuning-Free and Versatile Multi-concept Personalization via Modulation Adapter](http://arxiv.org/abs/2505.18612v2)** | 2025-07-02 | <details><summary>Proje...</summary><p>Project page: https://weizhi-zhong.github.io/Mod-Adapter</p></details> |
-| **[RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather](http://arxiv.org/abs/2507.01653v1)** | 2025-07-02 | accepted by ICCV25 |
-| **[Sublinear Regret for a Class of Continuous-Time Linear-Quadratic Reinforcement Learning Problems](http://arxiv.org/abs/2407.17226v5)** | 2025-07-02 | <details><summary>42 pa...</summary><p>42 pages, 4 figures. Accepted for publication in SIAM Journal on Control and Optimization (2025)</p></details> |
-| **[A Dynamical Cartography of the Epistemic Diffusion of Artificial Intelligence in Neuroscience](http://arxiv.org/abs/2507.01651v1)** | 2025-07-02 |  |
+| **[Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching](http://arxiv.org/abs/2507.02860v1)** | 2025-07-03 | <details><summary>The c...</summary><p>The code is made available at https://github.com/H-EmbodVis/EasyCache. Project page: https://h-embodvis.github.io/EasyCache/</p></details> |
+| **[AnyI2V: Animating Any Conditional Image with Motion Control](http://arxiv.org/abs/2507.02857v1)** | 2025-07-03 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project Page: https://henghuiding.com/AnyI2V/</p></details> |
+| **[USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network](http://arxiv.org/abs/2507.02827v1)** | 2025-07-03 |  |
+| **[LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion](http://arxiv.org/abs/2507.02813v1)** | 2025-07-03 | <details><summary>Proje...</summary><p>Project page: https://liuff19.github.io/LangScene-X</p></details> |
+| **[Block triangular preconditioning for inverse source problems in time-space fractional diffusion equations](http://arxiv.org/abs/2507.02809v1)** | 2025-07-03 |  |
+| **[RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation](http://arxiv.org/abs/2507.02792v1)** | 2025-07-03 |  |
+| **[AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation](http://arxiv.org/abs/2507.01961v2)** | 2025-07-03 | <details><summary>Proje...</summary><p>Project website: https://ac-dit.github.io/</p></details> |
+| **[FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models](http://arxiv.org/abs/2507.02714v1)** | 2025-07-03 | ICCV 2025 |
+| **[UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation](http://arxiv.org/abs/2507.02713v1)** | 2025-07-03 |  |
+| **[Advances in Particle Flow Filters with Taylor Expansion Series](http://arxiv.org/abs/2505.01597v2)** | 2025-07-03 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, FUSION 2025</p></details> |
+| **[Enhancing Fetal Plane Classification Accuracy with Data Augmentation Using Diffusion Models](http://arxiv.org/abs/2501.15248v2)** | 2025-07-03 |  |
+| **[APT: Adaptive Personalized Training for Diffusion Models with Limited Data](http://arxiv.org/abs/2507.02687v1)** | 2025-07-03 | <details><summary>CVPR ...</summary><p>CVPR 2025 camera ready. Project page: https://lgcnsai.github.io/apt</p></details> |
+| **[Learning few-step posterior samplers by unfolding and distillation of diffusion models](http://arxiv.org/abs/2507.02686v1)** | 2025-07-03 | <details><summary>28 pa...</summary><p>28 pages, 16 figures, 10 tables</p></details> |
+| **[HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion](http://arxiv.org/abs/2507.01737v2)** | 2025-07-03 | preprint |
+| **[Guided Generation for Developable Antibodies](http://arxiv.org/abs/2507.02670v1)** | 2025-07-03 | <details><summary>Publi...</summary><p>Published in ICML 2025 GenBio Workshop</p></details> |
 
