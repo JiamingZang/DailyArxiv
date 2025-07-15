@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 14, 2025
+title: Latest 15 Papers - July 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -17,66 +17,51 @@ labels: documentation
 | **[CHIP: A multi-sensor dataset for 6D pose estimation of chairs in industrial settings](http://arxiv.org/abs/2506.09699v1)** | 2025-06-11 | Technical report |
 | **[UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References](http://arxiv.org/abs/2506.07996v1)** | 2025-06-09 | CVPR 2025 |
 | **[You Only Estimate Once: Unified, One-stage, Real-Time Category-level Articulated Object 6D Pose Estimation for Robotic Grasping](http://arxiv.org/abs/2506.05719v1)** | 2025-06-06 | <details><summary>To ap...</summary><p>To appear in ICRA 2025</p></details> |
-| **[MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection](http://arxiv.org/abs/2505.11282v2)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted at 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW); Fifth International Workshop on Event-Based Vision</p></details> |
-| **[Category-Level 6D Object Pose Estimation in Agricultural Settings Using a Lattice-Deformation Framework and Diffusion-Augmented Synthetic Data](http://arxiv.org/abs/2505.24636v1)** | 2025-05-30 | <details><summary>7 pag...</summary><p>7 pages, 4 figures. Submitted to the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[RefPose: Leveraging Reference Geometric Correspondences for Accurate 6D Pose Estimation of Unseen Objects](http://arxiv.org/abs/2505.10841v1)** | 2025-05-16 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
-| **[One2Any: One-Reference 6D Pose Estimation for Any Object](http://arxiv.org/abs/2505.04109v1)** | 2025-05-07 | <details><summary>accep...</summary><p>accepted by CVPR 2025</p></details> |
-| **[Category-Level and Open-Set Object Pose Estimation for Robotics](http://arxiv.org/abs/2504.19572v1)** | 2025-04-28 | <details><summary>Accep...</summary><p>Accepted at Austrian Robotics Workshop 2025</p></details> |
 
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProGait: A Multi-Purpose Video Dataset and Benchmark for Transfemoral Prosthesis Users](http://arxiv.org/abs/2507.10223v1)** | 2025-07-14 | Accepted by ICCV'25 |
+| **[VST-Pose: A Velocity-Integrated Spatiotem-poral Attention Network for Human WiFi Pose Estimation](http://arxiv.org/abs/2507.09672v1)** | 2025-07-13 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 8 tables. WiFi CSI, VST-Pose framework + ViSTA-Former dual-stream attention backbone. Code: https://github.com/CarmenQing/VST-Pose</p></details> |
+| **[PoseLLM: Enhancing Language-Guided Human Pose Estimation with MLP Alignment](http://arxiv.org/abs/2507.09139v1)** | 2025-07-12 | Preprint |
+| **[AthletePose3D: A Benchmark Dataset for 3D Human Pose Estimation and Kinematic Validation in Athletic Movements](http://arxiv.org/abs/2503.07499v3)** | 2025-07-11 | <details><summary>Errat...</summary><p>Erratum: A preprocessing mistake occurred in one camera angle of the running motions. This has been corrected, the experiment re-run, and the results updated accordingly. Please note that the conclusions of the experiment and the overall paper remain unchanged</p></details> |
 | **[Multi-person Physics-based Pose Estimation for Combat Sports](http://arxiv.org/abs/2504.08175v3)** | 2025-07-07 |  |
-| **[mmEgoHand: Egocentric Hand Pose Estimation and Gesture Recognition with Head-mounted Millimeter-wave Radar and IMU](http://arxiv.org/abs/2501.13805v2)** | 2025-07-06 | <details><summary>11 pa...</summary><p>11 pages, Under Review</p></details> |
-| **[SCJD: Sparse Correlation and Joint Distillation for Efficient 3D Human Pose Estimation](http://arxiv.org/abs/2503.14097v2)** | 2025-07-05 |  |
-| **[Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning](http://arxiv.org/abs/2507.02565v1)** | 2025-07-03 |  |
-| **[Markerless Stride Length estimation in Athletic using Pose Estimation with monocular vision](http://arxiv.org/abs/2507.03016v1)** | 2025-07-02 |  |
-| **[Multi-Modal Graph Convolutional Network with Sinusoidal Encoding for Robust Human Action Segmentation](http://arxiv.org/abs/2507.00752v1)** | 2025-07-01 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, accepted in IROS25, Hangzhou, China</p></details> |
-| **[Validation of AI-Based 3D Human Pose Estimation in a Cyber-Physical Environment](http://arxiv.org/abs/2506.23739v1)** | 2025-06-30 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, Preprint for 2025 IEEE IAVVC (International Automated Vehicle Validation Conference)</p></details> |
-| **[Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser](http://arxiv.org/abs/2403.04444v2)** | 2025-06-30 | Accepted by AAAI24 |
-| **[BST: Badminton Stroke-type Transformer for Skeleton-based Action Recognition in Racket Sports](http://arxiv.org/abs/2502.21085v2)** | 2025-06-29 | <details><summary>9 pag...</summary><p>9 pages (excluding references)</p></details> |
-| **[TT3D: Table Tennis 3D Reconstruction](http://arxiv.org/abs/2504.10035v2)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted to CVSport 2025</p></details> |
-| **[Systematic Comparison of Projection Methods for Monocular 3D Human Pose Estimation on Fisheye Images](http://arxiv.org/abs/2506.19747v1)** | 2025-06-24 | <details><summary>Prese...</summary><p>Presented at IEEE International Conference on Robotics and Automation 2025</p></details> |
-| **[STAR-Pose: Efficient Low-Resolution Video Human Pose Estimation via Spatial-Temporal Adaptive Super-Resolution](http://arxiv.org/abs/2506.16061v1)** | 2025-06-19 | <details><summary>14pag...</summary><p>14pages 3figures, alredy submiss to PRCV 2025</p></details> |
-| **[Beyond Audio and Pose: A General-Purpose Framework for Video Synchronization](http://arxiv.org/abs/2506.15937v1)** | 2025-06-19 |  |
-| **[Human Motion Capture from Loose and Sparse Inertial Sensors with Garment-aware Diffusion Models](http://arxiv.org/abs/2506.15290v1)** | 2025-06-18 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025</p></details> |
-| **[ProbRadarM3F: mmWave Radar based Human Skeletal Pose Estimation with Probability Map Guided Multi-Format Feature Fusion](http://arxiv.org/abs/2405.05164v3)** | 2025-06-17 |  |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection](http://arxiv.org/abs/2507.07733v1)** | 2025-07-10 | 16 pages |
-| **[MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation](http://arxiv.org/abs/2507.07519v1)** | 2025-07-10 |  |
-| **[SD-GS: Structured Deformable 3D Gaussians for Efficient Dynamic Scene Reconstruction](http://arxiv.org/abs/2507.07465v1)** | 2025-07-10 |  |
-| **[Seg-Wild: Interactive Segmentation based on 3D Gaussian Splatting for Unconstrained Image Collections](http://arxiv.org/abs/2507.07395v1)** | 2025-07-10 |  |
-| **[Enhancing non-Rigid 3D Model Deformations Using Mesh-based Gaussian Splatting](http://arxiv.org/abs/2507.07000v1)** | 2025-07-09 |  |
-| **[CULTURE3D: A Large-Scale and Diverse Dataset of Cultural Landmarks and Terrains for Gaussian-Based Scene Rendering](http://arxiv.org/abs/2501.06927v3)** | 2025-07-09 |  |
-| **[Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM](http://arxiv.org/abs/2507.04004v2)** | 2025-07-09 |  |
-| **[PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy](http://arxiv.org/abs/2411.12510v2)** | 2025-07-09 |  |
-| **[Photometric Stereo using Gaussian Splatting and inverse rendering](http://arxiv.org/abs/2507.06684v1)** | 2025-07-09 | <details><summary>in Fr...</summary><p>in French language. GRETSI 2025, Association GRETSI, Aug 2025, Strasbourg, France</p></details> |
-| **[FlexGaussian: Flexible and Cost-Effective Training-Free Compression for 3D Gaussian Splatting](http://arxiv.org/abs/2507.06671v1)** | 2025-07-09 | <details><summary>To ap...</summary><p>To appear at ACM MM 2025</p></details> |
-| **[ClipGS: Clippable Gaussian Splatting for Interactive Cinematic Visualization of Volumetric Medical Data](http://arxiv.org/abs/2507.06647v1)** | 2025-07-09 | <details><summary>Early...</summary><p>Early accepted by MICCAI 2025. Project is available at: https://med-air.github.io/ClipGS</p></details> |
-| **[Gaussian Fluids: A Grid-Free Fluid Solver based on Gaussian Spatial Representation](http://arxiv.org/abs/2405.18133v2)** | 2025-07-09 |  |
-| **[Reconstructing Satellites in 3D from Amateur Telescope Images](http://arxiv.org/abs/2404.18394v4)** | 2025-07-09 |  |
-| **[EMD: Explicit Motion Modeling for High-Quality Street Gaussian Splatting](http://arxiv.org/abs/2411.15582v2)** | 2025-07-09 | <details><summary>Acccp...</summary><p>Acccpeted by ICCV2025</p></details> |
-| **[GazeGaussian: High-Fidelity Gaze Redirection with 3D Gaussian Splatting](http://arxiv.org/abs/2411.12981v2)** | 2025-07-09 | Accepted by ICCV2025 |
+| **[ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions](http://arxiv.org/abs/2507.10542v1)** | 2025-07-14 | <details><summary>(SIGG...</summary><p>(SIGGRAPH 2025) Paper Video: https://youtu.be/VyWkgsGdbkk Project Page: https://shivangi-aneja.github.io/projects/scaffoldavatar/</p></details> |
+| **[GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting](http://arxiv.org/abs/2408.11447v4)** | 2025-07-14 | <details><summary>Proje...</summary><p>Project page: https://ganwanshui.github.io/GaussianOcc/</p></details> |
+| **[BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields](http://arxiv.org/abs/2507.06269v2)** | 2025-07-14 | <details><summary>ICCV ...</summary><p>ICCV 2025 Workshops (8 Pages, 6 Figures, 2 Tables)</p></details> |
+| **[SLGaussian: Fast Language Gaussian Splatting in Sparse Views](http://arxiv.org/abs/2412.08331v2)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025. Project page: https://chenkangjie1123.github.io/SLGaussian.github.io/</p></details> |
+| **[CoMoGaussian: Continuous Motion-Aware Gaussian Splatting from Motion-Blurred Images](http://arxiv.org/abs/2503.05332v2)** | 2025-07-14 | <details><summary>Revis...</summary><p>Revised Version of CRiM-GS, Project Page: https://Jho-Yonsei.github.io/CoMoGaussian</p></details> |
+| **[Sparfels: Fast Reconstruction from Sparse Unposed Imagery](http://arxiv.org/abs/2505.02178v2)** | 2025-07-14 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page : https://shubhendu-jena.github.io/Sparfels-web/</p></details> |
+| **[3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving](http://arxiv.org/abs/2507.09993v1)** | 2025-07-14 | <details><summary>Submi...</summary><p>Submitted to WACV 2026</p></details> |
+| **[MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes](http://arxiv.org/abs/2410.13613v2)** | 2025-07-13 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[SEGS-SLAM: Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding](http://arxiv.org/abs/2501.05242v3)** | 2025-07-13 | <details><summary>ICCV ...</summary><p>ICCV 2025 accept;code, video, demos, and project are available at Project page https://segs-slam.github.io/</p></details> |
+| **[Learning human-to-robot handovers through 3D scene reconstruction](http://arxiv.org/abs/2507.08726v1)** | 2025-07-11 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 2 table</p></details> |
+| **[MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos](http://arxiv.org/abs/2505.11868v3)** | 2025-07-11 |  |
+| **[EBAD-Gaussian: Event-driven Bundle Adjusted Deblur Gaussian Splatting](http://arxiv.org/abs/2504.10012v2)** | 2025-07-11 |  |
+| **[RePaintGS: Reference-Guided Gaussian Splatting for Realistic and View-Consistent 3D Scene Inpainting](http://arxiv.org/abs/2507.08434v1)** | 2025-07-11 |  |
+| **[GeoSplatting: Towards Geometry Guided Gaussian Splatting for Physically-based Inverse Rendering](http://arxiv.org/abs/2410.24204v3)** | 2025-07-11 | ICCV 2025 |
+| **[Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction](http://arxiv.org/abs/2507.08137v1)** | 2025-07-10 |  |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EXPO: Stable Reinforcement Learning with Expressive Policies](http://arxiv.org/abs/2507.07986v1)** | 2025-07-10 |  |
-| **[Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling](http://arxiv.org/abs/2507.07982v1)** | 2025-07-10 | <details><summary>18 pa...</summary><p>18 pages, project page: https://GeometryForcing.github.io</p></details> |
-| **[Low Resource Reconstruction Attacks Through Benign Prompts](http://arxiv.org/abs/2507.07947v1)** | 2025-07-10 |  |
-| **[Multi-modal Generative AI: Multi-modal LLMs, Diffusions and the Unification](http://arxiv.org/abs/2409.14993v2)** | 2025-07-10 | <details><summary>20 pa...</summary><p>20 pages, 11 figures, 2 tables</p></details> |
-| **[Solving Inverse Problems using Diffusion with Iterative Colored Renoising](http://arxiv.org/abs/2501.17468v3)** | 2025-07-10 |  |
-| **[The Potential of Olfactory Stimuli in Stress Reduction through Virtual Reality](http://arxiv.org/abs/2507.07911v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted to IEEE Medical Measurements & Applications (MeMeA) 2025</p></details> |
-| **[A Survey on Latent Reasoning](http://arxiv.org/abs/2507.06203v2)** | 2025-07-10 |  |
-| **[Diffusion of complex contagions is shaped by a trade-off between reach and reinforcement](http://arxiv.org/abs/2411.07907v2)** | 2025-07-10 |  |
-| **[Single-Step Latent Diffusion for Underwater Image Restoration](http://arxiv.org/abs/2507.07878v1)** | 2025-07-10 |  |
-| **[Re-Bottleneck: Latent Re-Structuring for Neural Audio Autoencoders](http://arxiv.org/abs/2507.07867v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted at IEEE MLSP 2025</p></details> |
-| **[Predicting and generating antibiotics against future pathogens with ApexOracle](http://arxiv.org/abs/2507.07862v1)** | 2025-07-10 | 3 figures |
-| **[Benchmarking Content-Based Puzzle Solvers on Corrupted Jigsaw Puzzles](http://arxiv.org/abs/2507.07828v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted at ICIAP 2025</p></details> |
-| **[VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](http://arxiv.org/abs/2507.05116v2)** | 2025-07-10 |  |
-| **[First-passage time for PDifMPs: an Exact simulation approach for time-varying thresholds](http://arxiv.org/abs/2507.07822v1)** | 2025-07-10 |  |
-| **[PWD: Prior-Guided and Wavelet-Enhanced Diffusion Model for Limited-Angle CT](http://arxiv.org/abs/2507.05317v2)** | 2025-07-10 |  |
+| **[MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation](http://arxiv.org/abs/2507.10543v1)** | 2025-07-14 |  |
+| **[Ark: An Open-source Python-based Framework for Robot Learning](http://arxiv.org/abs/2506.21628v2)** | 2025-07-14 |  |
+| **[Noise-robust multi-fidelity surrogate modelling for parametric partial differential equations](http://arxiv.org/abs/2507.03691v2)** | 2025-07-14 | <details><summary>35 pa...</summary><p>35 pages, 31 figures. Corrected Figure 15 (a,b,c)</p></details> |
+| **[Can You Detect the Difference?](http://arxiv.org/abs/2507.10475v1)** | 2025-07-14 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 2 tables. Code and data: https://github.com/ismailtrm/ceng_404. Cross-list requested to cs.AI for AI-safety relevance</p></details> |
+| **[Structure-Guided Diffusion Models for High-Fidelity Portrait Shadow Removal](http://arxiv.org/abs/2507.04692v2)** | 2025-07-14 | Accepted by ICCV2025 |
+| **[Solving the compute crisis with physics-based ASICs](http://arxiv.org/abs/2507.10463v1)** | 2025-07-14 | 16 pages, 5 figures |
+| **[Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction](http://arxiv.org/abs/2504.15266v3)** | 2025-07-14 | ICML 2025 (oral) |
+| **[SCOOTER: A Human Evaluation Framework for Unrestricted Adversarial Examples](http://arxiv.org/abs/2507.07776v2)** | 2025-07-14 | <details><summary>42 pa...</summary><p>42 pages, 16 figures, 11 tables, Under Review, Code: https://github.com/DrenFazlija/Scooter, Data: https://doi.org/10.5281/zenodo.15771501</p></details> |
+| **[Parallel Sampling of Diffusion Models on $SO(3)$](http://arxiv.org/abs/2507.10347v1)** | 2025-07-14 | MVA2025 |
+| **[Modeling Item-Level Dynamic Variability with Residual Diffusion for Bundle Recommendation](http://arxiv.org/abs/2507.03280v2)** | 2025-07-14 |  |
+| **[Text Embedding Knows How to Quantize Text-Guided Diffusion Models](http://arxiv.org/abs/2507.10340v1)** | 2025-07-14 | ICCV 2025 |
+| **[Zero-Shot Cyclic Peptide Design via Composable Geometric Constraints](http://arxiv.org/abs/2507.04225v2)** | 2025-07-14 |  |
+| **[Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching](http://arxiv.org/abs/2507.10318v1)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[Low Resource Reconstruction Attacks Through Benign Prompts](http://arxiv.org/abs/2507.07947v2)** | 2025-07-14 |  |
+| **[Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention](http://arxiv.org/abs/2506.24085v2)** | 2025-07-14 | <details><summary>Proje...</summary><p>Project website is available at https://imagineforme.github.io/</p></details> |
 
