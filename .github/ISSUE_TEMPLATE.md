@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 30, 2025
+title: Latest 15 Papers - August 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Sharp to Blur: Unsupervised Domain Adaptation for 2D Human Pose Estimation Under Extreme Motion Blur Using Event Cameras](http://arxiv.org/abs/2507.22438v1)** | 2025-07-30 |  |
 | **[KASportsFormer: Kinematic Anatomy Enhanced Transformer for 3D Human Pose Estimation on Short Sports Scene Video](http://arxiv.org/abs/2507.20763v1)** | 2025-07-28 | 10 pages, 3 figures |
 | **[Uncertainty-Aware Testing-Time Optimization for 3D Human Pose Estimation](http://arxiv.org/abs/2402.02339v2)** | 2025-07-27 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Multimedia. Open sourced</p></details> |
 | **[A Structure-aware and Motion-adaptive Framework for 3D Human Pose Estimation with Mamba](http://arxiv.org/abs/2507.19852v1)** | 2025-07-26 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, conference</p></details> |
@@ -40,43 +41,42 @@ labels: documentation
 | **[SEPose: A Synthetic Event-based Human Pose Estimation Dataset for Pedestrian Monitoring](http://arxiv.org/abs/2507.11910v1)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted at the 28th IEEE International Conference on Intelligent Transportation Systems (ITSC 2025)</p></details> |
 | **[XRF V2: A Dataset for Action Summarization with Wi-Fi Signals, and IMUs in Phones, Watches, Earbuds, and Glasses](http://arxiv.org/abs/2501.19034v2)** | 2025-07-16 | <details><summary>accep...</summary><p>accepted by ACM IMWUT/UBICOMP 2025</p></details> |
 | **[Joint angle model based learning to refine kinematic human pose estimation](http://arxiv.org/abs/2507.11075v1)** | 2025-07-15 |  |
-| **[ProGait: A Multi-Purpose Video Dataset and Benchmark for Transfemoral Prosthesis Users](http://arxiv.org/abs/2507.10223v1)** | 2025-07-14 | Accepted by ICCV'25 |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Quadratic Gaussian Splatting: High Quality Surface Reconstruction with Second-order Geometric Primitives](http://arxiv.org/abs/2411.16392v2)** | 2025-07-28 | 16pages,18figures |
-| **[SurfaceSplat: Connecting Surface Reconstruction and Gaussian Splatting](http://arxiv.org/abs/2507.15602v2)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors](http://arxiv.org/abs/2409.03456v3)** | 2025-07-28 | <details><summary>Proje...</summary><p>Project page: https://hanyangyu1021.github.io/lm-gaussian.github.io/</p></details> |
-| **[GaRe: Relightable 3D Gaussian Splatting for Outdoor Scenes from Unconstrained Photo Collections](http://arxiv.org/abs/2507.20512v1)** | 2025-07-28 |  |
-| **[Automated 3D-GS Registration and Fusion via Skeleton Alignment and Gaussian-Adaptive Features](http://arxiv.org/abs/2507.20480v1)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
-| **[LUDVIG: Learning-Free Uplifting of 2D Visual Features to Gaussian Splatting Scenes](http://arxiv.org/abs/2410.14462v5)** | 2025-07-27 | <details><summary>Publi...</summary><p>Published at ICCV 2025. Project page: https://juliettemarrie.github.io/ludvig</p></details> |
-| **[From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos](http://arxiv.org/abs/2507.20331v1)** | 2025-07-27 | 12 pages |
-| **[Video2BEV: Transforming Drone Videos to BEVs for Video-based Geo-localization](http://arxiv.org/abs/2411.13610v4)** | 2025-07-27 |  |
-| **[Decomposing Densification in Gaussian Splatting for Faster 3D Scene Reconstruction](http://arxiv.org/abs/2507.20239v1)** | 2025-07-27 |  |
-| **[Neural Shell Texture Splatting: More Details and Fewer Primitives](http://arxiv.org/abs/2507.20200v1)** | 2025-07-27 |  |
-| **[DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition and Surface Reconstruction for Urban Driving Scenes](http://arxiv.org/abs/2411.11921v2)** | 2025-07-26 | CVPR 2025 |
-| **[A Lesson in Splats: Teacher-Guided Diffusion for 3D Gaussian Splats Generation with 2D Supervision](http://arxiv.org/abs/2412.00623v3)** | 2025-07-26 | ICCV 2025 |
-| **[RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cues for 3D Object Detection](http://arxiv.org/abs/2507.19856v1)** | 2025-07-26 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, conference</p></details> |
-| **[GSplatVNM: Point-of-View Synthesis for Visual Navigation Models Using Gaussian Splatting](http://arxiv.org/abs/2503.05152v3)** | 2025-07-26 | 8 pages, 4 figures |
-| **[Taking Language Embedded 3D Gaussian Splatting into the Wild](http://arxiv.org/abs/2507.19830v1)** | 2025-07-26 | <details><summary>Visit...</summary><p>Visit our project page at https://yuzewang1998.github.io/takinglangsplatw/</p></details> |
+| **[Distance and Collision Probability Estimation from Gaussian Surface Models](http://arxiv.org/abs/2402.00186v3)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted at IROS 2025</p></details> |
+| **[GS-Occ3D: Scaling Vision-only Occupancy Reconstruction for Autonomous Driving with Gaussian Splatting](http://arxiv.org/abs/2507.19451v2)** | 2025-07-30 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project Page: https://gs-occ3d.github.io/</p></details> |
+| **[Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution](http://arxiv.org/abs/2501.06838v5)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization](http://arxiv.org/abs/2503.13086v2)** | 2025-07-30 |  |
+| **[MultiEditor: Controllable Multimodal Object Editing for Driving Scenarios Using 3D Gaussian Splatting Priors](http://arxiv.org/abs/2507.21872v2)** | 2025-07-30 |  |
+| **[No Redundancy, No Stall: Lightweight Streaming 3D Gaussian Splatting for Real-time Rendering](http://arxiv.org/abs/2507.21572v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted by International Conference on Computer-Aided Design (ICCAD) 2025</p></details> |
+| **[RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cues for 3D Object Detection](http://arxiv.org/abs/2507.19856v2)** | 2025-07-30 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, conference</p></details> |
+| **[Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey](http://arxiv.org/abs/2507.14501v2)** | 2025-07-30 | <details><summary>A pro...</summary><p>A project page associated with this survey is available at https://fnzhan.com/projects/Feed-Forward-3D</p></details> |
+| **[UFV-Splatter: Pose-Free Feed-Forward 3D Gaussian Splatting Adapted to Unfavorable Views](http://arxiv.org/abs/2507.22342v1)** | 2025-07-30 | <details><summary>Proje...</summary><p>Project page: https://yfujimura.github.io/UFV-Splatter_page/</p></details> |
+| **[FOCI: Trajectory Optimization on Gaussian Splats](http://arxiv.org/abs/2505.08510v2)** | 2025-07-30 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, Mario Gomez Andreu and Maximum Wilder-Smith contributed equally</p></details> |
+| **[FloPE: Flower Pose Estimation for Precision Pollination](http://arxiv.org/abs/2503.11692v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to IROS 2025. Project page: https://wvu-irl.github.io/flope-irl/</p></details> |
+| **[GRaD-Nav: Efficiently Learning Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics](http://arxiv.org/abs/2503.03984v3)** | 2025-07-30 |  |
+| **[DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments](http://arxiv.org/abs/2507.21981v1)** | 2025-07-29 | <details><summary>8page...</summary><p>8pages, IROS2025 (Camera Ready)</p></details> |
+| **[GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction](http://arxiv.org/abs/2503.10170v2)** | 2025-07-29 | 8 pages, IROS 2025 |
+| **[RobustSplat: Decoupling Densification and Dynamics for Transient-Free 3DGS](http://arxiv.org/abs/2506.02751v3)** | 2025-07-29 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://fcyycf.github.io/RobustSplat/</p></details> |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Flow Matching Policy Gradients](http://arxiv.org/abs/2507.21053v1)** | 2025-07-28 | <details><summary>See o...</summary><p>See our blog post: https://flowreinforce.github.io</p></details> |
-| **[Transformers as Unrolled Inference in Probabilistic Laplacian Eigenmaps: An Interpretation and Potential Improvements](http://arxiv.org/abs/2507.21040v1)** | 2025-07-28 | Initial version |
-| **[JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1](http://arxiv.org/abs/2507.20987v1)** | 2025-07-28 | WiCV @ ICCV 2025 |
-| **[Adapting Vehicle Detectors for Aerial Imagery to Unseen Domains with Weak Supervision](http://arxiv.org/abs/2507.20976v1)** | 2025-07-28 | ICCV 2025 |
-| **[Model-Agnostic Gender Bias Control for Text-to-Image Generation via Sparse Autoencoder](http://arxiv.org/abs/2507.20973v1)** | 2025-07-28 |  |
-| **[Mean-Field Langevin Diffusions with Density-dependent Temperature](http://arxiv.org/abs/2507.20958v1)** | 2025-07-28 |  |
-| **[Joint modeling for learning decision-making dynamics in behavioral experiments](http://arxiv.org/abs/2506.02394v2)** | 2025-07-28 |  |
-| **[JAM: A Tiny Flow-based Song Generator with Fine-grained Controllability and Aesthetic Alignment](http://arxiv.org/abs/2507.20880v1)** | 2025-07-28 | <details><summary>https...</summary><p>https://github.com/declare-lab/jamify</p></details> |
-| **[Implementing Adaptations for Vision AutoRegressive Model](http://arxiv.org/abs/2507.11441v2)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted at DIG-BUGS: Data in Generative Models Workshop @ ICML 2025</p></details> |
-| **[FlowNav: Combining Flow Matching and Depth Priors for Efficient Navigation](http://arxiv.org/abs/2411.09524v3)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted to IROS'25. Previous version accepted at CoRL 2024 workshop on Learning Effective Abstractions for Planning (LEAP) and workshop on Differentiable Optimization Everywhere: Simulation, Estimation, Learning, and Control</p></details> |
-| **[Visual Enumeration Remains Challenging for Multimodal Generative AI](http://arxiv.org/abs/2402.03328v3)** | 2025-07-28 |  |
-| **[Compositional Video Synthesis by Temporal Object-Centric Learning](http://arxiv.org/abs/2507.20855v1)** | 2025-07-28 | <details><summary>12+21...</summary><p>12+21 pages, submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), currently under review</p></details> |
-| **[Investigation of Accuracy and Bias in Face Recognition Trained with Synthetic Data](http://arxiv.org/abs/2507.20782v1)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE International Joint Conference on Biometrics (IJCB), 2025</p></details> |
-| **[AIComposer: Any Style and Content Image Composition via Feature Integration](http://arxiv.org/abs/2507.20721v1)** | 2025-07-28 |  |
-| **["Principal Components" Enable A New Language of Images](http://arxiv.org/abs/2503.08685v2)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[AUV-Fusion: Cross-Modal Adversarial Fusion of User Interactions and Visual Perturbations Against VARS](http://arxiv.org/abs/2507.22880v1)** | 2025-07-30 | 14 pages,6 figures |
+| **[DepR: Depth Guided Single-view Scene Reconstruction with Instance-level Diffusion](http://arxiv.org/abs/2507.22825v1)** | 2025-07-30 | ICCV 2025 |
+| **[DISTIL: Data-Free Inversion of Suspicious Trojan Inputs via Latent Diffusion](http://arxiv.org/abs/2507.22813v1)** | 2025-07-30 | ICCV 2025 |
+| **[G-Core: A Simple, Scalable and Balanced RLHF Trainer](http://arxiv.org/abs/2507.22789v1)** | 2025-07-30 |  |
+| **[The Effect of Stochasticity in Score-Based Diffusion Sampling: a KL Divergence Analysis](http://arxiv.org/abs/2506.11378v2)** | 2025-07-30 | 27 pages, 16 figures |
+| **[Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention](http://arxiv.org/abs/2507.17745v2)** | 2025-07-30 | <details><summary>Proje...</summary><p>Project Page: https://buaacyw.github.io/ultra3d/</p></details> |
+| **[Next Tokens Denoising for Speech Synthesis](http://arxiv.org/abs/2507.22746v1)** | 2025-07-30 |  |
+| **[GestureHYDRA: Semantic Co-speech Gesture Synthesis via Hybrid Modality Diffusion Transformer and Cascaded-Synchronized Retrieval-Augmented Generation](http://arxiv.org/abs/2507.22731v1)** | 2025-07-30 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted by ICCV 2025</p></details> |
+| **[Inferring biological processes with intrinsic noise from cross-sectional data](http://arxiv.org/abs/2410.07501v2)** | 2025-07-30 |  |
+| **[Zero-Shot Image Anomaly Detection Using Generative Foundation Models](http://arxiv.org/abs/2507.22692v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted at the workshop of Anomaly Detection with Foundation Models, ICCV 2025</p></details> |
+| **[Equivariant Flow Matching for Point Cloud Assembly](http://arxiv.org/abs/2505.21539v2)** | 2025-07-30 |  |
+| **[Fine-Tuning Visual Autoregressive Models for Subject-Driven Generation](http://arxiv.org/abs/2504.02612v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Project page: https://jiwoogit.github.io/ARBooth/</p></details> |
+| **[LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing](http://arxiv.org/abs/2507.22627v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted at ICCV25 (Oral). Project page: https://intelligolabs.github.io/lots/</p></details> |
+| **[Hate in Plain Sight: On the Risks of Moderating AI-Generated Hateful Illusions](http://arxiv.org/abs/2507.22617v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
+| **[Generative Active Learning for Long-tail Trajectory Prediction via Controllable Diffusion Model](http://arxiv.org/abs/2507.22615v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 
