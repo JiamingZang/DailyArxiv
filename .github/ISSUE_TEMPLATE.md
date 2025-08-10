@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 08, 2025
+title: Latest 15 Papers - August 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -45,38 +45,38 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GAP: Gaussianize Any Point Clouds with Text Guidance](http://arxiv.org/abs/2508.05631v1)** | 2025-08-07 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://weiqi-zhang.github.io/GAP</p></details> |
+| **[Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion](http://arxiv.org/abs/2408.01225v2)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted at IROS 2024</p></details> |
+| **[Radiance Fields in XR: A Survey on How Radiance Fields are Envisioned and Addressed for XR Research](http://arxiv.org/abs/2508.04326v2)** | 2025-08-07 | <details><summary>This ...</summary><p>This work is a pre-print version of a paper that has been accepted to the IEEE TVCG journal for future publication</p></details> |
+| **[3DGabSplat: 3D Gabor Splatting for Frequency-adaptive Radiance Field Rendering](http://arxiv.org/abs/2508.05343v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted by ACM MM'25</p></details> |
+| **[CountingFruit: Language-Guided 3D Fruit Counting with Semantic Gaussian Splatting](http://arxiv.org/abs/2506.01109v3)** | 2025-08-07 |  |
+| **[CF3: Compact and Fast 3D Feature Fields](http://arxiv.org/abs/2508.05254v1)** | 2025-08-07 | ICCV 2025 |
+| **[Refining Gaussian Splatting: A Volumetric Densification Approach](http://arxiv.org/abs/2508.05187v1)** | 2025-08-07 |  |
+| **[A Study of the Framework and Real-World Applications of Language Embedding for 3D Scene Understanding](http://arxiv.org/abs/2508.05064v1)** | 2025-08-07 |  |
+| **[UGOD: Uncertainty-Guided Differentiable Opacity and Soft Dropout for Enhanced Sparse-View 3DGS](http://arxiv.org/abs/2508.04968v1)** | 2025-08-07 | 11 pages, 5 figures |
+| **[Laplacian Analysis Meets Dynamics Modelling: Gaussian Splatting for 4D Reconstruction](http://arxiv.org/abs/2508.04966v1)** | 2025-08-07 |  |
+| **[Perceive-Sample-Compress: Towards Real-Time 3D Gaussian Splatting](http://arxiv.org/abs/2508.04965v1)** | 2025-08-07 |  |
+| **[CryoGS: Gaussian Splatting for Cryo-EM Homogeneous Reconstruction](http://arxiv.org/abs/2508.04929v1)** | 2025-08-06 |  |
+| **[GaSLight: Gaussian Splats for Spatially-Varying Lighting in HDR](http://arxiv.org/abs/2504.10809v3)** | 2025-08-06 |  |
 | **[GR-Gaussian: Graph-Based Radiative Gaussian Splatting for Sparse-View CT Reconstruction](http://arxiv.org/abs/2508.02408v2)** | 2025-08-06 | 10 |
 | **[Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images](http://arxiv.org/abs/2508.03643v2)** | 2025-08-06 | <details><summary>The c...</summary><p>The code is available at https://github.com/HorizonRobotics/Uni3R</p></details> |
-| **[UFV-Splatter: Pose-Free Feed-Forward 3D Gaussian Splatting Adapted to Unfavorable Views](http://arxiv.org/abs/2507.22342v2)** | 2025-08-06 | <details><summary>Proje...</summary><p>Project page: https://yfujimura.github.io/UFV-Splatter_page/</p></details> |
-| **[Radiance Fields in XR: A Survey on How Radiance Fields are Envisioned and Addressed for XR Research](http://arxiv.org/abs/2508.04326v1)** | 2025-08-06 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TVCG journal for possible publication</p></details> |
-| **[MuGS: Multi-Baseline Generalizable Gaussian Splatting Reconstruction](http://arxiv.org/abs/2508.04297v1)** | 2025-08-06 | <details><summary>This ...</summary><p>This work is accepted by ICCV 2025</p></details> |
-| **[SplitGaussian: Reconstructing Dynamic Scenes via Visual Geometry Decomposition](http://arxiv.org/abs/2508.04224v1)** | 2025-08-06 |  |
-| **[DET-GS: Depth- and Edge-Aware Regularization for High-Fidelity 3D Gaussian Splatting](http://arxiv.org/abs/2508.04099v1)** | 2025-08-06 |  |
-| **[Bridging Diffusion Models and 3D Representations: A 3D Consistent Super-Resolution Framework](http://arxiv.org/abs/2508.04090v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[RLGS: Reinforcement Learning-Based Adaptive Hyperparameter Tuning for Gaussian Splatting](http://arxiv.org/abs/2508.04078v1)** | 2025-08-06 | 14 pages, 9 figures |
-| **[4D Gaussian Splatting: Modeling Dynamic Scenes with Native 4D Primitives](http://arxiv.org/abs/2412.20720v2)** | 2025-08-05 | <details><summary>Journ...</summary><p>Journal extension of ICLR 2024. arXiv admin note: text overlap with arXiv:2310.10642</p></details> |
-| **[Low-Frequency First: Eliminating Floating Artifacts in 3D Gaussian Splatting](http://arxiv.org/abs/2508.02493v2)** | 2025-08-05 | <details><summary>Proje...</summary><p>Project Website: https://jcwang-gh.github.io/EFA-GS</p></details> |
-| **[4D Scaffold Gaussian Splatting with Dynamic-Aware Anchor Growing for Efficient and High-Fidelity Dynamic Scene Reconstruction](http://arxiv.org/abs/2411.17044v2)** | 2025-08-05 |  |
-| **[Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image](http://arxiv.org/abs/2505.14537v2)** | 2025-08-05 | 18 pages |
-| **[Trace3D: Consistent Segmentation Lifting via Gaussian Instance Tracing](http://arxiv.org/abs/2508.03227v1)** | 2025-08-05 |  |
-| **[Duplex-GS: Proxy-Guided Weighted Blending for Real-Time Order-Independent Gaussian Splatting](http://arxiv.org/abs/2508.03180v1)** | 2025-08-05 |  |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HierarchicalPrune: Position-Aware Compression for Large-Scale Diffusion Models](http://arxiv.org/abs/2508.04663v1)** | 2025-08-06 |  |
-| **[The Aging Multiverse: Generating Condition-Aware Facial Aging Tree via Training-Free Diffusion](http://arxiv.org/abs/2506.21008v3)** | 2025-08-06 |  |
-| **[Multitask Learning with Stochastic Interpolants](http://arxiv.org/abs/2508.04605v1)** | 2025-08-06 |  |
-| **[CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation](http://arxiv.org/abs/2412.03859v3)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[A Comprehensive Framework for Uncertainty Quantification of Voxel-wise Supervised Models in IVIM MRI](http://arxiv.org/abs/2508.04588v1)** | 2025-08-06 |  |
-| **[DDTracking: A Deep Generative Framework for Diffusion MRI Tractography with Streamline Local-Global Spatiotemporal Modeling](http://arxiv.org/abs/2508.04568v1)** | 2025-08-06 | <details><summary>Prepr...</summary><p>Preprint version. The content may be updated in the future</p></details> |
-| **[TAlignDiff: Automatic Tooth Alignment assisted by Diffusion-based Transformation Learning](http://arxiv.org/abs/2508.04565v1)** | 2025-08-06 | <details><summary>Submi...</summary><p>Submitted to AAAI 2026</p></details> |
-| **[Drone Detection with Event Cameras](http://arxiv.org/abs/2508.04564v1)** | 2025-08-06 |  |
-| **[One Model For All: Partial Diffusion for Unified Try-On and Try-Off in Any Pose](http://arxiv.org/abs/2508.04559v1)** | 2025-08-06 |  |
-| **[Two-Way Garment Transfer: Unified Diffusion Framework for Dressing and Undressing Synthesis](http://arxiv.org/abs/2508.04551v1)** | 2025-08-06 |  |
-| **[JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation](http://arxiv.org/abs/2503.23951v2)** | 2025-08-06 | <details><summary>Proje...</summary><p>Project Page: https://fdchen24.github.io/JointTuner-Website</p></details> |
-| **[QuantVSR: Low-Bit Post-Training Quantization for Real-World Video Super-Resolution](http://arxiv.org/abs/2508.04485v1)** | 2025-08-06 |  |
-| **[4DVD: Cascaded Dense-view Video Diffusion Model for High-quality 4D Content Generation](http://arxiv.org/abs/2508.04467v1)** | 2025-08-06 |  |
-| **[Ctrl-Z Sampling: Diffusion Sampling with Controlled Random Zigzag Explorations](http://arxiv.org/abs/2506.20294v2)** | 2025-08-06 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 7 tables</p></details> |
-| **[Unmasking Interstitial Lung Diseases: Leveraging Masked Autoencoders for Diagnosis](http://arxiv.org/abs/2508.04429v1)** | 2025-08-06 |  |
+| **[Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](http://arxiv.org/abs/2508.05635v1)** | 2025-08-07 | <details><summary>https...</summary><p>https://genie-envisioner.github.io/</p></details> |
+| **[Diffusion Beats Autoregressive in Data-Constrained Settings](http://arxiv.org/abs/2507.15857v5)** | 2025-08-07 | <details><summary>Proje...</summary><p>Project Webpage: https://diffusion-scaling.github.io</p></details> |
+| **[GAP: Gaussianize Any Point Clouds with Text Guidance](http://arxiv.org/abs/2508.05631v1)** | 2025-08-07 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://weiqi-zhang.github.io/GAP</p></details> |
+| **[Latent Space Diffusion for Topology Optimization](http://arxiv.org/abs/2508.05624v1)** | 2025-08-07 |  |
+| **[TreeDiff: AST-Guided Code Generation with Diffusion LLMs](http://arxiv.org/abs/2508.01473v2)** | 2025-08-07 |  |
+| **[Fast and Robust Visuomotor Riemannian Flow Matching Policy](http://arxiv.org/abs/2412.10855v3)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE T-RO. Project website: https://sites.google.com/view/rfmp 17 pages, 12 figures, 12 tables</p></details> |
+| **[Personalized Safety Alignment for Text-to-Image Diffusion Models](http://arxiv.org/abs/2508.01151v2)** | 2025-08-07 | <details><summary>metad...</summary><p>metadata-only revision; corrected a typo in the abstract. No changes to the PDF content</p></details> |
+| **[MagicHOI: Leveraging 3D Priors for Accurate Hand-object Reconstruction from Short Monocular Video Clips](http://arxiv.org/abs/2508.05506v1)** | 2025-08-07 |  |
+| **[Motion Planning Diffusion: Learning and Adapting Robot Motion Planning with Diffusion Models](http://arxiv.org/abs/2412.19948v2)** | 2025-08-07 |  |
+| **[MolSnap: Snap-Fast Molecular Generation with Latent Variational Mean Flow](http://arxiv.org/abs/2508.05411v1)** | 2025-08-07 |  |
+| **[CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection](http://arxiv.org/abs/2506.11772v2)** | 2025-08-07 |  |
+| **[UNCAGE: Contrastive Attention Guidance for Masked Generative Transformers in Text-to-Image Generation](http://arxiv.org/abs/2508.05399v1)** | 2025-08-07 | <details><summary>Code ...</summary><p>Code is available at https://github.com/furiosa-ai/uncage</p></details> |
+| **[Real-Time Iteration Scheme for Diffusion Policy](http://arxiv.org/abs/2508.05396v1)** | 2025-08-07 | <details><summary>\c{op...</summary><p>\c{opyright} 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
+| **[S$^2$Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation](http://arxiv.org/abs/2508.04016v2)** | 2025-08-07 |  |
+| **[A Comprehensive Framework for Uncertainty Quantification of Voxel-wise Supervised Models in IVIM MRI](http://arxiv.org/abs/2508.04588v2)** | 2025-08-07 |  |
 
