@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 15, 2025
+title: Latest 15 Papers - August 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[eMamba: Efficient Acceleration Framework for Mamba Models in Edge Computing](http://arxiv.org/abs/2508.10370v1)** | 2025-08-14 | <details><summary>Paper...</summary><p>Paper accepted at ESWEEK 2025 (CODES+ISSS) conference</p></details> |
 | **[ProbRadarM3F: mmWave Radar based Human Skeletal Pose Estimation with Probability Map Guided Multi-Format Feature Fusion](http://arxiv.org/abs/2405.05164v5)** | 2025-08-13 |  |
 | **[Human Motion Capture from Loose and Sparse Inertial Sensors with Garment-aware Diffusion Models](http://arxiv.org/abs/2506.15290v2)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025</p></details> |
 | **[MultiFormer: A Multi-Person Pose Estimation System Based on CSI and Attention Mechanism](http://arxiv.org/abs/2505.22555v2)** | 2025-08-13 |  |
@@ -40,11 +41,15 @@ labels: documentation
 | **[IMUCoCo: Enabling Flexible On-Body IMU Placement for Human Pose Estimation and Activity Recognition](http://arxiv.org/abs/2508.01894v1)** | 2025-08-03 |  |
 | **[Detection, Pose Estimation and Segmentation for Multiple Bodies: Closing the Virtuous Circle](http://arxiv.org/abs/2412.01562v3)** | 2025-08-01 | <details><summary>Proje...</summary><p>Project Website: https://mirapurkrabek.github.io/BBox-Mask-Pose</p></details> |
 | **[Mitigating Resolution-Drift in Federated Learning: Case of Keypoint Detection](http://arxiv.org/abs/2507.23461v1)** | 2025-07-31 |  |
-| **[From Sharp to Blur: Unsupervised Domain Adaptation for 2D Human Pose Estimation Under Extreme Motion Blur Using Event Cameras](http://arxiv.org/abs/2507.22438v1)** | 2025-07-30 |  |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting](http://arxiv.org/abs/2505.20469v2)** | 2025-08-14 | ICCV 2025 |
+| **[Multi-Sample Anti-Aliasing and Constrained Optimization for 3D Gaussian Splatting](http://arxiv.org/abs/2508.10507v1)** | 2025-08-14 |  |
+| **[Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives](http://arxiv.org/abs/2412.00578v3)** | 2025-08-14 | <details><summary>CVPR ...</summary><p>CVPR 2025, Project Page: https://speedysplat.github.io/</p></details> |
+| **[DGNS: Deformable Gaussian Splatting and Dynamic Neural Surface for Monocular Dynamic 3D Reconstruction](http://arxiv.org/abs/2412.03910v3)** | 2025-08-14 |  |
+| **[EntropyGS: An Efficient Entropy Coding on 3D Gaussian Splatting](http://arxiv.org/abs/2508.10227v1)** | 2025-08-13 |  |
 | **[A Survey on 3D Gaussian Splatting Applications: Segmentation, Editing, and Generation](http://arxiv.org/abs/2508.09977v1)** | 2025-08-13 | <details><summary>GitHu...</summary><p>GitHub Repo: https://github.com/heshuting555/Awesome-3DGS-Applications</p></details> |
 | **[E-4DGS: High-Fidelity Dynamic Reconstruction from the Multi-view Event Cameras](http://arxiv.org/abs/2508.09912v1)** | 2025-08-13 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 Tables, accepted by ACMMM 2025</p></details> |
 | **[Multi-view Normal and Distance Guidance Gaussian Splatting for Surface Reconstruction](http://arxiv.org/abs/2508.07701v2)** | 2025-08-13 | <details><summary>This ...</summary><p>This paper has been accepted by IROS 2025. Code: https://github.com/Bistu3DV/MND-GS/</p></details> |
@@ -55,28 +60,23 @@ labels: documentation
 | **[NeuralGS: Bridging Neural Fields and 3D Gaussian Splatting for Compact 3D Representations](http://arxiv.org/abs/2503.23162v2)** | 2025-08-13 | <details><summary>Proje...</summary><p>Project page: https://pku-yuangroup.github.io/NeuralGS/</p></details> |
 | **[SkySplat: Generalizable 3D Gaussian Splatting from Multi-Temporal Sparse Satellite Images](http://arxiv.org/abs/2508.09479v1)** | 2025-08-13 |  |
 | **[Efficient Differentiable Hardware Rasterization for 3D Gaussian Splatting](http://arxiv.org/abs/2505.18764v2)** | 2025-08-13 | 8 pages,2 figures |
-| **[3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation](http://arxiv.org/abs/2507.01367v2)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[A new dataset and comparison for multi-camera frame synthesis](http://arxiv.org/abs/2508.09068v1)** | 2025-08-12 | <details><summary>SPIE2...</summary><p>SPIE2025 - Applications of Digital Image Processing XLVIII accepted manuscript</p></details> |
-| **[Gradient-Direction-Aware Density Control for 3D Gaussian Splatting](http://arxiv.org/abs/2508.09239v1)** | 2025-08-12 |  |
-| **[GaussianUpdate: Continual 3D Gaussian Splatting Update for Changing Environments](http://arxiv.org/abs/2508.08867v1)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video](http://arxiv.org/abs/2412.06424v2)** | 2025-08-12 | 16 pages |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion](http://arxiv.org/abs/2508.08241v3)** | 2025-08-13 | <details><summary>coin ...</summary><p>coin toss authorship, minor changes</p></details> |
-| **[Story2Board: A Training-Free Approach for Expressive Storyboard Generation](http://arxiv.org/abs/2508.09983v1)** | 2025-08-13 | <details><summary>Proje...</summary><p>Project page is available at https://daviddinkevich.github.io/Story2Board/</p></details> |
-| **[Masquerade: Learning from In-the-wild Human Videos using Data-Editing](http://arxiv.org/abs/2508.09976v1)** | 2025-08-13 | <details><summary>Proje...</summary><p>Project website at https://masquerade-robot.github.io/</p></details> |
-| **[PERSONA: Personalized Whole-Body 3D Avatar with Pose-Driven Deformations from a Single Image](http://arxiv.org/abs/2508.09973v1)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. https://mks0601.github.io/PERSONA/</p></details> |
-| **[Noise Hypernetworks: Amortizing Test-Time Compute in Diffusion Models](http://arxiv.org/abs/2508.09968v1)** | 2025-08-13 | <details><summary>Proje...</summary><p>Project page: https://noisehypernetworks.github.io/</p></details> |
-| **[LayerTracer: Cognitive-Aligned Layered SVG Synthesis via Diffusion Transformer](http://arxiv.org/abs/2502.01105v3)** | 2025-08-13 |  |
-| **[Stable Diffusion Models are Secretly Good at Visual In-Context Learning](http://arxiv.org/abs/2508.09949v1)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[AST-n: A Fast Sampling Approach for Low-Dose CT Reconstruction using Diffusion Models](http://arxiv.org/abs/2508.09943v1)** | 2025-08-13 |  |
-| **[Quo Vadis Handwritten Text Generation for Handwritten Text Recognition?](http://arxiv.org/abs/2508.09936v1)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted at ICCV Workshop VisionDocs</p></details> |
-| **[Dequantified Diffusion-Schr{ö}dinger Bridge for Density Ratio Estimation](http://arxiv.org/abs/2505.05034v4)** | 2025-08-13 |  |
-| **[Yan: Foundational Interactive Video Generation](http://arxiv.org/abs/2508.08601v2)** | 2025-08-13 |  |
-| **[Prototype-Guided Diffusion: Visual Conditioning without External Memory](http://arxiv.org/abs/2508.09922v1)** | 2025-08-13 |  |
-| **[Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning](http://arxiv.org/abs/2506.05207v2)** | 2025-08-13 | <details><summary>proje...</summary><p>project page: https://follow-your-motion.github.io/</p></details> |
-| **[Continuous-time q-Learning for Jump-Diffusion Models under Tsallis Entropy](http://arxiv.org/abs/2407.03888v3)** | 2025-08-13 |  |
-| **[Cryo-em images are intrinsically low dimensional](http://arxiv.org/abs/2504.11249v2)** | 2025-08-13 |  |
+| **[A Survey on Diffusion Language Models](http://arxiv.org/abs/2508.10875v1)** | 2025-08-14 |  |
+| **[TBAC-UniImage: Unified Understanding and Generation by Ladder-Side Diffusion Tuning](http://arxiv.org/abs/2508.08098v2)** | 2025-08-14 |  |
+| **[Quantitative Comparison of Fine-Tuning Techniques for Pretrained Latent Diffusion Models in the Generation of Unseen SAR Images](http://arxiv.org/abs/2506.13307v2)** | 2025-08-14 |  |
+| **[Object Fidelity Diffusion for Remote Sensing Image Generation](http://arxiv.org/abs/2508.10801v1)** | 2025-08-14 |  |
+| **[Ultra-High-Definition Reference-Based Landmark Image Super-Resolution with Generative Diffusion Prior](http://arxiv.org/abs/2508.10779v1)** | 2025-08-14 |  |
+| **[Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation](http://arxiv.org/abs/2508.10774v1)** | 2025-08-14 | Tech report |
+| **[AEGIS: Authenticity Evaluation Benchmark for AI-Generated Video Sequences](http://arxiv.org/abs/2508.10771v1)** | 2025-08-14 | <details><summary>Proce...</summary><p>Proceedings of the 33rd ACM International Conference on Multimedia</p></details> |
+| **[Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs](http://arxiv.org/abs/2508.10736v1)** | 2025-08-14 |  |
+| **[NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](http://arxiv.org/abs/2508.10711v1)** | 2025-08-14 | <details><summary>Code:...</summary><p>Code: https://github.com/stepfun-ai/NextStep-1</p></details> |
+| **[CountCluster: Training-Free Object Quantity Guidance with Cross-Attention Map Clustering for Text-to-Image Generation](http://arxiv.org/abs/2508.10710v1)** | 2025-08-14 | Under review |
+| **[Probabilistic Forecasting Method for Offshore Wind Farm Cluster under Typhoon Conditions: a Score-Based Conditional Diffusion Model](http://arxiv.org/abs/2508.10705v1)** | 2025-08-14 |  |
+| **[Novel View Synthesis using DDIM Inversion](http://arxiv.org/abs/2508.10688v1)** | 2025-08-14 |  |
+| **[Reinforcement Learning in Vision: A Survey](http://arxiv.org/abs/2508.08189v2)** | 2025-08-14 | 22 pages |
+| **[MDNS: Masked Diffusion Neural Sampler via Stochastic Optimal Control](http://arxiv.org/abs/2508.10684v1)** | 2025-08-14 |  |
+| **[Classification of small-ball modes and maximum a posteriori estimators in metric spaces](http://arxiv.org/abs/2306.16278v4)** | 2025-08-14 | 63 pages |
 
