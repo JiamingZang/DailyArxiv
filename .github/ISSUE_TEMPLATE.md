@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 22, 2025
+title: Latest 15 Papers - August 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -45,38 +45,38 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TiP4GEN: Text to Immersive Panorama 4D Scene Generation](http://arxiv.org/abs/2508.12415v2)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted In Proceedings of the 33rd ACM International Conference on Multimedia (MM' 25)</p></details> |
+| **[3DGS-LM: Faster Gaussian-Splatting Optimization with Levenberg-Marquardt](http://arxiv.org/abs/2409.12892v2)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Project page: https://lukashoel.github.io/3DGS-LM, Video: https://www.youtube.com/watch?v=tDiGuGMssg8, Code: https://github.com/lukasHoel/3DGS-LM</p></details> |
+| **[Enhancing Novel View Synthesis from extremely sparse views with SfM-free 3D Gaussian Splatting Framework](http://arxiv.org/abs/2508.15457v1)** | 2025-08-21 | 13 pages, 4 figures |
+| **[GALA: Guided Attention with Language Alignment for Open Vocabulary Gaussian Splatting](http://arxiv.org/abs/2508.14278v2)** | 2025-08-21 |  |
+| **[DriveSplat: Decoupled Driving Scene Reconstruction with Geometry-enhanced Partitioned Neural Gaussians](http://arxiv.org/abs/2508.15376v1)** | 2025-08-21 |  |
+| **[Image-Conditioned 3D Gaussian Splat Quantization](http://arxiv.org/abs/2508.15372v1)** | 2025-08-21 |  |
+| **[TextSplat: Text-Guided Semantic Fusion for Generalizable Gaussian Splatting](http://arxiv.org/abs/2504.09588v2)** | 2025-08-21 |  |
+| **[MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion](http://arxiv.org/abs/2508.15169v1)** | 2025-08-21 |  |
+| **[Zero-shot Volumetric CT Super-Resolution using 3D Gaussian Splatting with Upsampled 2D X-ray Projection Priors](http://arxiv.org/abs/2508.15151v1)** | 2025-08-21 |  |
 | **[GSFix3D: Diffusion-Guided Repair of Novel Views in Gaussian Splatting](http://arxiv.org/abs/2508.14717v1)** | 2025-08-20 |  |
 | **[Gaussian-LIC: Real-Time Photo-Realistic SLAM with Gaussian Splatting and LiDAR-Inertial-Camera Fusion](http://arxiv.org/abs/2404.06926v3)** | 2025-08-20 | ICRA 2025 |
 | **[GeMS: Efficient Gaussian Splatting for Extreme Motion Blur](http://arxiv.org/abs/2508.14682v1)** | 2025-08-20 |  |
 | **[GOGS: High-Fidelity Geometry and Relighting for Glossy Objects via Gaussian Surfels](http://arxiv.org/abs/2508.14563v1)** | 2025-08-20 | 13 pages, 13 figures |
 | **[From Slices to Structures: Unsupervised 3D Reconstruction of Female Pelvic Anatomy from Freehand Transvaginal Ultrasound](http://arxiv.org/abs/2508.14552v1)** | 2025-08-20 |  |
 | **[Reconstruction Using the Invisible: Intuition from NIR and Metadata for Enhanced 3D Gaussian Splatting](http://arxiv.org/abs/2508.14443v1)** | 2025-08-20 |  |
-| **[GALA: Guided Attention with Language Alignment for Open Vocabulary Gaussian Splatting](http://arxiv.org/abs/2508.14278v1)** | 2025-08-19 |  |
-| **[LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos](http://arxiv.org/abs/2508.14041v1)** | 2025-08-19 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://linjohnss.github.io/longsplat/</p></details> |
-| **[Distilled-3DGS:Distilled 3D Gaussian Splatting](http://arxiv.org/abs/2508.14037v1)** | 2025-08-19 | <details><summary>Proje...</summary><p>Project page: https://distilled3dgs.github.io Code: https://github.com/lt-xiang/Distilled-3DGS</p></details> |
-| **[Online 3D Gaussian Splatting Modeling with Novel View Selection](http://arxiv.org/abs/2508.14014v1)** | 2025-08-19 |  |
-| **[DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting](http://arxiv.org/abs/2504.10486v2)** | 2025-08-19 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, ICCV 2025 Findings Oral, Project pages: https://jzr99.github.io/DNF-Avatar/</p></details> |
-| **[PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis](http://arxiv.org/abs/2508.13911v1)** | 2025-08-19 |  |
-| **[EAvatar: Expression-Aware Head Avatar Reconstruction with Generative Geometry Priors](http://arxiv.org/abs/2508.13537v1)** | 2025-08-19 | 20 pages, 11 figures |
-| **[A Study of the Framework and Real-World Applications of Language Embedding for 3D Scene Understanding](http://arxiv.org/abs/2508.05064v2)** | 2025-08-19 |  |
-| **[InnerGS: Internal Scenes Rendering via Factorized 3D Gaussian Splatting](http://arxiv.org/abs/2508.13287v1)** | 2025-08-18 |  |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs](http://arxiv.org/abs/2508.14896v1)** | 2025-08-20 | <details><summary>Techn...</summary><p>Technical Report, Work in Progress</p></details> |
-| **[Squeezed Diffusion Models](http://arxiv.org/abs/2508.14871v1)** | 2025-08-20 | 7 pages, 3 figures |
-| **[TransLight: Image-Guided Customized Lighting Control with Generative Decoupling](http://arxiv.org/abs/2508.14814v1)** | 2025-08-20 | 15 pages, 9 figures |
-| **[Tinker: Diffusion's Gift to 3D--Multi-View Consistent Editing From Sparse Inputs without Per-Scene Optimization](http://arxiv.org/abs/2508.14811v1)** | 2025-08-20 | <details><summary>Proje...</summary><p>Project webpage: https://aim-uofa.github.io/Tinker</p></details> |
-| **[Cross-Modality Controlled Molecule Generation with Diffusion Language Model](http://arxiv.org/abs/2508.14748v1)** | 2025-08-20 |  |
-| **[Identity Preserving 3D Head Stylization with Multiview Score Distillation](http://arxiv.org/abs/2411.13536v3)** | 2025-08-20 | <details><summary>https...</summary><p>https://three-bee.github.io/head_stylization</p></details> |
-| **[GSFix3D: Diffusion-Guided Repair of Novel Views in Gaussian Splatting](http://arxiv.org/abs/2508.14717v1)** | 2025-08-20 |  |
-| **[Virtual Multiplex Staining for Histological Images using a Marker-wise Conditioned Diffusion Model](http://arxiv.org/abs/2508.14681v1)** | 2025-08-20 |  |
-| **[Dark Miner: Defend against undesirable generation for text-to-image diffusion models](http://arxiv.org/abs/2409.17682v3)** | 2025-08-20 |  |
-| **[DiffIER: Optimizing Diffusion Models with Iterative Error Reduction](http://arxiv.org/abs/2508.13628v2)** | 2025-08-20 |  |
-| **[AnchorSync: Global Consistency Optimization for Long Video Editing](http://arxiv.org/abs/2508.14609v1)** | 2025-08-20 | <details><summary>ACM M...</summary><p>ACM MM 2025; Code is released at https://github.com/VISION-SJTU/AnchorSync</p></details> |
-| **[Latent Interpolation Learning Using Diffusion Models for Cardiac Volume Reconstruction](http://arxiv.org/abs/2508.13826v2)** | 2025-08-20 |  |
-| **[Extremum Flow Matching for Offline Goal Conditioned Reinforcement Learning](http://arxiv.org/abs/2505.19717v2)** | 2025-08-20 | <details><summary>2025 ...</summary><p>2025 IEEE-RAS 24th International Conference on Humanoid Robots (Humanoids), Sep 2025, Seoul, South Korea</p></details> |
-| **[Reconstruction-Free Anomaly Detection with Diffusion Models](http://arxiv.org/abs/2504.05662v2)** | 2025-08-20 | <details><summary>Code ...</summary><p>Code is available at https://github.com/SkyShunsuke/InversionAD</p></details> |
-| **[BadBlocks: Low-Cost and Stealthy Backdoor Attacks Tailored for Text-to-Image Diffusion Models](http://arxiv.org/abs/2508.03221v3)** | 2025-08-20 |  |
+| **[CineScale: Free Lunch in High-Resolution Cinematic Visual Generation](http://arxiv.org/abs/2508.15774v1)** | 2025-08-21 | <details><summary>CineS...</summary><p>CineScale is an extended work of FreeScale (ICCV 2025). Project Page: https://eyeline-labs.github.io/CineScale/, Code Repo: https://github.com/Eyeline-Labs/CineScale</p></details> |
+| **[Visual Autoregressive Modeling for Instruction-Guided Image Editing](http://arxiv.org/abs/2508.15772v1)** | 2025-08-21 | <details><summary>Sourc...</summary><p>Source codes and models are available at https://github.com/HiDream-ai/VAREdit</p></details> |
+| **[Probability Density from Latent Diffusion Models for Out-of-Distribution Detection](http://arxiv.org/abs/2508.15737v1)** | 2025-08-21 | ECAI 2025 |
+| **[Mind and Motion Aligned: A Joint Evaluation IsaacSim Benchmark for Task Planning and Low-Level Policies in Mobile Manipulation](http://arxiv.org/abs/2508.15663v1)** | 2025-08-21 |  |
+| **[When and What: Diffusion-Grounded VideoLLM with Entity Aware Segmentation for Long Video Understanding](http://arxiv.org/abs/2508.15641v1)** | 2025-08-21 |  |
+| **[Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation](http://arxiv.org/abs/2405.14802v3)** | 2025-08-21 |  |
+| **[Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks](http://arxiv.org/abs/2407.20836v4)** | 2025-08-21 |  |
+| **[Mean-Field Langevin Diffusions with Density-dependent Temperature](http://arxiv.org/abs/2507.20958v2)** | 2025-08-21 |  |
+| **[Dream 7B: Diffusion Large Language Models](http://arxiv.org/abs/2508.15487v1)** | 2025-08-21 |  |
+| **[ReconDreamer-RL: Enhancing Reinforcement Learning via Diffusion-based Scene Reconstruction](http://arxiv.org/abs/2508.08170v2)** | 2025-08-21 |  |
+| **[FoleySpace: Vision-Aligned Binaural Spatial Audio Generation](http://arxiv.org/abs/2508.12918v2)** | 2025-08-21 |  |
+| **[Numerical Analysis of Unsupervised Learning Approaches for Parameter Identification in PDEs](http://arxiv.org/abs/2508.15381v1)** | 2025-08-21 | 49 pages |
+| **[Hybrid Autoregressive-Diffusion Model for Real-Time Streaming Sign Language Production](http://arxiv.org/abs/2507.09105v2)** | 2025-08-21 | <details><summary>The a...</summary><p>The authors have withdrawn this manuscript because the current version requires substantial revisions and is no longer suitable for posting</p></details> |
+| **[Multitask Learning with Stochastic Interpolants](http://arxiv.org/abs/2508.04605v2)** | 2025-08-21 |  |
+| **[Synthesizing Near-Boundary OOD Samples for Out-of-Distribution Detection](http://arxiv.org/abs/2507.10225v3)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025 (Highlight)</p></details> |
 
