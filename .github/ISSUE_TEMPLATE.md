@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 29, 2025
+title: Latest 15 Papers - September 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -45,6 +45,10 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generating Human-AI Collaborative Design Sequence for 3D Assets via Differentiable Operation Graph](http://arxiv.org/abs/2508.17645v2)** | 2025-08-28 |  |
+| **[${C}^{3}$-GS: Learning Context-aware, Cross-dimension, Cross-scale Feature for Generalizable Gaussian Splatting](http://arxiv.org/abs/2508.20754v1)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted to The 36th British Machine Vision Conference (BMVC 2025), Sheffield, UK</p></details> |
+| **[AvatarBack: Back-Head Generation for Complete 3D Avatars from Front-View Images](http://arxiv.org/abs/2508.20623v1)** | 2025-08-28 |  |
+| **[Realistic and Controllable 3D Gaussian-Guided Object Editing for Driving Video Generation](http://arxiv.org/abs/2508.20471v1)** | 2025-08-28 |  |
 | **[Pseudo-Simulation for Autonomous Driving](http://arxiv.org/abs/2506.04218v2)** | 2025-08-27 | CoRL 2025 |
 | **[Seam360GS: Seamless 360° Gaussian Splatting from Real-World Omnidirectional Images](http://arxiv.org/abs/2508.20080v1)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. 10 pages main text, 4 figures, 4 tables, supplementary material included</p></details> |
 | **[MAPo : Motion-Aware Partitioning of Deformable 3D Gaussian Splatting for High-Fidelity Dynamic Scene Reconstruction](http://arxiv.org/abs/2508.19786v1)** | 2025-08-27 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, Anonymous AAAI Submission</p></details> |
@@ -56,27 +60,23 @@ labels: documentation
 | **[MCGS: Multiview Consistency Enhancement for Sparse-View 3D Gaussian Radiance Fields](http://arxiv.org/abs/2410.11394v2)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence</p></details> |
 | **[PseudoMapTrainer: Learning Online Mapping without HD Maps](http://arxiv.org/abs/2508.18788v1)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 | **[Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting](http://arxiv.org/abs/2508.12720v2)** | 2025-08-26 | <details><summary>Under...</summary><p>Under review. Project page: https://chenkangjie1123.github.io/Co-Adaptation-3DGS/, Code at: https://github.com/chenkangjie1123/Co-Adaptation-of-3DGS</p></details> |
-| **[ColorGS: High-fidelity Surgical Scene Reconstruction with Colored Gaussian Splatting](http://arxiv.org/abs/2508.18696v1)** | 2025-08-26 |  |
-| **[TRAN-D: 2D Gaussian Splatting-based Sparse-view Transparent Object Depth Reconstruction via Physics Simulation for Scene Update](http://arxiv.org/abs/2507.11069v3)** | 2025-08-26 |  |
-| **[Real-time 3D Visualization of Radiance Fields on Light Field Displays](http://arxiv.org/abs/2508.18540v1)** | 2025-08-25 | <details><summary>10 pa...</summary><p>10 pages, 14 figures. J. Kim, C. Sun, and M. Stengel contributed equally</p></details> |
-| **[FastAvatar: Instant 3D Gaussian Splatting for Faces from Single Unconstrained Poses](http://arxiv.org/abs/2508.18389v1)** | 2025-08-25 | 11 pages, 5 figures |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Discrete-Guided Diffusion for Scalable and Safe Multi-Robot Motion Planning](http://arxiv.org/abs/2508.20095v1)** | 2025-08-27 |  |
-| **[AudioStory: Generating Long-Form Narrative Audio with Large Language Models](http://arxiv.org/abs/2508.20088v1)** | 2025-08-27 |  |
-| **[Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](http://arxiv.org/abs/2508.20072v1)** | 2025-08-27 | 15 pages |
-| **[Neural Conditional Simulation for Complex Spatial Processes](http://arxiv.org/abs/2508.20067v1)** | 2025-08-27 | 59 pages, 11 figures |
-| **[Time-Aware One Step Diffusion Network for Real-World Image Super-Resolution](http://arxiv.org/abs/2508.16557v2)** | 2025-08-27 |  |
-| **[FaceEditTalker: Controllable Talking Head Generation with Facial Attribute Editing](http://arxiv.org/abs/2505.22141v2)** | 2025-08-27 |  |
-| **[GS: Generative Segmentation via Label Diffusion](http://arxiv.org/abs/2508.20020v1)** | 2025-08-27 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
-| **[X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real](http://arxiv.org/abs/2505.07096v4)** | 2025-08-27 |  |
-| **[Diffusion Language Models Know the Answer Before Decoding](http://arxiv.org/abs/2508.19982v1)** | 2025-08-27 |  |
-| **[k-HyperEdge Medoids for Clustering Ensemble](http://arxiv.org/abs/2412.08289v2)** | 2025-08-27 |  |
-| **[Solving Inverse Problems using Diffusion with Iterative Colored Renoising](http://arxiv.org/abs/2501.17468v4)** | 2025-08-27 |  |
-| **[EEGDM: EEG Representation Learning via Generative Diffusion Model](http://arxiv.org/abs/2508.14086v2)** | 2025-08-27 | <details><summary>EEGDM...</summary><p>EEGDM Preprint 10 Pages</p></details> |
-| **[Belief-Conditioned One-Step Diffusion: Real-Time Trajectory Planning with Just-Enough Sensing](http://arxiv.org/abs/2508.12166v2)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025 (Conference on Robot Learning)</p></details> |
-| **[The Information Dynamics of Generative Diffusion](http://arxiv.org/abs/2508.19897v1)** | 2025-08-27 |  |
-| **[CP4SBI: Local Conformal Calibration of Credible Sets in Simulation-Based Inference](http://arxiv.org/abs/2508.17077v2)** | 2025-08-27 |  |
+| **[First-Place Solution to NeurIPS 2024 Invisible Watermark Removal Challenge](http://arxiv.org/abs/2508.21072v1)** | 2025-08-28 | <details><summary>Winni...</summary><p>Winning solution to the NeurIPS 2024 Erasing the Invisible challenge</p></details> |
+| **[Dress&Dance: Dress up and Dance as You Like It - Technical Preview](http://arxiv.org/abs/2508.21070v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project Page: https://immortalco.github.io/DressAndDance/</p></details> |
+| **[Mixture of Contexts for Long Video Generation](http://arxiv.org/abs/2508.21058v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project page: https://primecai.github.io/moc/</p></details> |
+| **[From Promise to Practical Reality: Transforming Diffusion MRI Analysis with Fast Deep Learning Enhancement](http://arxiv.org/abs/2508.10950v2)** | 2025-08-28 | 24 pages, 5 figures |
+| **[Reusing Computation in Text-to-Image Diffusion for Efficient Generation of Image Sets](http://arxiv.org/abs/2508.21032v1)** | 2025-08-28 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://ddecatur.github.io/hierarchical-diffusion/</p></details> |
+| **[POSE: Phased One-Step Adversarial Equilibrium for Video Diffusion Models](http://arxiv.org/abs/2508.21019v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project Page: https://pose-paper.github.io</p></details> |
+| **[DanceGRPO: Unleashing GRPO on Visual Generation](http://arxiv.org/abs/2505.07818v4)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project Page: https://dancegrpo.github.io/</p></details> |
+| **[Inference-Time Alignment Control for Diffusion Models with Reinforcement Learning Guidance](http://arxiv.org/abs/2508.21016v1)** | 2025-08-28 |  |
+| **[Train-Once Plan-Anywhere Kinodynamic Motion Planning via Diffusion Trees](http://arxiv.org/abs/2508.21001v1)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025. Project page: https://sites.google.com/view/ditree</p></details> |
+| **[LGDE: Local Graph-based Dictionary Expansion](http://arxiv.org/abs/2405.07764v4)** | 2025-08-28 | <details><summary>Pytho...</summary><p>Python code available at: https://github.com/barahona-research-group/LGDE</p></details> |
+| **[FFHFlow: Diverse and Uncertainty-Aware Dexterous Grasp Generation via Flow Variational Inference](http://arxiv.org/abs/2407.15161v3)** | 2025-08-28 | <details><summary>First...</summary><p>First two authors contributed equally, whose ordering decided via coin-tossing. Accepted for CoRL 2025</p></details> |
+| **[Lattice Random Walk Discretisations of Stochastic Differential Equations](http://arxiv.org/abs/2508.20883v1)** | 2025-08-28 | 16 pages, 6 figures |
+| **[Uniform error analysis of a rectangular Morley finite element method on a Shishkin mesh for a 4th-order singularly perturbed boundary value problem](http://arxiv.org/abs/2508.20857v1)** | 2025-08-28 |  |
+| **[Improving Fine-Grained Control via Aggregation of Multiple Diffusion Models](http://arxiv.org/abs/2410.01262v4)** | 2025-08-28 |  |
+| **[Pixel Motion as Universal Representation for Robot Control](http://arxiv.org/abs/2505.07817v2)** | 2025-08-28 |  |
 
