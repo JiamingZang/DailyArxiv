@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 05, 2025
+title: Latest 15 Papers - September 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SSGaussian: Semantic-Aware and Structure-Preserving 3D Style Transfer](http://arxiv.org/abs/2509.04379v1)** | 2025-09-04 |  |
+| **[ContraGS: Codebook-Condensed and Trainable Gaussian Splatting for Fast, Memory-Efficient Reconstruction](http://arxiv.org/abs/2509.03775v1)** | 2025-09-03 |  |
 | **[UPGS: Unified Pose-aware Gaussian Splatting for Dynamic Scene Deblurring](http://arxiv.org/abs/2509.00831v2)** | 2025-09-03 |  |
 | **[Communication Efficient Robotic Mixed Reality with Gaussian Splatting Cross-Layer Optimization](http://arxiv.org/abs/2508.08624v2)** | 2025-09-03 | <details><summary>14 pa...</summary><p>14 pages, 18 figures, to appear in IEEE Transactions on Cognitive Communications and Networking</p></details> |
 | **[GS-TG: 3D Gaussian Splatting Accelerator with Tile Grouping for Reducing Redundant Sorting while Preserving Rasterization Efficiency](http://arxiv.org/abs/2509.00911v2)** | 2025-09-03 | DAC 2025 |
@@ -58,25 +60,23 @@ labels: documentation
 | **[GaussianGAN: Real-Time Photorealistic controllable Human Avatars](http://arxiv.org/abs/2509.01681v1)** | 2025-09-01 | <details><summary>IEEE ...</summary><p>IEEE conference series on Automatic Face and Gesture Recognition 2025</p></details> |
 | **[Im2Haircut: Single-view Strand-based Hair Reconstruction for Human Avatars](http://arxiv.org/abs/2509.01469v1)** | 2025-09-01 | <details><summary>For m...</summary><p>For more results please refer to the project page https://im2haircut.is.tue.mpg.de</p></details> |
 | **[FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction](http://arxiv.org/abs/2412.09573v2)** | 2025-09-01 | <details><summary>Proje...</summary><p>Project page: https://bluestyle97.github.io/projects/freesplatter/</p></details> |
-| **[BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation](http://arxiv.org/abs/2501.10462v2)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025. Code: https://github.com/SparklingH/BloomScene</p></details> |
-| **[Towards Integrating Multi-Spectral Imaging with Gaussian Splatting](http://arxiv.org/abs/2509.00989v1)** | 2025-08-31 | <details><summary>for p...</summary><p>for project page, see https://meyerls.github.io/towards_multi_spec_splat/</p></details> |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LumiNet: Latent Intrinsics Meets Diffusion Models for Indoor Scene Relighting](http://arxiv.org/abs/2412.00177v3)** | 2025-09-03 | <details><summary>Corre...</summary><p>Corrects an evaluation bug in Table 1 due to a data normalization error. Thanks to the Sony PlayStation team for discovering and reporting the issue. The paper's core contributions, qualitative results, and user study are unaffected. We also include a minor update to the method to further improve result quality. Project page: https://luminet-relight.github.io/</p></details> |
-| **[OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation](http://arxiv.org/abs/2509.03498v1)** | 2025-09-03 | technical report |
-| **[Insertion Language Models: Sequence Generation with Arbitrary-Position Insertions](http://arxiv.org/abs/2505.05755v3)** | 2025-09-03 | <details><summary>Addit...</summary><p>Additional related work. Code available at: https://dhruveshp.com/projects/ilm</p></details> |
-| **[From Image Denoisers to Regularizing Imaging Inverse Problems: An Overview](http://arxiv.org/abs/2509.03475v1)** | 2025-09-03 |  |
-| **[C-DiffDet+: Fusing Global Scene Context with Generative Denoising for High-Fidelity Object Detection](http://arxiv.org/abs/2509.00578v2)** | 2025-09-03 |  |
-| **[Generative Auto-Bidding in Large-Scale Competitive Auctions via Diffusion Completer-Aligner](http://arxiv.org/abs/2509.03348v1)** | 2025-09-03 |  |
-| **[On the MIA Vulnerability Gap Between Private GANs and Diffusion Models](http://arxiv.org/abs/2509.03341v1)** | 2025-09-03 |  |
-| **[InfraDiffusion: zero-shot depth map restoration with diffusion models and prompted segmentation from sparse infrastructure point clouds](http://arxiv.org/abs/2509.03324v1)** | 2025-09-03 |  |
-| **[RNE: plug-and-play diffusion inference-time control and energy-based training](http://arxiv.org/abs/2506.05668v4)** | 2025-09-03 | <details><summary>48 pa...</summary><p>48 pages; 15 figures; Add more experiments on energy-based training, fix several typos and an error in RNC-TDS paragraph</p></details> |
-| **[SynBT: High-quality Tumor Synthesis for Breast Tumor Segmentation by 3D Diffusion Model](http://arxiv.org/abs/2509.03267v1)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025 Deep-Breath Workshop. Supported by IHI SYNTHIA project</p></details> |
-| **[Estudio de la eficiencia en la escalabilidad de GPUs para el entrenamiento de Inteligencia Artificial](http://arxiv.org/abs/2509.03263v1)** | 2025-09-03 | <details><summary>8 pag...</summary><p>8 pages, in Spanish language, 8 figures, Conference at SARTECO 2025, Spain</p></details> |
-| **[Evaluation of Stress Detection as Time Series Events -- A Novel Window-Based F1-Metric](http://arxiv.org/abs/2509.03240v1)** | 2025-09-03 | 15 pages, 6 figures |
-| **[The Information Dynamics of Generative Diffusion](http://arxiv.org/abs/2508.19897v2)** | 2025-09-03 |  |
-| **[Gradients: When Markets Meet Fine-tuning -- A Distributed Approach to Model Optimisation](http://arxiv.org/abs/2506.07940v2)** | 2025-09-03 |  |
-| **[LATINO-PRO: LAtent consisTency INverse sOlver with PRompt Optimization](http://arxiv.org/abs/2503.12615v2)** | 2025-09-03 | <details><summary>27 pa...</summary><p>27 pages, 24 figures, International Conference on Computer Vision, ICCV 2025</p></details> |
+| **[Plot'n Polish: Zero-shot Story Visualization and Disentangled Editing with Text-to-Image Diffusion Models](http://arxiv.org/abs/2509.04446v1)** | 2025-09-04 |  |
+| **[Durian: Dual Reference-guided Portrait Animation with Attribute Transfer](http://arxiv.org/abs/2509.04434v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project Page: https://hyunsoocha.github.io/durian</p></details> |
+| **[Res-MoCoDiff: Residual-guided diffusion models for motion artifact correction in brain MRI](http://arxiv.org/abs/2505.03498v2)** | 2025-09-04 |  |
+| **[Few-step Flow for 3D Generation via Marginal-Data Transport Distillation](http://arxiv.org/abs/2509.04406v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project page: https://github.com/Zanue/MDT-dist</p></details> |
+| **[Transition Models: Rethinking the Generative Learning Objective](http://arxiv.org/abs/2509.04394v1)** | 2025-09-04 | <details><summary>The c...</summary><p>The code is released at https://github.com/WZDTHU/TiM</p></details> |
+| **[SSGaussian: Semantic-Aware and Structure-Preserving 3D Style Transfer](http://arxiv.org/abs/2509.04379v1)** | 2025-09-04 |  |
+| **[Connections between reinforcement learning with feedback,test-time scaling, and diffusion guidance: An anthology](http://arxiv.org/abs/2509.04372v1)** | 2025-09-04 |  |
+| **[From Editor to Dense Geometry Estimator](http://arxiv.org/abs/2509.04338v1)** | 2025-09-04 | 20pages |
+| **[TauGenNet: Plasma-Driven Tau PET Image Synthesis via Text-Guided 3D Diffusion Models](http://arxiv.org/abs/2509.04269v1)** | 2025-09-04 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, submitted to IEEE Transactions on Radiation and Plasma Medical Sciences</p></details> |
+| **[Style Transfer to Calvin and Hobbes comics using Stable Diffusion](http://arxiv.org/abs/2312.03993v2)** | 2025-09-04 | Updated authorship |
+| **[Error analysis for learning the time-stepping operator of evolutionary PDEs](http://arxiv.org/abs/2509.04256v1)** | 2025-09-04 |  |
+| **[Straighter Flow Matching via a Diffusion-Based Coupling Prior](http://arxiv.org/abs/2311.16507v2)** | 2025-09-04 |  |
+| **[Synthetic Survival Data Generation for Heart Failure Prognosis Using Deep Generative Models](http://arxiv.org/abs/2509.04245v1)** | 2025-09-04 |  |
+| **[FFHFlow: Diverse and Uncertainty-Aware Dexterous Grasp Generation via Flow Variational Inference](http://arxiv.org/abs/2407.15161v4)** | 2025-09-04 | <details><summary>First...</summary><p>First two authors contributed equally, whose ordering decided via coin-tossing. Accepted for CoRL 2025</p></details> |
+| **[LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing](http://arxiv.org/abs/2507.22627v2)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted at ICCV25 (Oral). Project page: https://intelligolabs.github.io/lots/</p></details> |
 
