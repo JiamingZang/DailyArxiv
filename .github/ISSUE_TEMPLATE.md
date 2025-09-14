@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 12, 2025
+title: Latest 15 Papers - September 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Automatic infant 2D pose estimation from videos: comparing seven deep neural network methods](http://arxiv.org/abs/2406.17382v4)** | 2025-09-11 | <details><summary>38 pa...</summary><p>38 pages, 8 figures, 22 tables</p></details> |
 | **[Parse Graph-Based Visual-Language Interaction for Human Pose Estimation](http://arxiv.org/abs/2509.07385v1)** | 2025-09-09 |  |
 | **[H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers](http://arxiv.org/abs/2509.06956v1)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted by TPAMI 2025, Open Sourced. arXiv admin note: substantial text overlap with arXiv:2311.12028</p></details> |
 | **[From Skin to Skeleton: Towards Biomechanically Accurate 3D Digital Humans](http://arxiv.org/abs/2509.06607v1)** | 2025-09-08 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[PriorFormer: A Transformer for Real-time Monocular 3D Human Pose Estimation with Versatile Geometric Priors](http://arxiv.org/abs/2508.18238v1)** | 2025-08-21 | <details><summary>2025 ...</summary><p>2025 IEEE-RAS 24th International Conference on Humanoid Robots, Sep 2025, Seoul (Korea), South Korea</p></details> |
 | **[HyperDiff: Hypergraph Guided Diffusion Model for 3D Human Pose Estimation](http://arxiv.org/abs/2508.14431v1)** | 2025-08-20 |  |
 | **[Learnable SMPLify: A Neural Solution for Optimization-Free Human Pose Inverse Kinematics](http://arxiv.org/abs/2508.13562v1)** | 2025-08-19 |  |
-| **[Refinement Module based on Parse Graph for Human Pose Estimation](http://arxiv.org/abs/2501.11069v7)** | 2025-08-19 |  |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ForestSplats: Deformable transient field for Gaussian Splatting in the Wild](http://arxiv.org/abs/2503.06179v3)** | 2025-09-11 |  |
+| **[The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods](http://arxiv.org/abs/2411.10546v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted by IJRR. Website: https://dynamic.robots.ox.ac.uk/datasets/oxford-spires/</p></details> |
 | **[VIM-GS: Visual-Inertial Monocular Gaussian Splatting via Object-level Guidance in Large Scenes](http://arxiv.org/abs/2509.06685v3)** | 2025-09-10 | <details><summary>Withd...</summary><p>Withdrawn due to an error in the author list & incomplete experimental results</p></details> |
 | **[SplatFill: 3D Scene Inpainting via Depth-Guided Gaussian Splatting](http://arxiv.org/abs/2509.07809v1)** | 2025-09-09 |  |
 | **[HairGS: Hair Strand Reconstruction based on 3D Gaussian Splatting](http://arxiv.org/abs/2509.07774v1)** | 2025-09-09 | <details><summary>This ...</summary><p>This is the arXiv preprint of the paper "Hair Strand Reconstruction based on 3D Gaussian Splatting" published at BMVC 2025. Project website: https://yimin-pan.github.io/hair-gs/</p></details> |
@@ -58,25 +60,23 @@ labels: documentation
 | **[ComplicitSplat: Downstream Models are Vulnerable to Blackbox Attacks by 3D Gaussian Splat Camouflages](http://arxiv.org/abs/2508.11854v2)** | 2025-09-07 | 7 pages, 6 figures |
 | **[ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining](http://arxiv.org/abs/2408.10906v2)** | 2025-09-06 | <details><summary>Accep...</summary><p>Accepted as 3DV'25 Oral, project page: https://unique1i.github.io/ShapeSplat_webpage/</p></details> |
 | **[Visibility-Aware Language Aggregation for Open-Vocabulary Segmentation in 3D Gaussian Splatting](http://arxiv.org/abs/2509.05515v1)** | 2025-09-05 |  |
-| **[Toward Distributed 3D Gaussian Splatting for High-Resolution Isosurface Visualization](http://arxiv.org/abs/2509.05216v1)** | 2025-09-05 |  |
-| **[GeoSplat: A Deep Dive into Geometry-Constrained Gaussian Splatting](http://arxiv.org/abs/2509.05075v1)** | 2025-09-05 |  |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CamC2V: Context-aware Controllable Video Generation](http://arxiv.org/abs/2504.06022v2)** | 2025-09-10 |  |
-| **[Joint Model-based Model-free Diffusion for Planning with Constraints](http://arxiv.org/abs/2509.08775v1)** | 2025-09-10 | <details><summary>The f...</summary><p>The first two authors contributed equally. Last three authors advised equally. Accepted to CoRL 2025</p></details> |
-| **[Reangle-A-Video: 4D Video Generation as Video-to-Video Translation](http://arxiv.org/abs/2503.09151v3)** | 2025-09-10 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project page: https://hyeonho99.github.io/reangle-a-video/</p></details> |
-| **[Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction](http://arxiv.org/abs/2509.08752v1)** | 2025-09-10 |  |
-| **[On the Lebesgue Constant of Extended-Domain Spectral Methods for Elliptic PDEs](http://arxiv.org/abs/2509.08745v1)** | 2025-09-10 |  |
-| **[Data-driven generative simulation of SDEs using diffusion models](http://arxiv.org/abs/2509.08731v1)** | 2025-09-10 |  |
-| **[Accelerating Diffusion Transformer-Based Text-to-Speech with Transformer Layer Caching](http://arxiv.org/abs/2509.08696v1)** | 2025-09-10 | <details><summary>9 pag...</summary><p>9 pages, 2 tables, 5 figures</p></details> |
-| **[LLaDA-VLA: Vision Language Diffusion Action Models](http://arxiv.org/abs/2509.06932v2)** | 2025-09-10 |  |
-| **[LADB: Latent Aligned Diffusion Bridges for Semi-Supervised Domain Translation](http://arxiv.org/abs/2509.08628v1)** | 2025-09-10 |  |
-| **[A Survey of World Models for Autonomous Driving](http://arxiv.org/abs/2501.11260v4)** | 2025-09-10 | <details><summary>Ongoi...</summary><p>Ongoing project. Paper list: https://github.com/FengZicai/AwesomeWMAD Benchmark: https://github.com/FengZicai/WMAD-Benchmarks</p></details> |
-| **[EfficientIML: Efficient High-Resolution Image Manipulation Localization](http://arxiv.org/abs/2509.08583v1)** | 2025-09-10 |  |
-| **[BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models](http://arxiv.org/abs/2509.06040v3)** | 2025-09-10 | 12 pages, 6 figures |
-| **[RoboMatch: A Mobile-Manipulation Teleoperation Platform with Auto-Matching Network Architecture for Long-Horizon Manipulation](http://arxiv.org/abs/2509.08522v1)** | 2025-09-10 |  |
-| **[PromptEnhancer: A Simple Approach to Enhance Text-to-Image Models via Chain-of-Thought Prompt Rewriting](http://arxiv.org/abs/2509.04545v3)** | 2025-09-10 | technical report |
-| **[LSMTCR: A Scalable Multi-Architecture Model for Epitope-Specific T Cell Receptor de novo Design](http://arxiv.org/abs/2509.07627v2)** | 2025-09-10 | 13 pages, 6 figures |
+| **[Locality in Image Diffusion Models Emerges from Data Statistics](http://arxiv.org/abs/2509.09672v1)** | 2025-09-11 | <details><summary>30 pa...</summary><p>30 pages, 18 figures, 6 tables</p></details> |
+| **[Geometric Neural Distance Fields for Learning Human Motion Priors](http://arxiv.org/abs/2509.09667v1)** | 2025-09-11 | 8 pages |
+| **[DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech](http://arxiv.org/abs/2509.09631v1)** | 2025-09-11 |  |
+| **[I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection](http://arxiv.org/abs/2509.09630v1)** | 2025-09-11 |  |
+| **[Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference](http://arxiv.org/abs/2509.06942v3)** | 2025-09-11 | 15 pages |
+| **[Mechanistic Learning with Guided Diffusion Models to Predict Spatio-Temporal Brain Tumor Growth](http://arxiv.org/abs/2509.09610v1)** | 2025-09-11 | 13 pages, 4 figures |
+| **[Iterative energy reduction Galerkin methods and variational adaptivity](http://arxiv.org/abs/2509.09600v1)** | 2025-09-11 |  |
+| **[SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model](http://arxiv.org/abs/2507.05148v2)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted by MICCAI2025</p></details> |
+| **[Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders](http://arxiv.org/abs/2509.09547v1)** | 2025-09-11 | 17 pages, 14 figures |
+| **[Generative Diffusion Contrastive Network for Multi-View Clustering](http://arxiv.org/abs/2509.09527v1)** | 2025-09-11 | <details><summary>This ...</summary><p>This paper is submitted to International Conference on Acoustics, Speech, and Signal Processing (ICASSP2026)</p></details> |
+| **[Explainable AI for Accelerated Microstructure Imaging: A SHAP-Guided Protocol on the Connectome 2.0 scanner](http://arxiv.org/abs/2509.09513v1)** | 2025-09-11 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Medical Imaging (TMI). This all-in-one version includes supplementary materials. 18 pages, 14 figures, 2 tables</p></details> |
+| **[Learning functions through Diffusion Maps](http://arxiv.org/abs/2509.03758v2)** | 2025-09-11 | Comments are welcome |
+| **[Mixture of Semantics Transmission for Generative AI-Enabled Semantic Communication Systems](http://arxiv.org/abs/2509.09499v1)** | 2025-09-11 | <details><summary>accep...</summary><p>accepted by IEEE Communications Letters</p></details> |
+| **[SEDM: Scalable Self-Evolving Distributed Memory for Agents](http://arxiv.org/abs/2509.09498v1)** | 2025-09-11 |  |
+| **[The Information Dynamics of Generative Diffusion](http://arxiv.org/abs/2508.19897v3)** | 2025-09-11 |  |
 
