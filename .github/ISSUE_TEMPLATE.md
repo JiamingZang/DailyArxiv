@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 26, 2025
+title: Latest 15 Papers - September 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -45,6 +45,11 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CryoSplat: Gaussian Splatting for Cryo-EM Homogeneous Reconstruction](http://arxiv.org/abs/2508.04929v3)** | 2025-09-25 |  |
+| **[REArtGS: Reconstructing and Generating Articulated Objects via 3D Gaussian Splatting with Geometric and Motion Constraints](http://arxiv.org/abs/2503.06677v4)** | 2025-09-25 | 11pages, 6 figures |
+| **[Generating 360° Video is What You Need For a 3D Scene](http://arxiv.org/abs/2504.02045v4)** | 2025-09-25 | <details><summary>SIGGR...</summary><p>SIGGRAPH Asia 2025. Project Page: https://zhaoyangzh.github.io/projects/worldprompter/</p></details> |
+| **[Online Language Splatting](http://arxiv.org/abs/2503.09447v3)** | 2025-09-25 |  |
+| **[GAF: Gaussian Action Field as a 4D Representation for Dynamic World Modeling in Robotic Manipulation](http://arxiv.org/abs/2506.14135v4)** | 2025-09-24 | <details><summary>http:...</summary><p>http://chaiying1.github.io/GAF.github.io/project_page/</p></details> |
 | **[4D Driving Scene Generation With Stereo Forcing](http://arxiv.org/abs/2509.20251v1)** | 2025-09-24 |  |
 | **[Temporal Smoothness-Aware Rate-Distortion Optimized 4D Gaussian Splatting](http://arxiv.org/abs/2507.17336v2)** | 2025-09-24 | <details><summary>24 pa...</summary><p>24 pages, 10 figures, NeurIPS 2025</p></details> |
 | **[GaussianSeal: Rooting Adaptive Watermarks for 3D Gaussian Generation Model](http://arxiv.org/abs/2503.00531v2)** | 2025-09-24 | <details><summary>To be...</summary><p>To be appeared in Machine Intelligence Research</p></details> |
@@ -52,31 +57,26 @@ labels: documentation
 | **[Aerial-Ground Image Feature Matching via 3D Gaussian Splatting-based Intermediate View Rendering](http://arxiv.org/abs/2509.19898v1)** | 2025-09-24 |  |
 | **[BiTAA: A Bi-Task Adversarial Attack for Object Detection and Depth Estimation via 3D Gaussian Splatting](http://arxiv.org/abs/2509.19793v1)** | 2025-09-24 | <details><summary>Inten...</summary><p>Intend to submit to RA-L</p></details> |
 | **[PolGS: Polarimetric Gaussian Splatting for Fast Reflective Surface Reconstruction](http://arxiv.org/abs/2509.19726v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[Online Language Splatting](http://arxiv.org/abs/2503.09447v2)** | 2025-09-24 |  |
-| **[Generating 360° Video is What You Need For a 3D Scene](http://arxiv.org/abs/2504.02045v3)** | 2025-09-23 | <details><summary>SIGGR...</summary><p>SIGGRAPH Asia 2025. Project Page: \url{https://zhaoyangzh.github.io/projects/worldprompter/}</p></details> |
+| **[SeHDR: Single-Exposure HDR Novel View Synthesis via 3D Gaussian Bracketing](http://arxiv.org/abs/2509.20400v1)** | 2025-09-23 | <details><summary>ICCV ...</summary><p>ICCV 2025 accepted paper</p></details> |
 | **[VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction](http://arxiv.org/abs/2509.19297v1)** | 2025-09-23 | <details><summary>Proje...</summary><p>Project Page: https://lhmd.top/volsplat, Code: https://github.com/ziplab/VolSplat</p></details> |
 | **[Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation](http://arxiv.org/abs/2509.19296v1)** | 2025-09-23 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/toronto-ai/lyra/</p></details> |
-| **[MEGS$^{2}$: Memory-Efficient Gaussian Splatting via Spherical Gaussians and Unified Pruning](http://arxiv.org/abs/2509.07021v2)** | 2025-09-23 | <details><summary>20 pa...</summary><p>20 pages, 8 figures. Project page at https://megs-2.github.io/</p></details> |
-| **[WaveletGaussian: Wavelet-domain Diffusion for Sparse-view 3D Gaussian Object Reconstruction](http://arxiv.org/abs/2509.19073v1)** | 2025-09-23 |  |
-| **[Seeing Through Reflections: Advancing 3D Scene Reconstruction in Mirror-Containing Environments with Gaussian Splatting](http://arxiv.org/abs/2509.18956v1)** | 2025-09-23 |  |
-| **[DeblurSplat: SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring](http://arxiv.org/abs/2509.18898v1)** | 2025-09-23 |  |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation](http://arxiv.org/abs/2509.20358v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. This is the preview version; the camera-ready version is still in preparation</p></details> |
-| **[LEDiT: Your Length-Extrapolatable Diffusion Transformer without Positional Encoding](http://arxiv.org/abs/2503.04344v3)** | 2025-09-24 |  |
-| **[mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies](http://arxiv.org/abs/2509.20297v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025 Workshop RemembeRL</p></details> |
-| **[FAST: Foreground-aware Diffusion with Accelerated Sampling Trajectory for Segmentation-oriented Anomaly Synthesis](http://arxiv.org/abs/2509.20295v1)** | 2025-09-24 |  |
-| **[DreamMix: Decoupling Object Attributes for Enhanced Editability in Customized Image Inpainting](http://arxiv.org/abs/2411.17223v2)** | 2025-09-24 |  |
-| **[AnchDrive: Bootstrapping Diffusion Policies with Hybrid Trajectory Anchors for End-to-End Driving](http://arxiv.org/abs/2509.20253v1)** | 2025-09-24 | IWACIII 2025 |
-| **[4D Driving Scene Generation With Stereo Forcing](http://arxiv.org/abs/2509.20251v1)** | 2025-09-24 |  |
-| **[Latent Wavelet Diffusion For Ultra-High-Resolution Image Synthesis](http://arxiv.org/abs/2506.00433v3)** | 2025-09-24 |  |
-| **[Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion](http://arxiv.org/abs/2410.13674v3)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted in ICCV2025. 22 pages, including references and appendix. Code is available at http://github.com/tianyi-lab/DisCL</p></details> |
-| **[Learning hidden cascades via classification](http://arxiv.org/abs/2505.11228v3)** | 2025-09-24 |  |
-| **[KSDiff: Keyframe-Augmented Speech-Aware Dual-Path Diffusion for Facial Animation](http://arxiv.org/abs/2509.20128v1)** | 2025-09-24 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 3 tables</p></details> |
-| **[Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving](http://arxiv.org/abs/2509.20109v1)** | 2025-09-24 |  |
-| **[First-Extinction Law for Resampling Processes](http://arxiv.org/abs/2509.20101v1)** | 2025-09-24 |  |
-| **[Incomplete Data, Complete Dynamics: A Diffusion Approach](http://arxiv.org/abs/2509.20098v1)** | 2025-09-24 |  |
-| **[Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing](http://arxiv.org/abs/2509.20091v1)** | 2025-09-24 |  |
+| **[Two ADI compact difference methods for variable-exponent diffusion wave equations](http://arxiv.org/abs/2509.21316v1)** | 2025-09-25 |  |
+| **[Does FLUX Already Know How to Perform Physically Plausible Image Composition?](http://arxiv.org/abs/2509.21278v1)** | 2025-09-25 | Preprint |
+| **[IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves](http://arxiv.org/abs/2411.00827v6)** | 2025-09-25 |  |
+| **[Dense Semantic Matching with VGGT Prior](http://arxiv.org/abs/2509.21263v1)** | 2025-09-25 |  |
+| **[Un-Doubling Diffusion: LLM-guided Disambiguation of Homonym Duplication](http://arxiv.org/abs/2509.21262v1)** | 2025-09-25 |  |
+| **[Generalizing while preserving monotonicity in comparison-based preference learning models](http://arxiv.org/abs/2506.08616v2)** | 2025-09-25 |  |
+| **[Pure Vision Language Action (VLA) Models: A Comprehensive Survey](http://arxiv.org/abs/2509.19012v2)** | 2025-09-25 |  |
+| **[Why and When Deep is Better than Shallow: An Implementation-Agnostic State-Transition View of Depth Supremacy](http://arxiv.org/abs/2505.15064v2)** | 2025-09-25 |  |
+| **[A Unified Framework for Diffusion Model Unlearning with f-Divergence](http://arxiv.org/abs/2509.21167v1)** | 2025-09-25 |  |
+| **[DAGDiff: Guiding Dual-Arm Grasp Diffusion to Stable and Collision-Free Grasps](http://arxiv.org/abs/2509.21145v1)** | 2025-09-25 |  |
+| **[MotionFlow:Learning Implicit Motion Flow for Complex Camera Trajectory Control in Video Generation](http://arxiv.org/abs/2509.21119v1)** | 2025-09-25 | ICME2025 |
+| **[MDPO: Overcoming the Training-Inference Divide of Masked Diffusion Language Models](http://arxiv.org/abs/2508.13148v2)** | 2025-09-25 |  |
+| **[Are Modern Speech Enhancement Systems Vulnerable to Adversarial Attacks?](http://arxiv.org/abs/2509.21087v1)** | 2025-09-25 | <details><summary>Copyr...</summary><p>Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
+| **[UniTransfer: Video Concept Transfer via Progressive Spatial and Timestep Decomposition](http://arxiv.org/abs/2509.21086v1)** | 2025-09-25 | NeuriIPS 2025 |
+| **[Training-Free Stein Diffusion Guidance: Posterior Correction for Sampling Beyond High-Density Regions](http://arxiv.org/abs/2507.05482v2)** | 2025-09-25 | <details><summary>Revis...</summary><p>Revised version with additional results</p></details> |
 
