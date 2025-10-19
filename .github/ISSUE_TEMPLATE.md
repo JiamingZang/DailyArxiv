@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 17, 2025
+title: Latest 15 Papers - October 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -45,38 +45,38 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Leveraging Learned Image Prior for 3D Gaussian Compression](http://arxiv.org/abs/2510.14705v1)** | 2025-10-16 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Workshop on ECLR</p></details> |
+| **[BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU](http://arxiv.org/abs/2510.14564v1)** | 2025-10-16 | <details><summary>Accep...</summary><p>Accepted by ASP-DAC 2026</p></details> |
+| **[GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering](http://arxiv.org/abs/2510.14270v1)** | 2025-10-16 |  |
+| **[CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal Reconstruction Model for Autonomous Driving](http://arxiv.org/abs/2510.07944v2)** | 2025-10-16 |  |
+| **[HuGDiffusion: Generalizable Single-Image Human Rendering via 3D Gaussian Diffusion](http://arxiv.org/abs/2501.15008v2)** | 2025-10-16 |  |
+| **[Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures](http://arxiv.org/abs/2510.14179v1)** | 2025-10-16 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2025</p></details> |
+| **[CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization](http://arxiv.org/abs/2506.21117v2)** | 2025-10-15 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project Page: https://cl-splats.github.io</p></details> |
+| **[Capture, Canonicalize, Splat: Zero-Shot 3D Gaussian Avatars from Unstructured Phone Images](http://arxiv.org/abs/2510.14081v1)** | 2025-10-15 |  |
+| **[Instant Skinned Gaussian Avatars for Web, Mobile and VR Applications](http://arxiv.org/abs/2510.13978v1)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted to SUI 2025 Demo Track</p></details> |
 | **[VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator](http://arxiv.org/abs/2510.13454v1)** | 2025-10-15 | <details><summary>Proje...</summary><p>Project page: https://gohyojun15.github.io/VIST3A/</p></details> |
 | **[Leveraging 2D Priors and SDF Guidance for Dynamic Urban Scene Rendering](http://arxiv.org/abs/2510.13381v1)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted at ICCV-2025, project page: https://dynamic-ugsdf.github.io/</p></details> |
 | **[STT-GS: Sample-Then-Transmit Edge Gaussian Splatting with Joint Client Selection and Power Control](http://arxiv.org/abs/2510.13186v1)** | 2025-10-15 |  |
 | **[Uncertainty Matters in Dynamic Gaussian Splatting for Monocular 4D Reconstruction](http://arxiv.org/abs/2510.12768v1)** | 2025-10-14 | <details><summary>Proje...</summary><p>Project page: https://tamu-visual-ai.github.io/usplat4d/</p></details> |
 | **[BSGS: Bi-stage 3D Gaussian Splatting for Camera Motion Deblurring](http://arxiv.org/abs/2510.12493v1)** | 2025-10-14 |  |
 | **[Hybrid Gaussian Splatting for Novel Urban View Synthesis](http://arxiv.org/abs/2510.12308v1)** | 2025-10-14 | <details><summary>ICCV ...</summary><p>ICCV 2025 RealADSim Workshop</p></details> |
-| **[PAGS: Priority-Adaptive Gaussian Splatting for Dynamic Driving Scenes](http://arxiv.org/abs/2510.12282v1)** | 2025-10-14 |  |
-| **[UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering](http://arxiv.org/abs/2510.12174v1)** | 2025-10-14 |  |
-| **[G4Splat: Geometry-Guided Gaussian Splatting with Generative Prior](http://arxiv.org/abs/2510.12099v1)** | 2025-10-14 | <details><summary>Proje...</summary><p>Project page: https://dali-jack.github.io/g4splat-web/</p></details> |
-| **[GS-Verse: Mesh-based Gaussian Splatting for Physics-aware Interaction in Virtual Reality](http://arxiv.org/abs/2510.11878v1)** | 2025-10-13 |  |
-| **[Ev4DGS: Novel-view Rendering of Non-Rigid Objects from Monocular Event Streams](http://arxiv.org/abs/2510.11717v1)** | 2025-10-13 |  |
-| **[Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation](http://arxiv.org/abs/2510.11689v1)** | 2025-10-13 |  |
-| **[VA-GS: Enhancing the Geometric Representation of Gaussian Splatting via View Alignment](http://arxiv.org/abs/2510.11473v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[MaterialRefGS: Reflective Gaussian Splatting with Multi-view Consistent Material Inference](http://arxiv.org/abs/2510.11387v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. Project Page: https://wen-yuan-zhang.github.io/MaterialRefGS</p></details> |
-| **[LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting](http://arxiv.org/abs/2410.05111v3)** | 2025-10-13 |  |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs](http://arxiv.org/abs/2508.14896v2)** | 2025-10-15 | <details><summary>Techn...</summary><p>Technical Report, Work in Progress</p></details> |
-| **[NoisePrints: Distortion-Free Watermarks for Authorship in Private Diffusion Models](http://arxiv.org/abs/2510.13793v1)** | 2025-10-15 | <details><summary>code ...</summary><p>code available at: https://github.com/nirgoren/NoisePrints</p></details> |
-| **[Adaptive Visual Conditioning for Semantic Consistency in Diffusion-Based Story Continuation](http://arxiv.org/abs/2510.13787v1)** | 2025-10-15 |  |
-| **[PriorGuide: Test-Time Prior Adaptation for Simulation-Based Inference](http://arxiv.org/abs/2510.13763v1)** | 2025-10-15 | 35 pages, 6 figures |
-| **[UniCalli: A Unified Diffusion Framework for Column-Level Generation and Recognition of Chinese Calligraphy](http://arxiv.org/abs/2510.13745v1)** | 2025-10-15 | 22 pages |
-| **[Cyclic Self-Supervised Diffusion for Ultra Low-field to High-field MRI Synthesis](http://arxiv.org/abs/2510.13735v1)** | 2025-10-15 |  |
-| **[MVCustom: Multi-View Customized Diffusion via Geometric Latent Rendering and Completion](http://arxiv.org/abs/2510.13702v1)** | 2025-10-15 | <details><summary>Proje...</summary><p>Project page: https://minjung-s.github.io/mvcustom</p></details> |
-| **[Generating healthy counterfactuals with denoising diffusion bridge models](http://arxiv.org/abs/2510.13684v1)** | 2025-10-15 |  |
-| **[FlashWorld: High-quality 3D Scene Generation within Seconds](http://arxiv.org/abs/2510.13678v1)** | 2025-10-15 | <details><summary>Proje...</summary><p>Project Page: https://imlixinyang.github.io/FlashWorld-Project-Page/</p></details> |
-| **[CanvasMAR: Improving Masked Autoregressive Video Generation With Canvas](http://arxiv.org/abs/2510.13669v1)** | 2025-10-15 |  |
-| **[Sharp decay estimates and numerical analysis for weakly coupled systems of two subdiffusion equations](http://arxiv.org/abs/2504.18295v2)** | 2025-10-15 | <details><summary>29 pa...</summary><p>29 pages, 7 figures, 2 tables</p></details> |
-| **[MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent](http://arxiv.org/abs/2502.03207v2)** | 2025-10-15 |  |
-| **[Conditional Flow Matching for Bayesian Posterior Inference](http://arxiv.org/abs/2510.09534v2)** | 2025-10-15 |  |
-| **[Manifold Decoders: A Framework for Generative Modeling from Nonlinear Embeddings](http://arxiv.org/abs/2510.13622v1)** | 2025-10-15 |  |
-| **[SynDiff-AD: Improving Semantic Segmentation and End-to-End Autonomous Driving with Synthetic Data from Latent Diffusion Models](http://arxiv.org/abs/2411.16776v2)** | 2025-10-15 | 15 pages, 10 figures |
+| **[Coupled Diffusion Sampling for Training-Free Multi-View Image Editing](http://arxiv.org/abs/2510.14981v1)** | 2025-10-16 | <details><summary>Proje...</summary><p>Project page: https://coupled-diffusion.github.io</p></details> |
+| **[Learning an Image Editing Model without Image Editing Pairs](http://arxiv.org/abs/2510.14978v1)** | 2025-10-16 | <details><summary>proje...</summary><p>project page: https://nupurkmr9.github.io/npedit/</p></details> |
+| **[Ponimator: Unfolding Interactive Pose for Versatile Human-human Interaction Animation](http://arxiv.org/abs/2510.14976v1)** | 2025-10-16 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Project page: https://stevenlsw.github.io/ponimator/</p></details> |
+| **[WithAnyone: Towards Controllable and ID Consistent Image Generation](http://arxiv.org/abs/2510.14975v1)** | 2025-10-16 | <details><summary>23 Pa...</summary><p>23 Pages; Project Page: https://doby-xu.github.io/WithAnyone/; Code: https://github.com/Doby-Xu/WithAnyone</p></details> |
+| **[pi-Flow: Policy-Based Few-Step Generation via Imitation Distillation](http://arxiv.org/abs/2510.14974v1)** | 2025-10-16 | <details><summary>Code:...</summary><p>Code: https://github.com/Lakonik/piFlow Demos: https://huggingface.co/spaces/Lakonik/pi-Qwen and https://huggingface.co/spaces/Lakonik/pi-FLUX.1</p></details> |
+| **[Attention Is All You Need for KV Cache in Diffusion LLMs](http://arxiv.org/abs/2510.14973v1)** | 2025-10-16 | <details><summary>https...</summary><p>https://vila-lab.github.io/elastic-cache-webpage/</p></details> |
+| **[RainDiff: End-to-end Precipitation Nowcasting Via Token-wise Attention Diffusion](http://arxiv.org/abs/2510.14962v1)** | 2025-10-16 |  |
+| **[Efficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models](http://arxiv.org/abs/2510.14961v1)** | 2025-10-16 | <details><summary>Code ...</summary><p>Code can be found at https://github.com/seal-rg/recurrent-pretraining</p></details> |
+| **[OmniMotion: Multimodal Motion Generation with Continuous Masked Autoregression](http://arxiv.org/abs/2510.14954v1)** | 2025-10-16 |  |
+| **[From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance](http://arxiv.org/abs/2510.14952v1)** | 2025-10-16 |  |
+| **[DialectGen: Benchmarking and Improving Dialect Robustness in Multimodal Generation](http://arxiv.org/abs/2510.14949v1)** | 2025-10-16 |  |
+| **[VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tunin](http://arxiv.org/abs/2510.14930v1)** | 2025-10-16 | <details><summary>Accep...</summary><p>Accepted by 9th Conference on Robot Learning (CoRL 2025); Website: https://binghao-huang.github.io/vt_refine/</p></details> |
+| **[Finite element methods for electroneutral multicomponent electrolyte flows](http://arxiv.org/abs/2510.14923v1)** | 2025-10-16 |  |
+| **[Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies](http://arxiv.org/abs/2509.25822v3)** | 2025-10-16 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[ScaleWeaver: Weaving Efficient Controllable T2I Generation with Multi-Scale Reference Attention](http://arxiv.org/abs/2510.14882v1)** | 2025-10-16 |  |
 
