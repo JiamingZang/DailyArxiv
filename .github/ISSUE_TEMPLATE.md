@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 24, 2025
+title: Latest 15 Papers - October 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -45,6 +45,11 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation](http://arxiv.org/abs/2510.20813v1)** | 2025-10-23 |  |
+| **[Dino-Diffusion Modular Designs Bridge the Cross-Domain Gap in Autonomous Parking](http://arxiv.org/abs/2510.20335v1)** | 2025-10-23 | <details><summary>Code ...</summary><p>Code is at https://github.com/ChampagneAndfragrance/Dino_Diffusion_Parking_Official</p></details> |
+| **[Instant Skinned Gaussian Avatars for Web, Mobile and VR Applications](http://arxiv.org/abs/2510.13978v2)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to SUI 2025 Demo Track</p></details> |
+| **[COS3D: Collaborative Open-Vocabulary 3D Segmentation](http://arxiv.org/abs/2510.20238v1)** | 2025-10-23 | <details><summary>NeurI...</summary><p>NeurIPS 2025. The code is publicly available at \href{https://github.com/Runsong123/COS3D}{https://github.com/Runsong123/COS3D}</p></details> |
+| **[Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses](http://arxiv.org/abs/2510.20027v1)** | 2025-10-22 |  |
 | **[Optimized 3D Gaussian Splatting using Coarse-to-Fine Image Frequency Modulation](http://arxiv.org/abs/2503.14475v2)** | 2025-10-22 |  |
 | **[Discretized Gaussian Representation for Tomographic Reconstruction](http://arxiv.org/abs/2411.04844v4)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction](http://arxiv.org/abs/2510.19578v1)** | 2025-10-22 | 10 pages, 7 figures |
@@ -55,28 +60,23 @@ labels: documentation
 | **[Re-Activating Frozen Primitives for 3D Gaussian Splatting](http://arxiv.org/abs/2510.19653v1)** | 2025-10-21 |  |
 | **[Every Camera Effect, Every Time, All at Once: 4D Gaussian Ray Tracing for Physics-based Camera Effect Data Generation](http://arxiv.org/abs/2509.10759v2)** | 2025-10-21 | <details><summary>Paper...</summary><p>Paper accepted to NeurIPS 2025 Workshop SpaVLE. Project page: https://shigon255.github.io/4DGRT-project-page/</p></details> |
 | **[Pose-free 3D Gaussian splatting via shape-ray estimation](http://arxiv.org/abs/2505.22978v3)** | 2025-10-21 | <details><summary>ICIP ...</summary><p>ICIP 2025 (Best Student Paper Award) Code available at: https://github.com/youngju-na/SHARE</p></details> |
-| **[Mono4DGS-HDR: High Dynamic Range 4D Gaussian Splatting from Alternating-exposure Monocular Videos](http://arxiv.org/abs/2510.18489v1)** | 2025-10-21 | <details><summary>Proje...</summary><p>Project page is available at https://liujf1226.github.io/Mono4DGS-HDR/</p></details> |
-| **[H3D-DGS: Exploring Heterogeneous 3D Motion Representation for Deformable 3D Gaussian Splatting](http://arxiv.org/abs/2408.13036v3)** | 2025-10-21 |  |
-| **[OpenInsGaussian: Open-vocabulary Instance Gaussian Segmentation with Context-aware Cross-view Fusion](http://arxiv.org/abs/2510.18253v1)** | 2025-10-21 |  |
-| **[From Volume Rendering to 3D Gaussian Splatting: Theory and Applications](http://arxiv.org/abs/2510.18101v1)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted at the Conference on Graphics, Patterns and Images (SIBGRAPI), math focused, 5 equations, 5 Figure, 5 pages of text and 1 of bibligraphy</p></details> |
-| **[HouseTour: A Virtual Real Estate A(I)gent](http://arxiv.org/abs/2510.18054v1)** | 2025-10-20 | <details><summary>Publi...</summary><p>Published on ICCV 2025</p></details> |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graph Representation Learning with Diffusion Generative Models](http://arxiv.org/abs/2501.13133v2)** | 2025-10-22 |  |
-| **[Are Modern Speech Enhancement Systems Vulnerable to Adversarial Attacks?](http://arxiv.org/abs/2509.21087v2)** | 2025-10-22 | <details><summary>Copyr...</summary><p>Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation](http://arxiv.org/abs/2510.19789v1)** | 2025-10-22 |  |
-| **[Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics](http://arxiv.org/abs/2506.06045v2)** | 2025-10-22 |  |
-| **[Training-Free Constrained Generation With Stable Diffusion Models](http://arxiv.org/abs/2502.05625v4)** | 2025-10-22 | <details><summary>Spotl...</summary><p>Spotlight at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[A Survey on Cache Methods in Diffusion Models: Toward Efficient Multi-Modal Generation](http://arxiv.org/abs/2510.19755v1)** | 2025-10-22 | 22 pages,2 figures |
-| **[Cultural Dimensions of Artificial Intelligence Adoption: Empirical Insights for Wave 1 from a Multinational Longitudinal Pilot Study](http://arxiv.org/abs/2510.19743v1)** | 2025-10-22 |  |
-| **[Beyond Masked and Unmasked: Discrete Diffusion Models via Partial Masking](http://arxiv.org/abs/2505.18495v2)** | 2025-10-22 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025. Project Page: https://chen-hao-chao.github.io/mdm-prime</p></details> |
-| **[Enabling Granular Subgroup Level Model Evaluations by Generating Synthetic Medical Time Series](http://arxiv.org/abs/2510.19728v1)** | 2025-10-22 |  |
-| **[Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction](http://arxiv.org/abs/2505.20755v4)** | 2025-10-22 |  |
-| **[Decomposing stimulus-specific sensory neural information via diffusion models](http://arxiv.org/abs/2505.11309v2)** | 2025-10-22 | <details><summary>Steev...</summary><p>Steeve Laquitaine and Simone Azeglio have equal contributions; Ulisse Ferrari and Matthew Chalk have equal senior contributions</p></details> |
-| **[BlockGPT: Spatio-Temporal Modelling of Rainfall via Frame-Level Autoregression](http://arxiv.org/abs/2510.06293v2)** | 2025-10-22 |  |
-| **[dInfer: An Efficient Inference Framework for Diffusion Language Models](http://arxiv.org/abs/2510.08666v3)** | 2025-10-22 |  |
-| **[Network Contagion Dynamics in European Banking: A Navier-Stokes Framework for Systemic Risk Assessment](http://arxiv.org/abs/2510.19630v1)** | 2025-10-22 | <details><summary>107 p...</summary><p>107 pages, 14 figures</p></details> |
-| **[Learning and Simulating Building Evacuation Patterns for Enhanced Safety Design Using Generative Models](http://arxiv.org/abs/2510.19623v1)** | 2025-10-22 |  |
+| **[One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling](http://arxiv.org/abs/2505.13358v3)** | 2025-10-23 |  |
+| **[Towards General Modality Translation with Contrastive and Predictive Latent Diffusion Bridge](http://arxiv.org/abs/2510.20819v1)** | 2025-10-23 |  |
+| **[DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing](http://arxiv.org/abs/2510.02253v2)** | 2025-10-23 | Preprint |
+| **[BadGraph: A Backdoor Attack Against Latent Diffusion Model for Text-Guided Graph Generation](http://arxiv.org/abs/2510.20792v1)** | 2025-10-23 |  |
+| **[DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion](http://arxiv.org/abs/2510.20766v1)** | 2025-10-23 |  |
+| **[GenLit: Reformulating Single-Image Relighting as Video Generation](http://arxiv.org/abs/2412.11224v4)** | 2025-10-23 |  |
+| **[AutoScape: Geometry-Consistent Long-Horizon Scene Generation](http://arxiv.org/abs/2510.20726v1)** | 2025-10-23 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://auto-scape.github.io</p></details> |
+| **[Blockwise SFT for Diffusion Language Models: Reconciling Bidirectional Attention and Autoregressive Decoding](http://arxiv.org/abs/2508.19529v2)** | 2025-10-23 |  |
+| **[Sampling from multi-modal distributions with polynomial query complexity in fixed dimension via reverse diffusion](http://arxiv.org/abs/2501.00565v3)** | 2025-10-23 |  |
+| **[Downsizing Diffusion Models for Cardinality Estimation](http://arxiv.org/abs/2510.20681v1)** | 2025-10-23 |  |
+| **[UltraHR-100K: Enhancing UHR Image Synthesis with A Large-Scale High-Quality Dataset](http://arxiv.org/abs/2510.20661v1)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[MS-BART: Unified Modeling of Mass Spectra and Molecules for Structure Elucidation](http://arxiv.org/abs/2510.20615v1)** | 2025-10-23 | <details><summary>NeurI...</summary><p>NeurIPS 2025, We provide the data and code at https://github.com/OpenDFM/MS-BART</p></details> |
+| **[floq: Training Critics via Flow-Matching for Scaling Compute in Value-Based RL](http://arxiv.org/abs/2509.06863v2)** | 2025-10-23 | <details><summary>Added...</summary><p>Added new experiments, fixed typos. Code -- https://github.com/CMU-AIRe/floq</p></details> |
+| **[Diffusion Autoencoders with Perceivers for Long, Irregular and Multimodal Astronomical Sequences](http://arxiv.org/abs/2510.20595v1)** | 2025-10-23 |  |
+| **[EchoDistill: Bidirectional Concept Distillation for One-Step Diffusion Personalization](http://arxiv.org/abs/2510.20512v1)** | 2025-10-23 | <details><summary>Proje...</summary><p>Project page available at https://liulisixin.github.io/EchoDistill-page/</p></details> |
 
