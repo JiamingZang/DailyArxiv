@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 03, 2025
+title: Latest 15 Papers - November 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -45,27 +45,38 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SonarSplat: Novel View Synthesis of Imaging Sonar via Gaussian Splatting](http://arxiv.org/abs/2504.00159v3)** | 2025-11-03 |  |
+| **[GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering](http://arxiv.org/abs/2510.14270v2)** | 2025-11-03 |  |
+| **[Gaussian Splashing: Direct Volumetric Rendering Underwater](http://arxiv.org/abs/2411.19588v2)** | 2025-11-02 |  |
+| **[D$^2$GS: Dense Depth Regularization for LiDAR-free Urban Scene Reconstruction](http://arxiv.org/abs/2510.25173v2)** | 2025-11-02 |  |
+| **[Anti-Aliased 2D Gaussian Splatting](http://arxiv.org/abs/2506.11252v2)** | 2025-11-01 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Code will be available at https://github.com/maeyounes/AA-2DGS</p></details> |
+| **[Dynamic Gaussian Splatting from Defocused and Motion-blurred Monocular Videos](http://arxiv.org/abs/2510.10691v3)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[GASP: Gaussian Splatting for Physic-Based Simulations](http://arxiv.org/abs/2409.05819v3)** | 2025-10-31 |  |
+| **[SAGS: Self-Adaptive Alias-Free Gaussian Splatting for Dynamic Surgical Endoscopic Reconstruction](http://arxiv.org/abs/2510.27318v1)** | 2025-10-31 |  |
+| **[EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting](http://arxiv.org/abs/2410.15392v4)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025,Project Page: https://lbh666.github.io/ef-3dgs/</p></details> |
+| **[MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussians](http://arxiv.org/abs/2412.04955v3)** | 2025-10-31 |  |
+| **[WildfireX-SLAM: A Large-scale Low-altitude RGB-D Dataset for Wildfire SLAM and Beyond](http://arxiv.org/abs/2510.27133v1)** | 2025-10-31 | <details><summary>This ...</summary><p>This paper has been accepted by MMM 2026</p></details> |
+| **[DC4GS: Directional Consistency-Driven Adaptive Density Control for 3D Gaussian Splatting](http://arxiv.org/abs/2510.26921v1)** | 2025-10-30 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 / Project page: https://github.com/cgskku/dc4gs</p></details> |
 | **[HEIR: Learning Graph-Based Motion Hierarchies](http://arxiv.org/abs/2510.26786v1)** | 2025-10-30 | <details><summary>Code ...</summary><p>Code link: https://github.com/princeton-computational-imaging/HEIR</p></details> |
 | **[The Impact and Outlook of 3D Gaussian Splatting](http://arxiv.org/abs/2510.26694v1)** | 2025-10-30 | <details><summary>Artic...</summary><p>Article written for Frontiers of Science Award, International Congress on Basic Science, 2025</p></details> |
 | **[AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM](http://arxiv.org/abs/2510.26358v1)** | 2025-10-30 |  |
-| **[Disentangled 4D Gaussian Splatting: Rendering High-Resolution Dynamic World at 343 FPS](http://arxiv.org/abs/2503.22159v3)** | 2025-10-30 |  |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Masked Diffusion Captioning for Visual Feature Learning](http://arxiv.org/abs/2510.26799v1)** | 2025-10-30 | <details><summary>EMNLP...</summary><p>EMNLP 2025 (Findings). Project page: https://cfeng16.github.io/mdlm4vfl/</p></details> |
-| **[The Quest for Generalizable Motion Generation: Data, Model, and Evaluation](http://arxiv.org/abs/2510.26794v1)** | 2025-10-30 |  |
-| **[Locality in Image Diffusion Models Emerges from Data Statistics](http://arxiv.org/abs/2509.09672v2)** | 2025-10-30 | <details><summary>31 pa...</summary><p>31 pages, 20 figures, 7 tables</p></details> |
-| **[ScoreAdv: Score-based Targeted Generation of Natural Adversarial Examples via Diffusion Models](http://arxiv.org/abs/2507.06078v2)** | 2025-10-30 |  |
-| **[Advancing Local Clustering on Graphs via Compressive Sensing: Semi-supervised and Unsupervised Methods](http://arxiv.org/abs/2504.19419v2)** | 2025-10-30 |  |
-| **[Hybrid Consistency Policy: Decoupling Multi-Modal Diversity and Real-Time Efficiency in Robotic Manipulation](http://arxiv.org/abs/2510.26670v1)** | 2025-10-30 |  |
-| **[Fit for Purpose? Deepfake Detection in the Real World](http://arxiv.org/abs/2510.16556v2)** | 2025-10-30 |  |
-| **[Emu3.5: Native Multimodal Models are World Learners](http://arxiv.org/abs/2510.26583v1)** | 2025-10-30 | <details><summary>proje...</summary><p>project page: https://emu.world</p></details> |
-| **[LinearSR: Unlocking Linear Attention for Stable and Efficient Image Super-Resolution](http://arxiv.org/abs/2510.08771v2)** | 2025-10-30 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 6 tables</p></details> |
-| **[Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters](http://arxiv.org/abs/2510.26501v1)** | 2025-10-30 | <details><summary>Submi...</summary><p>Submitted to the 24th International Conference on Pervasive Computing and Communications (PerCom 2026)</p></details> |
-| **[StyleGuard: Preventing Text-to-Image-Model-based Style Mimicry Attacks by Style Perturbations](http://arxiv.org/abs/2505.18766v2)** | 2025-10-30 | Accepted by NIPS2025 |
-| **[Diffusion-Aided Bandwidth-Efficient Semantic Communication with Adaptive Requests](http://arxiv.org/abs/2510.26442v1)** | 2025-10-30 | <details><summary>Submi...</summary><p>Submitted to IEEE ICC 2026</p></details> |
-| **[The evolving surface morphochemical reaction-diffusion system for battery modeling](http://arxiv.org/abs/2510.26437v1)** | 2025-10-30 | 25 pages, 14 figures |
-| **[EmoAttack: Emotion-to-Image Diffusion Models for Emotional Backdoor Generation](http://arxiv.org/abs/2406.15863v3)** | 2025-10-30 |  |
-| **[Tunable-Generalization Diffusion Powered by Self-Supervised Contextual Sub-Data for Low-Dose CT Reconstruction](http://arxiv.org/abs/2509.23885v2)** | 2025-10-30 |  |
+| **[WildCAT3D: Appearance-Aware Multi-View Diffusion in the Wild](http://arxiv.org/abs/2506.13030v2)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025. Project page: https://wildcat3d.github.io</p></details> |
+| **[Mixed-Density Diffuser: Efficient Planning with Non-uniform Temporal Resolution](http://arxiv.org/abs/2510.23026v2)** | 2025-11-03 | <details><summary>Europ...</summary><p>European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESSAN) (under review)</p></details> |
+| **[PO-CKAN:Physics Informed Deep Operator Kolmogorov Arnold Networks with Chunk Rational Structure](http://arxiv.org/abs/2510.08795v2)** | 2025-11-03 |  |
+| **[Rethinking Visual Intelligence: Insights from Video Pretraining](http://arxiv.org/abs/2510.24448v2)** | 2025-11-03 | <details><summary>Updat...</summary><p>Updated version from preprint arXiv:2506.07280 (Gen2Gen) focused on visual intelligence. This work can be considered as v2</p></details> |
+| **[Sampling by averaging: A multiscale approach to score estimation](http://arxiv.org/abs/2508.15069v2)** | 2025-11-03 |  |
+| **[SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation and Understanding](http://arxiv.org/abs/2505.22643v2)** | 2025-11-03 | <details><summary>NeurI...</summary><p>NeurIPS 2025; 24 pages, 10 figures, 9 tables; Code at https://dekai21.github.io/SPIRAL/</p></details> |
+| **[A monotone finite element method for an elliptic distributed optimal control problem with a convection-dominated state equation](http://arxiv.org/abs/2510.27167v2)** | 2025-11-03 |  |
+| **[RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning](http://arxiv.org/abs/2510.14830v2)** | 2025-11-03 | <details><summary>https...</summary><p>https://lei-kun.github.io/RL-100/</p></details> |
+| **[ReviveDiff: A Universal Diffusion Model for Restoring Images in Adverse Weather Conditions](http://arxiv.org/abs/2409.18932v4)** | 2025-11-03 |  |
+| **[Neural Entropy](http://arxiv.org/abs/2409.03817v3)** | 2025-11-03 | <details><summary>29 pa...</summary><p>29 pages + references, 18 figures. Camera-ready version from NeurIPS 2025</p></details> |
+| **[Multi-Agent Regime-Conditioned Diffusion (MARCD) for CVaR-Constrained Portfolio Decisions](http://arxiv.org/abs/2510.10807v3)** | 2025-11-03 | <details><summary>Code ...</summary><p>Code available at: https://github.com/AliAtiah/MARCD</p></details> |
+| **[VO-DP: Semantic-Geometric Adaptive Diffusion Policy for Vision-Only Robotic Manipulation](http://arxiv.org/abs/2510.15530v4)** | 2025-11-03 |  |
+| **[bayesCureRateModel: Bayesian Cure Rate Modeling for Time to Event Data in R](http://arxiv.org/abs/2409.10221v2)** | 2025-11-03 | revised version |
+| **[Bellman Diffusion Models](http://arxiv.org/abs/2407.12163v2)** | 2025-11-03 |  |
+| **[FIRE: Robust Detection of Diffusion-Generated Images via Frequency-Guided Reconstruction Error](http://arxiv.org/abs/2412.07140v3)** | 2025-11-03 | <details><summary>14 pa...</summary><p>14 pages, 14 figures. Accepted to CVPR 2025</p></details> |
 
