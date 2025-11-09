@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 07, 2025
+title: Latest 15 Papers - November 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MedSapiens: Taking a Pose to Rethink Medical Imaging Landmark Detection](http://arxiv.org/abs/2511.04255v1)** | 2025-11-06 |  |
+| **[EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs](http://arxiv.org/abs/2408.17168v2)** | 2025-11-06 |  |
 | **[HGFreNet: Hop-hybrid GraphFomer for 3D Human Pose Estimation with Trajectory Consistency in Frequency Domain](http://arxiv.org/abs/2511.01756v1)** | 2025-11-03 |  |
 | **[Sketch2PoseNet: Efficient and Generalized Sketch to 3D Human Pose Prediction](http://arxiv.org/abs/2510.26196v1)** | 2025-10-30 | SIGGRAPH Asia 2025 |
 | **[PRGCN: A Graph Memory Network for Cross-Sequence Pattern Reuse in 3D Human Pose Estimation](http://arxiv.org/abs/2510.19475v1)** | 2025-10-22 | <details><summary>29 pa...</summary><p>29 pages, 6 figures, 6 tables</p></details> |
@@ -39,12 +41,17 @@ labels: documentation
 | **[Real-time Human Finger Pointing Recognition and Estimation for Robot Directives Using a Single Web-Camera](http://arxiv.org/abs/2307.02949v2)** | 2025-10-09 |  |
 | **[GraphEnet: Event-driven Human Pose Estimation with a Graph Neural Network](http://arxiv.org/abs/2510.07990v1)** | 2025-10-09 |  |
 | **[Adaptively Sampling-Reusing-Mixing Decomposed Gradients to Speed Up Sharpness Aware Minimization](http://arxiv.org/abs/2510.03763v1)** | 2025-10-04 |  |
-| **[Paving the Way Towards Kinematic Assessment Using Monocular Video: A Preclinical Benchmark of State-of-the-Art Deep-Learning-Based 3D Human Pose Estimators Against Inertial Sensors in Daily Living Activities](http://arxiv.org/abs/2510.02264v1)** | 2025-10-02 | <details><summary>All t...</summary><p>All tables, graphs and figures generated can be obtained in the Zenodo repository complementary to this work: https://doi.org/10.5281/zenodo.15088423</p></details> |
-| **[Zero-shot Human Pose Estimation using Diffusion-based Inverse solvers](http://arxiv.org/abs/2510.02043v1)** | 2025-10-02 |  |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos](http://arxiv.org/abs/2506.15680v2)** | 2025-11-06 | <details><summary>Proje...</summary><p>Project page: https://kywind.github.io/pgnd</p></details> |
+| **[Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions](http://arxiv.org/abs/2511.04665v1)** | 2025-11-06 | <details><summary>Websi...</summary><p>Website: https://real2sim-eval.github.io/</p></details> |
+| **[Optimized Minimal 3D Gaussian Splatting](http://arxiv.org/abs/2503.16924v2)** | 2025-11-06 | <details><summary>Proje...</summary><p>Project page: https://maincold2.github.io/omg/</p></details> |
+| **[SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM](http://arxiv.org/abs/2504.13713v3)** | 2025-11-06 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, submitted to The International Journal of Robotics Research (IJRR)</p></details> |
+| **[A LoD of Gaussians: Unified Training and Rendering for Ultra-Large Scale Reconstruction with External Memory](http://arxiv.org/abs/2507.01110v3)** | 2025-11-06 |  |
+| **[FastGS: Training 3D Gaussian Splatting in 100 Seconds](http://arxiv.org/abs/2511.04283v1)** | 2025-11-06 | <details><summary>Proje...</summary><p>Project page: https://fastgs.github.io/</p></details> |
+| **[CaRF: Enhancing Multi-View Consistency in Referring 3D Gaussian Splatting Segmentation](http://arxiv.org/abs/2511.03992v1)** | 2025-11-06 |  |
 | **[ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS](http://arxiv.org/abs/2505.23734v3)** | 2025-11-05 | <details><summary>NeurI...</summary><p>NeurIPS 2025, Project Page: https://lhmd.top/zpressor, Code: https://github.com/ziplab/ZPressor</p></details> |
 | **[Object-X: Learning to Reconstruct Multi-Modal 3D Object Representations](http://arxiv.org/abs/2506.04789v3)** | 2025-11-05 |  |
 | **[DentalSplat: Dental Occlusion Novel View Synthesis from Sparse Intra-Oral Photographs](http://arxiv.org/abs/2511.03099v1)** | 2025-11-05 |  |
@@ -53,30 +60,23 @@ labels: documentation
 | **[Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey](http://arxiv.org/abs/2507.14501v4)** | 2025-11-04 | <details><summary>A pro...</summary><p>A project page associated with this survey is available at https://fnzhan.com/projects/Feed-Forward-3D</p></details> |
 | **[Object-Centric 3D Gaussian Splatting for Strawberry Plant Reconstruction and Phenotyping](http://arxiv.org/abs/2511.02207v1)** | 2025-11-04 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 3 tables</p></details> |
 | **[3DBonsai: Structure-Aware Bonsai Modeling Using Conditioned 3D Gaussian Splatting](http://arxiv.org/abs/2504.01619v2)** | 2025-11-04 |  |
-| **[SonarSplat: Novel View Synthesis of Imaging Sonar via Gaussian Splatting](http://arxiv.org/abs/2504.00159v3)** | 2025-11-03 |  |
-| **[GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering](http://arxiv.org/abs/2510.14270v2)** | 2025-11-03 |  |
-| **[Gaussian Splashing: Direct Volumetric Rendering Underwater](http://arxiv.org/abs/2411.19588v2)** | 2025-11-02 |  |
-| **[D$^2$GS: Dense Depth Regularization for LiDAR-free Urban Scene Reconstruction](http://arxiv.org/abs/2510.25173v2)** | 2025-11-02 |  |
-| **[4D Neural Voxel Splatting: Dynamic Scene Rendering with Voxelized Guassian Splatting](http://arxiv.org/abs/2511.00560v1)** | 2025-11-01 | 10 pages, 7 figures |
-| **[Anti-Aliased 2D Gaussian Splatting](http://arxiv.org/abs/2506.11252v2)** | 2025-11-01 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Code will be available at https://github.com/maeyounes/AA-2DGS</p></details> |
-| **[Dynamic Gaussian Splatting from Defocused and Motion-blurred Monocular Videos](http://arxiv.org/abs/2510.10691v3)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off](http://arxiv.org/abs/2508.04825v2)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2025, project page: https://nxnai.github.io/Voost/</p></details> |
-| **[Generative View Stitching](http://arxiv.org/abs/2510.24718v2)** | 2025-11-05 | <details><summary>Updat...</summary><p>Updated acknowledgements and fixed figure visibility issue on Safari. Project website: https://andrewsonga.github.io/gvs</p></details> |
-| **[Finite element methods for electroneutral multicomponent electrolyte flows](http://arxiv.org/abs/2510.14923v3)** | 2025-11-05 |  |
-| **[Token Perturbation Guidance for Diffusion Models](http://arxiv.org/abs/2506.10036v2)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. Project page: https://github.com/TaatiTeam/Token-Perturbation-Guidance</p></details> |
-| **[Geometry-Aware Global Feature Aggregation for Real-Time Indirect Illumination](http://arxiv.org/abs/2508.08826v3)** | 2025-11-05 | 10 pages |
-| **[CASteer: Steering Diffusion Models for Controllable Generation](http://arxiv.org/abs/2503.09630v2)** | 2025-11-05 |  |
-| **[An efficient asymptotic preserving Monte Carlo method for frequency-dependent radiative transfer equations](http://arxiv.org/abs/2507.02392v2)** | 2025-11-05 |  |
-| **[Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction](http://arxiv.org/abs/2508.02558v2)** | 2025-11-05 | 12 pages, 7 figures |
-| **[CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection](http://arxiv.org/abs/2506.11772v3)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted at TMLR 2025</p></details> |
-| **[Beyond Citations: Measuring Idea-level Knowledge Diffusion from Research to Journalism and Policy-making](http://arxiv.org/abs/2511.03378v1)** | 2025-11-05 |  |
-| **[DiffSpectra: Molecular Structure Elucidation from Spectra using Diffusion Models](http://arxiv.org/abs/2507.06853v2)** | 2025-11-05 |  |
-| **[Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness](http://arxiv.org/abs/2505.08627v2)** | 2025-11-05 |  |
-| **[Image Encryption Scheme Based on Hyper-Chaotic Map and Self-Adaptive Diffusion](http://arxiv.org/abs/2509.06754v3)** | 2025-11-05 |  |
-| **[OLATverse: A Large-scale Real-world Object Dataset with Precise Lighting Control](http://arxiv.org/abs/2511.02483v2)** | 2025-11-05 |  |
-| **[UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions](http://arxiv.org/abs/2511.03334v1)** | 2025-11-05 |  |
+| **[InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation](http://arxiv.org/abs/2511.04675v1)** | 2025-11-06 | NeurIPS 2025 Oral |
+| **[X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations](http://arxiv.org/abs/2511.04671v1)** | 2025-11-06 |  |
+| **[Nowcast3D: Reliable precipitation nowcasting via gray-box learning](http://arxiv.org/abs/2511.04659v1)** | 2025-11-06 |  |
+| **[Optimal Inference Schedules for Masked Diffusion Models](http://arxiv.org/abs/2511.04647v1)** | 2025-11-06 | 33 pages, 1 figure |
+| **[Efficient probabilistic surrogate modeling techniques for partially-observed large-scale dynamical systems](http://arxiv.org/abs/2511.04641v1)** | 2025-11-06 |  |
+| **[PromptSep: Generative Audio Separation via Multimodal Prompting](http://arxiv.org/abs/2511.04623v1)** | 2025-11-06 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
+| **[Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment](http://arxiv.org/abs/2511.04555v1)** | 2025-11-06 | <details><summary>Githu...</summary><p>Github: https://github.com/MINT-SJTU/Evo-1</p></details> |
+| **[Microservices Is Dying, A New Method for Module Division Based on Universal Interfaces](http://arxiv.org/abs/2511.04548v1)** | 2025-11-06 | 12 pages |
+| **[Unified Generative Latent Representation for Functional Brain Graphs](http://arxiv.org/abs/2511.04539v1)** | 2025-11-06 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Symmetry and Geometry in Neural Representations</p></details> |
+| **[Diffusion & Adversarial Schrödinger Bridges via Iterative Proportional Markovian Fitting](http://arxiv.org/abs/2410.02601v4)** | 2025-11-06 |  |
+| **[Launch-Day Diffusion: Tracking Hacker News Impact on GitHub Stars for AI Tools](http://arxiv.org/abs/2511.04453v1)** | 2025-11-06 | <details><summary>7 pag...</summary><p>7 pages, 3 figures. Reproducible demonstration system with public code available at https://github.com/obadaKraishan/Launch-Day-Diffusion</p></details> |
+| **[MusRec: Zero-Shot Text-to-Music Editing via Rectified Flow and Diffusion Transformers](http://arxiv.org/abs/2511.04376v1)** | 2025-11-06 |  |
+| **[X-Diffusion: Generating Detailed 3D MRI Volumes From a Single Image Using Cross-Sectional Diffusion Models](http://arxiv.org/abs/2404.19604v3)** | 2025-11-06 | <details><summary>accep...</summary><p>accepted at ICCV 2025 GAIA workshop https://era-ai-biomed.github.io/GAIA/ , project website: https://emmanuelleb985.github.io/XDiffusion/</p></details> |
+| **[RISE-T2V: Rephrasing and Injecting Semantics with LLM for Expansive Text-to-Video Generation](http://arxiv.org/abs/2511.04317v1)** | 2025-11-06 | 17 pages, 16 figures |
+| **[Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization](http://arxiv.org/abs/2506.15980v2)** | 2025-11-06 |  |
 
