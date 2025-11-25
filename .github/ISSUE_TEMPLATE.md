@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 24, 2025
+title: Latest 15 Papers - November 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,76 +7,76 @@ labels: documentation
 ## 6d Object Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Solving Spatial Supersensing Without Spatial Supersensing](https://arxiv.org/abs/2511.16655v1)** | 2025-11-20 | Tech Report |
-| **[Comparison of Text-Based and Image-Based Retrieval in Multimodal Retrieval Augmented Generation Large Language Model Systems](https://arxiv.org/abs/2511.16654v1)** | 2025-11-20 |  |
-| **[InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy](https://arxiv.org/abs/2511.16651v1)** | 2025-11-20 |  |
-| **[Addressing the Influence of Unmeasured Confounding in Observational Studies with Time-to-Event Outcomes: A Semiparametric Sensitivity Analysis Approach](https://arxiv.org/abs/2403.02539v2)** | 2025-11-20 | <details><summary>49 pa...</summary><p>49 pages, 2 tables, 5 figures</p></details> |
-| **[SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624v1)** | 2025-11-20 | <details><summary>Websi...</summary><p>Website: https://ai.meta.com/sam3d/</p></details> |
-| **[Probing the Critical Point (CritPt) of AI Reasoning: a Frontier Physics Research Benchmark](https://arxiv.org/abs/2509.26574v3)** | 2025-11-20 | <details><summary>39 pa...</summary><p>39 pages, 6 figures, 6 tables</p></details> |
-| **[Estimating the Number of Street Vendors in New York City: Ratio Estimation with Point Process Data](https://arxiv.org/abs/2406.00527v6)** | 2025-11-20 |  |
-| **[POMA-3D: The Point Map Way to 3D Scene Understanding](https://arxiv.org/abs/2511.16567v1)** | 2025-11-20 | <details><summary>11 pa...</summary><p>11 pages, 6 tables, 5 figures</p></details> |
-| **[NutriScreener: Retrieval-Augmented Multi-Pose Graph Attention Network for Malnourishment Screening](https://arxiv.org/abs/2511.16566v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026 Special Track on AI for Social Impact</p></details> |
-| **[Beyond Tokens in Language Models: Interpreting Activations through Text Genre Chunks](https://arxiv.org/abs/2511.16540v1)** | 2025-11-20 | 13 pages, 5 figures |
-| **[TurkColBERT: A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval](https://arxiv.org/abs/2511.16528v1)** | 2025-11-20 |  |
-| **[Acquisition Time-Informed Breast Tumor Segmentation from Dynamic Contrast-Enhanced MRI](https://arxiv.org/abs/2511.16498v1)** | 2025-11-20 | 5 pages, 3 figures |
-| **[A Fast Relax-and-Round Approach to Unit Commitment for Data Center Own Generation](https://arxiv.org/abs/2511.16420v1)** | 2025-11-20 | <details><summary>Limit...</summary><p>Limited to 5 pages and this format for IEEE PESGM conference</p></details> |
-| **[Generative AI, Managerial Expectations, and Economic Activity](https://arxiv.org/abs/2410.03897v4)** | 2025-11-20 | <details><summary>27 Pa...</summary><p>27 Pages, 5 Figures, 17 Tables</p></details> |
-| **[Reducing Instability in Synthetic Data Evaluation with a Super-Metric in MalDataGen](https://arxiv.org/abs/2511.16373v1)** | 2025-11-20 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, submitted to ERRC/WRSeg 2025</p></details> |
+| **[Cloud4D](https://arxiv.org/abs/2511.19431v1)** | 2025-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight, project page: https://cloud4d.jacob-lin.com/</p></details> |
+| **[UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval](https://arxiv.org/abs/2511.19380v1)** | 2025-11-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 algorithms, 4 tables</p></details> |
+| **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](https://arxiv.org/abs/2510.03469v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to AgenticSE Workshop at ASE 2025</p></details> |
+| **[Node Preservation and its Effect on Crossover in Cartesian Genetic Programming](https://arxiv.org/abs/2511.00634v2)** | 2025-11-24 | <details><summary>Draft...</summary><p>Draft to cite in another paper before both papers are peer-reviewed for the evo*2026 conference, 21 pages, 5 figures</p></details> |
+| **[Adversarial Patch Attacks on Vision-Based Cargo Occupancy Estimation via Differentiable 3D Simulation](https://arxiv.org/abs/2511.19254v1)** | 2025-11-24 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 1 algorithm</p></details> |
+| **[Automatic Multi-View X-Ray/CT Registration Using Bone Substructure Contours](https://arxiv.org/abs/2506.13292v2)** | 2025-11-24 | <details><summary>This ...</summary><p>This paper was accepted to IPCAI 2025. The Project Webpage is: https://rflepp.github.io/BoneSubstructureContours2D3DRegistration/</p></details> |
+| **[Are Large Vision Language Models Truly Grounded in Medical Images? Evidence from Italian Clinical Visual Question Answering](https://arxiv.org/abs/2511.19220v1)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Multimodal Representation Learning for Healthcare (MMRL4H), EurIPS 2025</p></details> |
+| **[Torsion-Space Diffusion for Protein Backbone Generation with Geometric Refinement](https://arxiv.org/abs/2511.19184v1)** | 2025-11-24 | 5 pages, 4 figures |
+| **[Scaling Success: A Systematic Review of Peer Grading Strategies for Accuracy, Efficiency, and Learning in Contemporary Education](https://arxiv.org/abs/2508.11677v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted for presentation at the Frontiers in Education Conference, Nashville, Tennessee, USA, 2-5 November 2025</p></details> |
+| **[ABM-LoRA: Activation Boundary Matching for Fast Convergence in Low-Rank Adaptation](https://arxiv.org/abs/2511.19145v1)** | 2025-11-24 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, under review</p></details> |
+| **[The Core in Max-Loss Non-Centroid Clustering Can Be Empty](https://arxiv.org/abs/2511.19107v1)** | 2025-11-24 |  |
+| **[Diffusion Model-Enhanced Environment Reconstruction in ISAC](https://arxiv.org/abs/2511.19044v1)** | 2025-11-24 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, submitted to IEEE WCL</p></details> |
+| **[FastForward Pruning: Efficient LLM Pruning via Single-Step Reinforcement Learning](https://arxiv.org/abs/2511.18977v1)** | 2025-11-24 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 4 tables</p></details> |
+| **[Compressor-VLA: Instruction-Guided Visual Token Compression for Efficient Robotic Manipulation](https://arxiv.org/abs/2511.18950v1)** | 2025-11-24 | 11 pages, 5 figures |
+| **[TRIM: Token Reduction and Inference Modeling for Cost-Effective Language Generation](https://arxiv.org/abs/2412.07682v5)** | 2025-11-24 | <details><summary>16 pa...</summary><p>16 pages, 9 tables, 5 figures</p></details> |
 
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[NoPo-Avatar: Generalizable and Animatable Avatars from Sparse Inputs without Human Poses](https://arxiv.org/abs/2511.16673v1)** | 2025-11-20 | <details><summary>NeurI...</summary><p>NeurIPS'25; project page: https://wenj.github.io/NoPo-Avatar/</p></details> |
-| **[Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations](https://arxiv.org/abs/2511.16661v1)** | 2025-11-20 |  |
-| **[Solving Spatial Supersensing Without Spatial Supersensing](https://arxiv.org/abs/2511.16655v1)** | 2025-11-20 | Tech Report |
-| **[Comparison of Text-Based and Image-Based Retrieval in Multimodal Retrieval Augmented Generation Large Language Model Systems](https://arxiv.org/abs/2511.16654v1)** | 2025-11-20 |  |
-| **[InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy](https://arxiv.org/abs/2511.16651v1)** | 2025-11-20 |  |
-| **[Addressing the Influence of Unmeasured Confounding in Observational Studies with Time-to-Event Outcomes: A Semiparametric Sensitivity Analysis Approach](https://arxiv.org/abs/2403.02539v2)** | 2025-11-20 | <details><summary>49 pa...</summary><p>49 pages, 2 tables, 5 figures</p></details> |
-| **[SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624v1)** | 2025-11-20 | <details><summary>Websi...</summary><p>Website: https://ai.meta.com/sam3d/</p></details> |
-| **[Probing the Critical Point (CritPt) of AI Reasoning: a Frontier Physics Research Benchmark](https://arxiv.org/abs/2509.26574v3)** | 2025-11-20 | <details><summary>39 pa...</summary><p>39 pages, 6 figures, 6 tables</p></details> |
-| **[Estimating the Number of Street Vendors in New York City: Ratio Estimation with Point Process Data](https://arxiv.org/abs/2406.00527v6)** | 2025-11-20 |  |
-| **[POMA-3D: The Point Map Way to 3D Scene Understanding](https://arxiv.org/abs/2511.16567v1)** | 2025-11-20 | <details><summary>11 pa...</summary><p>11 pages, 6 tables, 5 figures</p></details> |
-| **[NutriScreener: Retrieval-Augmented Multi-Pose Graph Attention Network for Malnourishment Screening](https://arxiv.org/abs/2511.16566v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026 Special Track on AI for Social Impact</p></details> |
-| **[Beyond Tokens in Language Models: Interpreting Activations through Text Genre Chunks](https://arxiv.org/abs/2511.16540v1)** | 2025-11-20 | 13 pages, 5 figures |
-| **[TurkColBERT: A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval](https://arxiv.org/abs/2511.16528v1)** | 2025-11-20 |  |
-| **[Acquisition Time-Informed Breast Tumor Segmentation from Dynamic Contrast-Enhanced MRI](https://arxiv.org/abs/2511.16498v1)** | 2025-11-20 | 5 pages, 3 figures |
-| **[A Fast Relax-and-Round Approach to Unit Commitment for Data Center Own Generation](https://arxiv.org/abs/2511.16420v1)** | 2025-11-20 | <details><summary>Limit...</summary><p>Limited to 5 pages and this format for IEEE PESGM conference</p></details> |
+| **[Cloud4D](https://arxiv.org/abs/2511.19431v1)** | 2025-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight, project page: https://cloud4d.jacob-lin.com/</p></details> |
+| **[UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval](https://arxiv.org/abs/2511.19380v1)** | 2025-11-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 algorithms, 4 tables</p></details> |
+| **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](https://arxiv.org/abs/2510.03469v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to AgenticSE Workshop at ASE 2025</p></details> |
+| **[Node Preservation and its Effect on Crossover in Cartesian Genetic Programming](https://arxiv.org/abs/2511.00634v2)** | 2025-11-24 | <details><summary>Draft...</summary><p>Draft to cite in another paper before both papers are peer-reviewed for the evo*2026 conference, 21 pages, 5 figures</p></details> |
+| **[Adversarial Patch Attacks on Vision-Based Cargo Occupancy Estimation via Differentiable 3D Simulation](https://arxiv.org/abs/2511.19254v1)** | 2025-11-24 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 1 algorithm</p></details> |
+| **[IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes](https://arxiv.org/abs/2511.19235v1)** | 2025-11-24 |  |
+| **[Automatic Multi-View X-Ray/CT Registration Using Bone Substructure Contours](https://arxiv.org/abs/2506.13292v2)** | 2025-11-24 | <details><summary>This ...</summary><p>This paper was accepted to IPCAI 2025. The Project Webpage is: https://rflepp.github.io/BoneSubstructureContours2D3DRegistration/</p></details> |
+| **[Are Large Vision Language Models Truly Grounded in Medical Images? Evidence from Italian Clinical Visual Question Answering](https://arxiv.org/abs/2511.19220v1)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Multimodal Representation Learning for Healthcare (MMRL4H), EurIPS 2025</p></details> |
+| **[Torsion-Space Diffusion for Protein Backbone Generation with Geometric Refinement](https://arxiv.org/abs/2511.19184v1)** | 2025-11-24 | 5 pages, 4 figures |
+| **[Scaling Success: A Systematic Review of Peer Grading Strategies for Accuracy, Efficiency, and Learning in Contemporary Education](https://arxiv.org/abs/2508.11677v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted for presentation at the Frontiers in Education Conference, Nashville, Tennessee, USA, 2-5 November 2025</p></details> |
+| **[ABM-LoRA: Activation Boundary Matching for Fast Convergence in Low-Rank Adaptation](https://arxiv.org/abs/2511.19145v1)** | 2025-11-24 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, under review</p></details> |
+| **[The Core in Max-Loss Non-Centroid Clustering Can Be Empty](https://arxiv.org/abs/2511.19107v1)** | 2025-11-24 |  |
+| **[Graph-based 3D Human Pose Estimation using WiFi Signals](https://arxiv.org/abs/2511.19105v1)** | 2025-11-24 |  |
+| **[Analysis of Deep-Learning Methods in an ISO/TS 15066-Compliant Human-Robot Safety Framework](https://arxiv.org/abs/2511.19094v1)** | 2025-11-24 | <details><summary>MDPI ...</summary><p>MDPI Sensors, published 22 November 2025</p></details> |
+| **[Diffusion Model-Enhanced Environment Reconstruction in ISAC](https://arxiv.org/abs/2511.19044v1)** | 2025-11-24 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, submitted to IEEE WCL</p></details> |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Solving Spatial Supersensing Without Spatial Supersensing](https://arxiv.org/abs/2511.16655v1)** | 2025-11-20 | Tech Report |
-| **[Comparison of Text-Based and Image-Based Retrieval in Multimodal Retrieval Augmented Generation Large Language Model Systems](https://arxiv.org/abs/2511.16654v1)** | 2025-11-20 |  |
-| **[InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy](https://arxiv.org/abs/2511.16651v1)** | 2025-11-20 |  |
-| **[Addressing the Influence of Unmeasured Confounding in Observational Studies with Time-to-Event Outcomes: A Semiparametric Sensitivity Analysis Approach](https://arxiv.org/abs/2403.02539v2)** | 2025-11-20 | <details><summary>49 pa...</summary><p>49 pages, 2 tables, 5 figures</p></details> |
-| **[SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624v1)** | 2025-11-20 | <details><summary>Websi...</summary><p>Website: https://ai.meta.com/sam3d/</p></details> |
-| **[Probing the Critical Point (CritPt) of AI Reasoning: a Frontier Physics Research Benchmark](https://arxiv.org/abs/2509.26574v3)** | 2025-11-20 | <details><summary>39 pa...</summary><p>39 pages, 6 figures, 6 tables</p></details> |
-| **[Estimating the Number of Street Vendors in New York City: Ratio Estimation with Point Process Data](https://arxiv.org/abs/2406.00527v6)** | 2025-11-20 |  |
-| **[POMA-3D: The Point Map Way to 3D Scene Understanding](https://arxiv.org/abs/2511.16567v1)** | 2025-11-20 | <details><summary>11 pa...</summary><p>11 pages, 6 tables, 5 figures</p></details> |
-| **[NutriScreener: Retrieval-Augmented Multi-Pose Graph Attention Network for Malnourishment Screening](https://arxiv.org/abs/2511.16566v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026 Special Track on AI for Social Impact</p></details> |
-| **[EOGS++: Earth Observation Gaussian Splatting with Internal Camera Refinement and Direct Panchromatic Rendering](https://arxiv.org/abs/2511.16542v1)** | 2025-11-20 | 8 pages, ISPRS |
-| **[Beyond Tokens in Language Models: Interpreting Activations through Text Genre Chunks](https://arxiv.org/abs/2511.16540v1)** | 2025-11-20 | 13 pages, 5 figures |
-| **[TurkColBERT: A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval](https://arxiv.org/abs/2511.16528v1)** | 2025-11-20 |  |
-| **[Acquisition Time-Informed Breast Tumor Segmentation from Dynamic Contrast-Enhanced MRI](https://arxiv.org/abs/2511.16498v1)** | 2025-11-20 | 5 pages, 3 figures |
-| **[A Fast Relax-and-Round Approach to Unit Commitment for Data Center Own Generation](https://arxiv.org/abs/2511.16420v1)** | 2025-11-20 | <details><summary>Limit...</summary><p>Limited to 5 pages and this format for IEEE PESGM conference</p></details> |
-| **[Generative AI, Managerial Expectations, and Economic Activity](https://arxiv.org/abs/2410.03897v4)** | 2025-11-20 | <details><summary>27 Pa...</summary><p>27 Pages, 5 Figures, 17 Tables</p></details> |
+| **[Cloud4D](https://arxiv.org/abs/2511.19431v1)** | 2025-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight, project page: https://cloud4d.jacob-lin.com/</p></details> |
+| **[UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval](https://arxiv.org/abs/2511.19380v1)** | 2025-11-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 algorithms, 4 tables</p></details> |
+| **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](https://arxiv.org/abs/2510.03469v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to AgenticSE Workshop at ASE 2025</p></details> |
+| **[Node Preservation and its Effect on Crossover in Cartesian Genetic Programming](https://arxiv.org/abs/2511.00634v2)** | 2025-11-24 | <details><summary>Draft...</summary><p>Draft to cite in another paper before both papers are peer-reviewed for the evo*2026 conference, 21 pages, 5 figures</p></details> |
+| **[DensifyBeforehand: LiDAR-assisted Content-aware Densification for Efficient and Quality 3D Gaussian Splatting](https://arxiv.org/abs/2511.19294v1)** | 2025-11-24 |  |
+| **[Optimization-Free Style Transfer for 3D Gaussian Splats](https://arxiv.org/abs/2508.05813v2)** | 2025-11-24 |  |
+| **[Adversarial Patch Attacks on Vision-Based Cargo Occupancy Estimation via Differentiable 3D Simulation](https://arxiv.org/abs/2511.19254v1)** | 2025-11-24 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 1 algorithm</p></details> |
+| **[IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes](https://arxiv.org/abs/2511.19235v1)** | 2025-11-24 |  |
+| **[Automatic Multi-View X-Ray/CT Registration Using Bone Substructure Contours](https://arxiv.org/abs/2506.13292v2)** | 2025-11-24 | <details><summary>This ...</summary><p>This paper was accepted to IPCAI 2025. The Project Webpage is: https://rflepp.github.io/BoneSubstructureContours2D3DRegistration/</p></details> |
+| **[Are Large Vision Language Models Truly Grounded in Medical Images? Evidence from Italian Clinical Visual Question Answering](https://arxiv.org/abs/2511.19220v1)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Multimodal Representation Learning for Healthcare (MMRL4H), EurIPS 2025</p></details> |
+| **[NVGS: Neural Visibility for Occlusion Culling in 3D Gaussian Splatting](https://arxiv.org/abs/2511.19202v1)** | 2025-11-24 | 15 pages, 13 figures |
+| **[Torsion-Space Diffusion for Protein Backbone Generation with Geometric Refinement](https://arxiv.org/abs/2511.19184v1)** | 2025-11-24 | 5 pages, 4 figures |
+| **[MetroGS: Efficient and Stable Reconstruction of Geometrically Accurate High-Fidelity Large-Scale Scenes](https://arxiv.org/abs/2511.19172v1)** | 2025-11-24 | <details><summary>Proje...</summary><p>Project page: https://m3phist0.github.io/MetroGS</p></details> |
+| **[Scaling Success: A Systematic Review of Peer Grading Strategies for Accuracy, Efficiency, and Learning in Contemporary Education](https://arxiv.org/abs/2508.11677v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted for presentation at the Frontiers in Education Conference, Nashville, Tennessee, USA, 2-5 November 2025</p></details> |
+| **[ABM-LoRA: Activation Boundary Matching for Fast Convergence in Low-Rank Adaptation](https://arxiv.org/abs/2511.19145v1)** | 2025-11-24 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, under review</p></details> |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO](https://arxiv.org/abs/2511.16669v1)** | 2025-11-20 | <details><summary>Proje...</summary><p>Project page: https://video-as-answer.github.io/</p></details> |
-| **[TriDiff-4D: Fast 4D Generation through Diffusion-based Triplane Re-posing](https://arxiv.org/abs/2511.16662v1)** | 2025-11-20 | <details><summary>8 pag...</summary><p>8 pages, 10 figures, Under review at a conference</p></details> |
-| **[Solving Spatial Supersensing Without Spatial Supersensing](https://arxiv.org/abs/2511.16655v1)** | 2025-11-20 | Tech Report |
-| **[Comparison of Text-Based and Image-Based Retrieval in Multimodal Retrieval Augmented Generation Large Language Model Systems](https://arxiv.org/abs/2511.16654v1)** | 2025-11-20 |  |
-| **[InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy](https://arxiv.org/abs/2511.16651v1)** | 2025-11-20 |  |
-| **[Addressing the Influence of Unmeasured Confounding in Observational Studies with Time-to-Event Outcomes: A Semiparametric Sensitivity Analysis Approach](https://arxiv.org/abs/2403.02539v2)** | 2025-11-20 | <details><summary>49 pa...</summary><p>49 pages, 2 tables, 5 figures</p></details> |
-| **[TRIM: Scalable 3D Gaussian Diffusion Inference with Temporal and Spatial Trimming](https://arxiv.org/abs/2511.16642v1)** | 2025-11-20 | NeurIPS 2025 |
-| **[SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624v1)** | 2025-11-20 | <details><summary>Websi...</summary><p>Website: https://ai.meta.com/sam3d/</p></details> |
-| **[Probing the Critical Point (CritPt) of AI Reasoning: a Frontier Physics Research Benchmark](https://arxiv.org/abs/2509.26574v3)** | 2025-11-20 | <details><summary>39 pa...</summary><p>39 pages, 6 figures, 6 tables</p></details> |
-| **[Time dependent loss reweighting for flow matching and diffusion models is theoretically justified](https://arxiv.org/abs/2511.16599v1)** | 2025-11-20 | 19 pages, 0 figures |
-| **[Estimating the Number of Street Vendors in New York City: Ratio Estimation with Point Process Data](https://arxiv.org/abs/2406.00527v6)** | 2025-11-20 |  |
-| **[Boosting Predictive Performance on Tabular Data through Data Augmentation with Latent-Space Flow-Based Diffusion](https://arxiv.org/abs/2511.16571v1)** | 2025-11-20 | 35 Pages |
-| **[POMA-3D: The Point Map Way to 3D Scene Understanding](https://arxiv.org/abs/2511.16567v1)** | 2025-11-20 | <details><summary>11 pa...</summary><p>11 pages, 6 tables, 5 figures</p></details> |
-| **[NutriScreener: Retrieval-Augmented Multi-Pose Graph Attention Network for Malnourishment Screening](https://arxiv.org/abs/2511.16566v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026 Special Track on AI for Social Impact</p></details> |
-| **[Beyond Tokens in Language Models: Interpreting Activations through Text Genre Chunks](https://arxiv.org/abs/2511.16540v1)** | 2025-11-20 | 13 pages, 5 figures |
+| **[Are Image-to-Video Models Good Zero-Shot Image Editors?](https://arxiv.org/abs/2511.19435v1)** | 2025-11-24 | technical report |
+| **[Breaking the Likelihood-Quality Trade-off in Diffusion Models by Merging Pretrained Experts](https://arxiv.org/abs/2511.19434v1)** | 2025-11-24 | <details><summary>ICLR ...</summary><p>ICLR 2025 DeLTa workshop</p></details> |
+| **[Cloud4D](https://arxiv.org/abs/2511.19431v1)** | 2025-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight, project page: https://cloud4d.jacob-lin.com/</p></details> |
+| **[Predicting partially observable dynamical systems via diffusion models with a multiscale inference scheme](https://arxiv.org/abs/2511.19390v1)** | 2025-11-24 |  |
+| **[UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval](https://arxiv.org/abs/2511.19380v1)** | 2025-11-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 algorithms, 4 tables</p></details> |
+| **[Efficiency vs. Fidelity: A Comparative Analysis of Diffusion Probabilistic Models and Flow Matching on Low-Resource Hardware](https://arxiv.org/abs/2511.19379v1)** | 2025-11-24 |  |
+| **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](https://arxiv.org/abs/2510.03469v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to AgenticSE Workshop at ASE 2025</p></details> |
+| **[SketchDeco: Training-Free Latent Composition for Precise Sketch Colourisation](https://arxiv.org/abs/2405.18716v2)** | 2025-11-24 | <details><summary>Proje...</summary><p>Project Page: \url{https://chaitron.github.io/SketchDeco/}</p></details> |
+| **[DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation](https://arxiv.org/abs/2511.19365v1)** | 2025-11-24 | <details><summary>Proje...</summary><p>Project Page: https://zehong-ma.github.io/DeCo. Code Repository: https://github.com/Zehong-Ma/DeCo</p></details> |
+| **[Node Preservation and its Effect on Crossover in Cartesian Genetic Programming](https://arxiv.org/abs/2511.00634v2)** | 2025-11-24 | <details><summary>Draft...</summary><p>Draft to cite in another paper before both papers are peer-reviewed for the evo*2026 conference, 21 pages, 5 figures</p></details> |
+| **[Entropic Time Schedulers for Generative Diffusion Models](https://arxiv.org/abs/2504.13612v4)** | 2025-11-24 | 31 pages |
+| **[SyncMV4D: Synchronized Multi-view Joint Diffusion of Appearance and Motion for Hand-Object Interaction Synthesis](https://arxiv.org/abs/2511.19319v1)** | 2025-11-24 | <details><summary>Proje...</summary><p>Project Page: https://droliven.github.io/SyncMV4D</p></details> |
+| **[Evaluating Dataset Watermarking for Fine-tuning Traceability of Customized Diffusion Models: A Comprehensive Benchmark and Removal Approach](https://arxiv.org/abs/2511.19316v1)** | 2025-11-24 |  |
+| **[InfoScale: Unleashing Training-free Variable-scaled Image Generation via Effective Utilization of Information](https://arxiv.org/abs/2509.01421v3)** | 2025-11-24 |  |
+| **[Diffusion Reconstruction-based Data Likelihood Estimation for Core-Set Selection](https://arxiv.org/abs/2511.19274v1)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 
