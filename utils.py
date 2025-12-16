@@ -16,9 +16,9 @@ def remove_duplicated_spaces(text: str) -> str:
 def request_paper_with_arXiv_api(keyword: str, max_results: int, link: str = "OR") -> List[Dict[str, str]]:
     # keyword = keyword.replace(" ", "+")
     assert link in ["OR", "AND"], "link should be 'OR' or 'AND'"
-    keyword = "\"" + keyword + "\""
+    keyword = f'"{keyword}"'
     # url = "http://export.arxiv.org/api/query?search_query=ti:{0}+{2}+abs:{0}&max_results={1}&sortBy=lastUpdatedDate".format(keyword, max_results, link)
-    url = "http://export.arxiv.org/api/query?search_query=all:{0}~5&max_results={1}&sortBy=lastUpdatedDate".format(keyword, max_results, link)
+    url = "http://export.arxiv.org/api/query?search_query=all:{0}&max_results={1}&sortBy=lastUpdatedDate".format(keyword, max_results, link)
     # http://export.arxiv.org/api/query?search_query=all:%226d%20object%20pose%20estimation%22~5&sortBy=lastUpdatedDate&sortOrder=descending&max_results=50&start=0
 
     url = urllib.parse.quote(url, safe="%/:=&?~#+!$,;'@()*[]")
