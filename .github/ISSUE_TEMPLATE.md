@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 19, 2025
+title: Latest 15 Papers - December 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PoseMoE: Mixture-of-Experts Network for Monocular 3D Human Pose Estimation](https://arxiv.org/abs/2512.16494v1)** | 2025-12-18 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Image Processing (T-IP)</p></details> |
+| **[LAPX: Lightweight Hourglass Network with Global Context](https://arxiv.org/abs/2512.16089v1)** | 2025-12-18 | 10 pages |
 | **[BLANKET: Anonymizing Faces in Infant Video Recordings](https://arxiv.org/abs/2512.15542v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project website: https://github.com/ctu-vras/blanket-infant-face-anonym</p></details> |
 | **[FastDDHPose: Towards Unified, Efficient, and Disentangled 3D Human Pose Estimation](https://arxiv.org/abs/2512.14162v1)** | 2025-12-16 |  |
 | **[DiffPose-Animal: A Language-Conditioned Diffusion Framework for Animal Pose Estimation](https://arxiv.org/abs/2508.08783v2)** | 2025-12-14 | 13pages,2figures |
@@ -39,12 +41,15 @@ labels: documentation
 | **[End-to-End Multi-Person Pose Estimation with Pose-Aware Video Transformer](https://arxiv.org/abs/2511.13208v2)** | 2025-12-02 |  |
 | **[Towards Balanced Multi-Modal Learning in 3D Human Pose Estimation](https://arxiv.org/abs/2501.05264v4)** | 2025-11-30 |  |
 | **[PoseAdapt: Sustainable Human Pose Estimation via Continual Learning Benchmarks and Toolkit](https://arxiv.org/abs/2409.20469v2)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted in WACV 2026 Applications Track</p></details> |
-| **[Threat-Aware UAV Dodging of Human-Thrown Projectiles with an RGB-D Camera](https://arxiv.org/abs/2511.22847v1)** | 2025-11-28 |  |
-| **[Graph-based 3D Human Pose Estimation using WiFi Signals](https://arxiv.org/abs/2511.19105v1)** | 2025-11-24 |  |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Instant Expressive Gaussian Head Avatar via 3D-Aware Expression Distillation](https://arxiv.org/abs/2512.16893v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project website is https://research.nvidia.com/labs/amri/projects/instant4d</p></details> |
+| **[NeAR: Coupled Neural Asset-Renderer Stack](https://arxiv.org/abs/2511.18600v2)** | 2025-12-18 | <details><summary>20 pa...</summary><p>20 pages, 19 figures. The project page: https://near-project.github.io/</p></details> |
+| **[SDFoam: Signed-Distance Foam for explicit surface reconstruction](https://arxiv.org/abs/2512.16706v1)** | 2025-12-18 |  |
+| **[Using Gaussian Splats to Create High-Fidelity Facial Geometry and Texture](https://arxiv.org/abs/2512.16397v1)** | 2025-12-18 | <details><summary>Submi...</summary><p>Submitted to CVPR 2026. 21 pages, 22 figures</p></details> |
+| **[D-FCGS: Feedforward Compression of Dynamic Gaussian Splatting for Free-Viewpoint Videos](https://arxiv.org/abs/2507.05859v3)** | 2025-12-18 | <details><summary>chang...</summary><p>changes of some major results</p></details> |
 | **[Gaussian Pixel Codec Avatars: A Hybrid Representation for Efficient Rendering](https://arxiv.org/abs/2512.15711v1)** | 2025-12-17 | Tech report |
 | **[Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2512.15508v1)** | 2025-12-17 |  |
 | **[VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments](https://arxiv.org/abs/2512.15258v1)** | 2025-12-17 |  |
@@ -55,28 +60,23 @@ labels: documentation
 | **[Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting](https://arxiv.org/abs/2512.07345v2)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026, Code is available at: https://github.com/kimslong/AAAI26-TDAttn</p></details> |
 | **[Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos](https://arxiv.org/abs/2512.14406v1)** | 2025-12-16 |  |
 | **[HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Compact Dynamic View Synthesis](https://arxiv.org/abs/2512.14352v1)** | 2025-12-16 | 11 pages, 9 figures |
-| **[RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection](https://arxiv.org/abs/2507.07733v2)** | 2025-12-16 | 16 pages |
-| **[Beyond a Single Light: A Large-Scale Aerial Dataset for Urban Scene Reconstruction Under Varying Illumination](https://arxiv.org/abs/2512.14200v1)** | 2025-12-16 |  |
-| **[Spherical Voronoi: Directional Appearance as a Differentiable Partition of the Sphere](https://arxiv.org/abs/2512.14180v1)** | 2025-12-16 |  |
-| **[GaussianPlant: Structure-aligned Gaussian Splatting for 3D Reconstruction of Plants](https://arxiv.org/abs/2512.14087v1)** | 2025-12-16 | <details><summary>Submi...</summary><p>Submitted to IEEE TPAMI, under review</p></details> |
-| **[ASAP-Textured Gaussians: Enhancing Textured Gaussians with Adaptive Sampling and Anisotropic Parameterization](https://arxiv.org/abs/2512.14039v1)** | 2025-12-16 |  |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v1)** | 2025-12-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference or other essential info</p></details> |
-| **[End-to-End Training for Autoregressive Video Diffusion via Self-Resampling](https://arxiv.org/abs/2512.15702v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project Page: https://guoyww.github.io/projects/resampling-forcing/</p></details> |
-| **[VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression](https://arxiv.org/abs/2512.15701v1)** | 2025-12-17 | 14 pages, 8 figures |
-| **[SoFlow: Solution Flow Models for One-Step Generative Modeling](https://arxiv.org/abs/2512.15657v1)** | 2025-12-17 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/zlab-princeton/SoFlow</p></details> |
-| **[Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition](https://arxiv.org/abs/2512.15603v1)** | 2025-12-17 | 12 pages, 8 figures |
-| **[Corrective Diffusion Language Models](https://arxiv.org/abs/2512.15596v1)** | 2025-12-17 | 18 pages |
-| **[GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models](https://arxiv.org/abs/2512.15560v1)** | 2025-12-17 |  |
-| **[BLANKET: Anonymizing Faces in Infant Video Recordings](https://arxiv.org/abs/2512.15542v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project website: https://github.com/ctu-vras/blanket-infant-face-anonym</p></details> |
-| **[DeX-Portrait: Disentangled and Expressive Portrait Animation via Explicit and Latent Motion Representations](https://arxiv.org/abs/2512.15524v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Projectpage: https://syx132.github.io/DeX-Portrait/</p></details> |
-| **[DiffEM: Learning from Corrupted Data with Diffusion Models via Expectation Maximization](https://arxiv.org/abs/2510.12691v2)** | 2025-12-17 |  |
-| **[GenAI-enabled Residual Motion Estimation for Energy-Efficient Semantic Video Communication](https://arxiv.org/abs/2512.15481v1)** | 2025-12-17 |  |
-| **[Error Bounds and Optimal Schedules for Masked Diffusions with Factorized Approximations](https://arxiv.org/abs/2510.25544v2)** | 2025-12-17 |  |
-| **[Safer Prompts: Reducing Risks from Memorization in Visual Generative AI](https://arxiv.org/abs/2505.03338v2)** | 2025-12-17 |  |
-| **[Can AI Generate more Comprehensive Test Scenarios? Review on Automated Driving Systems Test Scenario Generation Methods](https://arxiv.org/abs/2512.15422v1)** | 2025-12-17 | 32 pages,6 figures |
-| **[LoRAverse: A Submodular Framework to Retrieve Diverse Adapters for Diffusion Models](https://arxiv.org/abs/2510.15022v2)** | 2025-12-17 |  |
+| **[StereoPilot: Learning Unified and Efficient Stereo Conversion via Generative Priors](https://arxiv.org/abs/2512.16915v1)** | 2025-12-18 |  |
+| **[VIVA: VLM-Guided Instruction-Based Video Editing with Reward Optimization](https://arxiv.org/abs/2512.16906v1)** | 2025-12-18 |  |
+| **[Alchemist: Unlocking Efficiency in Text-to-Image Model Training via Meta-Gradient Data Selection](https://arxiv.org/abs/2512.16905v1)** | 2025-12-18 | <details><summary>proje...</summary><p>project page: https://kxding.github.io/project/Alchemist/</p></details> |
+| **[FlashPortrait: 6x Faster Infinite Portrait Animation with Adaptive Latent Prediction](https://arxiv.org/abs/2512.16900v1)** | 2025-12-18 |  |
+| **[Instant Expressive Gaussian Head Avatar via 3D-Aware Expression Distillation](https://arxiv.org/abs/2512.16893v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project website is https://research.nvidia.com/labs/amri/projects/instant4d</p></details> |
+| **[RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing](https://arxiv.org/abs/2512.16864v1)** | 2025-12-18 | <details><summary>Preci...</summary><p>Precise region control and planning for instruction-based image editing. Our project page: https://replan-iv-edit.github.io</p></details> |
+| **[FlowDet: Unifying Object Detection and Generative Transport Flows](https://arxiv.org/abs/2512.16771v1)** | 2025-12-18 |  |
+| **[Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2512.16740v1)** | 2025-12-18 |  |
+| **[Diffusion-Based Restoration for Multi-Modal 3D Object Detection in Adverse Weather](https://arxiv.org/abs/2512.13107v2)** | 2025-12-18 |  |
+| **[Four-hour thunderstorm nowcasting using a deep diffusion model of satellite data](https://arxiv.org/abs/2404.10512v5)** | 2025-12-18 |  |
+| **[FrameDiffuser: G-Buffer-Conditioned Diffusion for Neural Forward Frame Rendering](https://arxiv.org/abs/2512.16670v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project Page: https://framediffuser.jdihlmann.com/</p></details> |
+| **[REGLUE Your Latents with Global and Local Semantics for Entangled Diffusion](https://arxiv.org/abs/2512.16636v1)** | 2025-12-18 |  |
+| **[DeContext as Defense: Safe Image Editing in Diffusion Transformers](https://arxiv.org/abs/2512.16625v1)** | 2025-12-18 | 17 pages, 11 figures |
+| **[Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers](https://arxiv.org/abs/2512.16615v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/SingleZombie/LLSA</p></details> |
+| **[Yuan-TecSwin: A text conditioned Diffusion model with Swin-transformer blocks](https://arxiv.org/abs/2512.16586v1)** | 2025-12-18 |  |
 
