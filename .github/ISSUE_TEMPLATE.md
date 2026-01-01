@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 31, 2025
+title: Latest 15 Papers - January 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,7 +26,8 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Differentiable Physics-Driven Human Representation for Millimeter-Wave Based Pose Estimation](https://arxiv.org/abs/2512.23054v1)** | 2025-12-28 |  |
+| **[Differentiable Physics-Driven Human Representation for Millimeter-Wave Based Pose Estimation](https://arxiv.org/abs/2512.23054v2)** | 2025-12-30 |  |
+| **[Lifelong Domain Adaptive 3D Human Pose Estimation](https://arxiv.org/abs/2512.23860v1)** | 2025-12-29 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[AI-Enhanced Real-Time Wi-Fi Sensing Through Single Transceiver Pair](https://arxiv.org/abs/2511.02845v2)** | 2025-12-26 | 13 pages, 13 figures |
 | **[DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors](https://arxiv.org/abs/2512.21054v1)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted in WACV 2026</p></details> |
 | **[milliMamba: Specular-Aware Human Pose Estimation via Dual mmWave Radar with Multi-Frame Mamba Fusion](https://arxiv.org/abs/2512.20128v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted at WACV 2026</p></details> |
@@ -40,43 +41,42 @@ labels: documentation
 | **[AugLift: Uncertainty Aware Depth Descriptors for Robust 2D to 3D Pose Lifting](https://arxiv.org/abs/2508.07112v3)** | 2025-12-10 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 | **[mmWEAVER: Environment-Specific mmWave Signal Synthesis from a Photo and Activity Description](https://arxiv.org/abs/2512.11894v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted at the IEEE/CVF Winter Conference on Applications of Computer Vision 2026 (WACV 2026)</p></details> |
 | **[Exploiting Spatiotemporal Properties for Efficient Event-Driven Human Pose Estimation](https://arxiv.org/abs/2512.06306v1)** | 2025-12-06 |  |
-| **[SDPose: Exploiting Diffusion Priors for Out-of-Domain and Robust Pose Estimation](https://arxiv.org/abs/2509.24980v2)** | 2025-12-03 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, 7 tables</p></details> |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PhysTalk: Language-driven Real-time Physics in 3D Gaussian Scenes](https://arxiv.org/abs/2512.24986v1)** | 2025-12-31 |  |
+| **[UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning](https://arxiv.org/abs/2512.24763v1)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Project Page: https://unic-lift.github.io/</p></details> |
+| **[Splatwizard: A Benchmark Toolkit for 3D Gaussian Splatting Compression](https://arxiv.org/abs/2512.24742v1)** | 2025-12-31 |  |
+| **[SplatSSC: Decoupled Depth-Guided Gaussian Splatting for Semantic Scene Completion](https://arxiv.org/abs/2508.02261v3)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted for oral presentation in The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</p></details> |
+| **[GaussianImage++: Boosted Image Representation and Compression with 2D Gaussian Splatting](https://arxiv.org/abs/2512.19108v2)** | 2025-12-30 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Code URL:https://github.com/Sweethyh/GaussianImage_plus.git</p></details> |
+| **[Differentiable Physics-Driven Human Representation for Millimeter-Wave Based Pose Estimation](https://arxiv.org/abs/2512.23054v2)** | 2025-12-30 |  |
+| **[Structure-Guided Allocation of 2D Gaussians for Image Representation and Compression](https://arxiv.org/abs/2512.24018v1)** | 2025-12-30 |  |
+| **[Tracking by Predicting 3-D Gaussians Over Time](https://arxiv.org/abs/2512.22489v2)** | 2025-12-30 |  |
+| **[Improved 3D Gaussian Splatting of Unknown Spacecraft Structure Using Space Environment Illumination Knowledge](https://arxiv.org/abs/2512.23998v1)** | 2025-12-30 | <details><summary>Prese...</summary><p>Presented at 2025 IEEE International Conference on Space Robotics (iSpaRo)</p></details> |
 | **[D-FCGS: Feedforward Compression of Dynamic Gaussian Splatting for Free-Viewpoint Videos](https://arxiv.org/abs/2507.05859v4)** | 2025-12-29 | <details><summary>code:...</summary><p>code:https://github.com/Mr-Zwkid/D-FCGS</p></details> |
 | **[Contour Information Aware 2D Gaussian Splatting for Image Representation](https://arxiv.org/abs/2512.23255v1)** | 2025-12-29 |  |
 | **[GVSynergy-Det: Synergistic Gaussian-Voxel Representations for Multi-View 3D Object Detection](https://arxiv.org/abs/2512.23176v1)** | 2025-12-29 | 11 pages, 5 figures |
-| **[Differentiable Physics-Driven Human Representation for Millimeter-Wave Based Pose Estimation](https://arxiv.org/abs/2512.23054v1)** | 2025-12-28 |  |
 | **[Hash Grid Feature Pruning](https://arxiv.org/abs/2512.22882v1)** | 2025-12-28 |  |
 | **[Next Best View Selections for Semantic and Dynamic 3D Gaussian Splatting](https://arxiv.org/abs/2512.22771v1)** | 2025-12-28 |  |
 | **[SCPainter: A Unified Framework for Realistic 3D Asset Insertion and Novel View Synthesis](https://arxiv.org/abs/2512.22706v1)** | 2025-12-27 |  |
-| **[Breaking the Vicious Cycle: Coherent 3D Gaussian Splatting from Sparse and Motion-Blurred Views](https://arxiv.org/abs/2512.10369v2)** | 2025-12-27 | <details><summary>20 pa...</summary><p>20 pages, 14 figures. Manuscript v2: add the view selection of training in the appendix</p></details> |
-| **[RaindropGS: A Benchmark for 3D Gaussian Splatting under Raindrop Conditions](https://arxiv.org/abs/2510.17719v2)** | 2025-12-27 |  |
-| **[Tracking by Predicting 3-D Gaussians Over Time](https://arxiv.org/abs/2512.22489v1)** | 2025-12-27 |  |
-| **[A-TDOM: Active TDOM via On-the-Fly 3DGS](https://arxiv.org/abs/2509.12759v3)** | 2025-12-26 |  |
-| **[Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs](https://arxiv.org/abs/2512.20129v2)** | 2025-12-25 | <details><summary>CHI 2...</summary><p>CHI 2025, Project page: https://dream-crafter.github.io/</p></details> |
-| **[Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image](https://arxiv.org/abs/2505.14537v3)** | 2025-12-24 | 18 pages |
-| **[AirGS: Real-Time 4D Gaussian Streaming for Free-Viewpoint Video Experiences](https://arxiv.org/abs/2512.20943v1)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper is accepted by IEEE International Conference on Computer Communications (INFOCOM), 2026</p></details> |
-| **[Quantile Rendering: Efficiently Embedding High-dimensional Feature on 3D Gaussian Splatting](https://arxiv.org/abs/2512.20927v1)** | 2025-12-24 | Will be updated |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion](https://arxiv.org/abs/2512.23709v1)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project page: https://jamichss.github.io/stream-diffvsr-project-page/</p></details> |
-| **[Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation](https://arxiv.org/abs/2512.23705v1)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project Page: https://daniellli.github.io/projects/DKT/; Code: https://github.com/Daniellli/DKT; Dataset: https://huggingface.co/datasets/Daniellesry/TransPhy3D</p></details> |
-| **[Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](https://arxiv.org/abs/2510.08554v2)** | 2025-12-29 |  |
-| **[OpenPBR: Novel Features and Implementation Details](https://arxiv.org/abs/2512.23696v1)** | 2025-12-29 | <details><summary>Part ...</summary><p>Part of Physically Based Shading in Theory and Practice, SIGGRAPH 2025 Course</p></details> |
-| **[IDT: A Physically Grounded Transformer for Feed-Forward Multi-View Intrinsic Decomposition](https://arxiv.org/abs/2512.23667v1)** | 2025-12-29 | 10 pages 4 figures |
-| **[Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control](https://arxiv.org/abs/2512.23650v1)** | 2025-12-29 |  |
-| **[RoboMirror: Understand Before You Imitate for Video to Humanoid Locomotion](https://arxiv.org/abs/2512.23649v1)** | 2025-12-29 |  |
-| **[Memorization in 3D Shape Generation: An Empirical Study](https://arxiv.org/abs/2512.23628v1)** | 2025-12-29 |  |
-| **[Learning to Refocus with Video Diffusion Models](https://arxiv.org/abs/2512.19823v3)** | 2025-12-29 | <details><summary>Code ...</summary><p>Code and data are available at https://learn2refocus.github.io . SIGGRAPH Asia 2025, Dec. 2025</p></details> |
-| **[Profile Bayesian Optimization for Expensive Computer Experiments](https://arxiv.org/abs/2512.23581v1)** | 2025-12-29 |  |
-| **[LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation](https://arxiv.org/abs/2512.23576v1)** | 2025-12-29 |  |
-| **[ThinkGen: Generalized Thinking for Visual Generation](https://arxiv.org/abs/2512.23568v1)** | 2025-12-29 |  |
-| **[PurifyGen: A Risk-Discrimination and Semantic-Purification Model for Safe Text-to-Image Generation](https://arxiv.org/abs/2512.23546v1)** | 2025-12-29 |  |
-| **[Diffusion MRI with Machine Learning](https://arxiv.org/abs/2402.00019v6)** | 2025-12-29 |  |
-| **[AnyMS: Bottom-up Attention Decoupling for Layout-guided and Training-free Multi-subject Customization](https://arxiv.org/abs/2512.23537v1)** | 2025-12-29 |  |
+| **[SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time](https://arxiv.org/abs/2512.25075v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project page: https://zheninghuang.github.io/Space-Time-Pilot/ Code: https://github.com/ZheningHuang/spacetimepilot</p></details> |
+| **[GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction](https://arxiv.org/abs/2512.25073v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project page: https://yichuanh.github.io/GaMO/</p></details> |
+| **[Coordinated Humanoid Manipulation with Choice Policies](https://arxiv.org/abs/2512.25072v1)** | 2025-12-31 | <details><summary>Code ...</summary><p>Code and Website: https://choice-policy.github.io/</p></details> |
+| **[From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing](https://arxiv.org/abs/2512.25066v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project Page https://hjrphoebus.github.io/X-Dub</p></details> |
+| **[Sequential Bayesian parameter-state estimation in dynamical systems with noisy and incomplete observations via a variational framework](https://arxiv.org/abs/2512.25056v1)** | 2025-12-31 | 31 pages, 8 figures |
+| **[Generative Classifiers Avoid Shortcut Solutions](https://arxiv.org/abs/2512.25034v1)** | 2025-12-31 | <details><summary>ICLR ...</summary><p>ICLR 2025. Code: https://github.com/alexlioralexli/generative-classifiers</p></details> |
+| **[Diffusion Language Models are Provably Optimal Parallel Samplers](https://arxiv.org/abs/2512.25014v1)** | 2025-12-31 |  |
+| **[ProDM: Synthetic Reality-driven Property-aware Progressive Diffusion Model for Coronary Calcium Motion Correction in Non-gated Chest CT](https://arxiv.org/abs/2512.24948v1)** | 2025-12-31 | 21 pages, 8 figures |
+| **[HaineiFRDM: Explore Diffusion to Restore Defects in Fast-Movement Films](https://arxiv.org/abs/2512.24946v1)** | 2025-12-31 |  |
+| **[Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach](https://arxiv.org/abs/2512.24927v1)** | 2025-12-31 |  |
+| **[SoulX-LiveTalk: Real-Time Infinite Streaming of Audio-Driven Avatars via Self-Correcting Bidirectional Distillation](https://arxiv.org/abs/2512.23379v2)** | 2025-12-31 | 12 pages, 6 figures |
+| **[AODDiff: Probabilistic Reconstruction of Aerosol Optical Depth via Diffusion-based Bayesian Inference](https://arxiv.org/abs/2512.24847v1)** | 2025-12-31 | 17 pages, 9 figures |
+| **[Learning Temporally Consistent Turbulence Between Sparse Snapshots via Diffusion Models](https://arxiv.org/abs/2512.24813v1)** | 2025-12-31 | 15 pages, 10 figures |
+| **[Inference-based GAN Video Generation](https://arxiv.org/abs/2512.21776v2)** | 2025-12-31 |  |
+| **[CritiFusion: Semantic Critique and Spectral Alignment for Faithful Text-to-Image Generation](https://arxiv.org/abs/2512.22681v2)** | 2025-12-31 |  |
 
