@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 09, 2026
+title: Latest 15 Papers - January 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,7 +26,7 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TRec: Egocentric Action Recognition using 2D Point Tracks](https://arxiv.org/abs/2601.03667v1)** | 2026-01-07 | <details><summary>submi...</summary><p>submitted to ICPR 2026</p></details> |
+| **[TRec: Egocentric Action Recognition using 2D Point Tracks](https://arxiv.org/abs/2601.03667v2)** | 2026-01-08 | <details><summary>submi...</summary><p>submitted to ICPR 2026</p></details> |
 | **[RePose: A Real-Time 3D Human Pose Estimation and Biomechanical Analysis Framework for Rehabilitation](https://arxiv.org/abs/2601.00625v1)** | 2026-01-02 |  |
 | **[Differentiable Physics-Driven Human Representation for Millimeter-Wave Based Pose Estimation](https://arxiv.org/abs/2512.23054v2)** | 2025-12-30 |  |
 | **[Lifelong Domain Adaptive 3D Human Pose Estimation](https://arxiv.org/abs/2512.23860v1)** | 2025-12-29 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
@@ -45,6 +45,9 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction](https://arxiv.org/abs/2601.04984v1)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Project page: https://oceansplat.github.io</p></details> |
+| **[ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting](https://arxiv.org/abs/2601.04754v1)** | 2026-01-08 | 10 pages, 5 figures |
+| **[SCAR-GS: Spatial Context Attention for Residuals in Progressive Gaussian Splatting](https://arxiv.org/abs/2601.04348v1)** | 2026-01-07 |  |
 | **[IDESplat: Iterative Depth Probability Estimation for Generalizable 3D Gaussian Splatting](https://arxiv.org/abs/2601.03824v1)** | 2026-01-07 |  |
 | **[G2P: Gaussian-to-Point Attribute Alignment for Boundary-Aware 3D Semantic Segmentation](https://arxiv.org/abs/2601.03510v1)** | 2026-01-07 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 | **[RelightAnyone: A Generalized Relightable 3D Gaussian Head Model](https://arxiv.org/abs/2601.03357v1)** | 2026-01-06 |  |
@@ -57,26 +60,23 @@ labels: documentation
 | **[HeadLighter: Disentangling Illumination in Generative 3D Gaussian Heads via Lightstage Captures](https://arxiv.org/abs/2601.02103v1)** | 2026-01-05 |  |
 | **[360-GeoGS: Geometrically Consistent Feed-Forward 3D Gaussian Splatting Reconstruction for 360 Images](https://arxiv.org/abs/2601.02102v1)** | 2026-01-05 |  |
 | **[InpaintHuman: Reconstructing Occluded Humans with Multi-Scale UV Mapping and Identity-Preserving Diffusion Inpainting](https://arxiv.org/abs/2601.02098v1)** | 2026-01-05 |  |
-| **[SketchRodGS: Sketch-based Extraction of Slender Geometries for Animating Gaussian Splatting Scenes](https://arxiv.org/abs/2601.02072v1)** | 2026-01-05 | <details><summary>Prese...</summary><p>Presented at SIGGRAPH Asia 2025 (Technical Communications). Best Technical Communications Award</p></details> |
-| **[PMGS: Reconstruction of Projectile Motion Across Large Spatiotemporal Spans via 3D Gaussian Splatting](https://arxiv.org/abs/2508.02660v3)** | 2026-01-05 |  |
-| **[ESGaussianFace: Emotional and Stylized Audio-Driven Facial Animation via 3D Gaussian Splatting](https://arxiv.org/abs/2601.01847v1)** | 2026-01-05 | 13 pages, 10 figures |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Transforming Video Subjective Testing with Training, Engagement, and Real-Time Feedback](https://arxiv.org/abs/2601.04184v1)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted at 5th Workshop on Image/Video/Audio Quality Assessment in Computer Vision, VLM and Diffusion Model (WVAQ), at IEEE/CVF WACV 2026</p></details> |
-| **[Diffusion-DRF: Differentiable Reward Flow for Video Diffusion Fine-Tuning](https://arxiv.org/abs/2601.04153v1)** | 2026-01-07 |  |
-| **[Low Resource Reconstruction Attacks Through Benign Prompts](https://arxiv.org/abs/2507.07947v3)** | 2026-01-07 |  |
-| **[Gen3R: 3D Scene Generation Meets Feed-Forward Reconstruction](https://arxiv.org/abs/2601.04090v1)** | 2026-01-07 | <details><summary>Proje...</summary><p>Project page: https://xdimlab.github.io/Gen3R/</p></details> |
-| **[Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models](https://arxiv.org/abs/2601.04068v1)** | 2026-01-07 | Under Review |
-| **[Bridging the Discrete-Continuous Gap: Unified Multimodal Generation via Coupled Manifold Discrete Absorbing Diffusion](https://arxiv.org/abs/2601.04056v1)** | 2026-01-07 | 10 pages, 5 figures |
-| **[LinkD: AutoRegressive Diffusion Model for Mechanical Linkage Synthesis](https://arxiv.org/abs/2601.04054v1)** | 2026-01-07 |  |
-| **[Examining persistence of European open repository infrastructure and its diffusion in the scholarly record](https://arxiv.org/abs/2601.04015v1)** | 2026-01-07 | 31 pages |
-| **[PosterVerse: A Full-Workflow Framework for Commercial-Grade Poster Generation with HTML-Based Scalable Typography](https://arxiv.org/abs/2601.03993v1)** | 2026-01-07 |  |
-| **[FUSION: Full-Body Unified Motion Prior for Body and Hands via Diffusion](https://arxiv.org/abs/2601.03959v1)** | 2026-01-07 |  |
-| **[Boosting Resolution Generalization of Diffusion Transformers with Randomized Positional Encodings](https://arxiv.org/abs/2503.18719v2)** | 2026-01-07 |  |
-| **[Plasticine: A Traceable Diffusion Model for Medical Image Translation](https://arxiv.org/abs/2512.18455v2)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Artificial Intelligence</p></details> |
-| **[U-REPA: Aligning Diffusion U-Nets to ViTs](https://arxiv.org/abs/2503.18414v3)** | 2026-01-07 | 22 pages, 8 figures |
-| **[Unleashing the Potential of Neighbors: Diffusion-based Latent Neighbor Generation for Session-based Recommendation](https://arxiv.org/abs/2601.03903v1)** | 2026-01-07 | <details><summary>This ...</summary><p>This paper has been accepted by KDD 2026</p></details> |
-| **[Women Worry, Men Adopt: How Gendered Perceptions Shape the Use of Generative AI](https://arxiv.org/abs/2601.03880v1)** | 2026-01-07 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 1 table</p></details> |
+| **[Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video](https://arxiv.org/abs/2601.05251v1)** | 2026-01-08 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, project page: https://mesh-4d.github.io/</p></details> |
+| **[Pixel-Perfect Visual Geometry Estimation](https://arxiv.org/abs/2601.05246v1)** | 2026-01-08 | <details><summary>Code:...</summary><p>Code: https://github.com/gangweix/pixel-perfect-depth</p></details> |
+| **[Leveraging Clinical Text and Class Conditioning for 3D Prostate MRI Generation](https://arxiv.org/abs/2506.10230v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Biomedical Engineering, 2025. This is the accepted author version. The final published version is available at https://doi.org/10.1109/TBME.2025.3648426</p></details> |
+| **[RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation](https://arxiv.org/abs/2601.05241v1)** | 2026-01-08 |  |
+| **[Stochastic Deep Learning: A Probabilistic Framework for Modeling Uncertainty in Structured Temporal Data](https://arxiv.org/abs/2601.05227v1)** | 2026-01-08 | 20 pages, 6330 words |
+| **[FlowLet: Conditional 3D Brain MRI Synthesis using Wavelet Flow Matching](https://arxiv.org/abs/2601.05212v1)** | 2026-01-08 |  |
+| **[VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control](https://arxiv.org/abs/2601.05138v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project Page: https://sixiaozheng.github.io/VerseCrafter_page/</p></details> |
+| **[LooseRoPE: Content-aware Attention Manipulation for Semantic Harmonization](https://arxiv.org/abs/2601.05127v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project Page: https://snap-research.github.io/LooseRoPE/</p></details> |
+| **[DeepWeightFlow: Re-Basined Flow Matching for Generating Neural Network Weights](https://arxiv.org/abs/2601.05052v1)** | 2026-01-08 | <details><summary>25 pa...</summary><p>25 pages, 20 tables, 2 figures</p></details> |
+| **[Guiding diffusion models to reconstruct flow fields from sparse data](https://arxiv.org/abs/2510.19971v2)** | 2026-01-08 | <details><summary>Publi...</summary><p>Published on Physics of Fluids, code and data can be found at https://github.com/tum-pbs/sparse-reconstruction</p></details> |
+| **[ReinFlow: Fine-tuning Flow Matching Policy with Online Reinforcement Learning](https://arxiv.org/abs/2505.22094v7)** | 2026-01-08 | 38 pages |
+| **[OnomaCompass: A Texture Exploration Interface that Shuttles between Words and Images](https://arxiv.org/abs/2601.04915v1)** | 2026-01-08 |  |
+| **[BlurDM: A Blur Diffusion Model for Image Deblurring](https://arxiv.org/abs/2512.03979v3)** | 2026-01-08 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project Page: https://jin-ting-he.github.io/BlurDM/</p></details> |
+| **[ChronosAudio: A Comprehensive Long-Audio Benchmark for Evaluating Audio-Large Language Models](https://arxiv.org/abs/2601.04876v1)** | 2026-01-08 |  |
+| **[Novel View Synthesis using DDIM Inversion](https://arxiv.org/abs/2508.10688v2)** | 2026-01-08 |  |
 
