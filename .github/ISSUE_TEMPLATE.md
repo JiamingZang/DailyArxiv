@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 19, 2026
+title: Latest 15 Papers - January 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -64,19 +64,19 @@ labels: documentation
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Alterbute: Editing Intrinsic Attributes of Objects in Images](https://arxiv.org/abs/2601.10714v1)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project page is available at https://talreiss.github.io/alterbute/</p></details> |
-| **[High-accuracy and dimension-free sampling with diffusions](https://arxiv.org/abs/2601.10708v1)** | 2026-01-15 |  |
-| **[Controllable Financial Market Generation with Diffusion Guided Meta Agent](https://arxiv.org/abs/2408.12991v3)** | 2026-01-15 | <details><summary>To ap...</summary><p>To appear in The Fortieth AAAI Conference on Artificial Intelligence (AAAI-26 Oral)</p></details> |
-| **[CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos](https://arxiv.org/abs/2601.10632v1)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project Page: https://igl-hkust.github.io/CoMoVi/</p></details> |
-| **[Data-Driven Dynamic Factor Modeling via Manifold Learning](https://arxiv.org/abs/2506.19945v2)** | 2026-01-15 |  |
-| **[Continuous Diffusion for Mixed-Type Tabular Data](https://arxiv.org/abs/2312.10431v6)** | 2026-01-15 | <details><summary>publi...</summary><p>published at ICLR 2025</p></details> |
-| **[Mesh Denoising](https://arxiv.org/abs/2601.10487v1)** | 2026-01-15 |  |
-| **[Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer](https://arxiv.org/abs/2404.06835v2)** | 2026-01-15 |  |
-| **[Discrete Feynman-Kac Correctors](https://arxiv.org/abs/2601.10403v1)** | 2026-01-15 | <details><summary>Code:...</summary><p>Code: https://github.com/hasanmohsin/discrete_fkc</p></details> |
-| **[Discrete Solution Operator Learning for Geometry-Dependent PDEs](https://arxiv.org/abs/2601.09143v2)** | 2026-01-15 | <details><summary>15 pa...</summary><p>15 pages main text, 40 pages SI</p></details> |
-| **[SPATIALGEN: Layout-guided 3D Indoor Scene Generation](https://arxiv.org/abs/2509.14981v4)** | 2026-01-15 | <details><summary>3D sc...</summary><p>3D scene generation; diffusion model; Scene reconstruction and understanding</p></details> |
-| **[Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement](https://arxiv.org/abs/2601.10373v1)** | 2026-01-15 |  |
-| **[A Geometric Unification of Generative AI with Manifold-Probabilistic Projection Models](https://arxiv.org/abs/2510.00666v2)** | 2026-01-15 |  |
-| **[Self-supervised restoration of singing voice degraded by pitch shifting using shallow diffusion](https://arxiv.org/abs/2601.10345v1)** | 2026-01-15 |  |
-| **[Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders](https://arxiv.org/abs/2601.10332v1)** | 2026-01-15 |  |
+| **[UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation](https://arxiv.org/abs/2601.11522v1)** | 2026-01-16 | <details><summary>Codes...</summary><p>Codes and models are available at https://github.com/ZrH42/UniX</p></details> |
+| **[When Are Two Scores Better Than One? Investigating Ensembles of Diffusion Models](https://arxiv.org/abs/2601.11444v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted at TMLR. Code: https://github.com/rarazafin/score_diffusion_ensemble</p></details> |
+| **[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2601.11440v1)** | 2026-01-16 |  |
+| **[Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2601.11401v1)** | 2026-01-16 |  |
+| **[Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models](https://arxiv.org/abs/2601.11342v1)** | 2026-01-16 | Preprints |
+| **[Walk based Laplacians for Modeling Diffusion on Complex Networks](https://arxiv.org/abs/2601.11338v1)** | 2026-01-16 |  |
+| **[X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning](https://arxiv.org/abs/2601.11269v1)** | 2026-01-16 |  |
+| **[Skill-Aware Diffusion for Generalizable Robotic Manipulation](https://arxiv.org/abs/2601.11266v1)** | 2026-01-16 |  |
+| **[VINO: A Unified Visual Generator with Interleaved OmniModal Context](https://arxiv.org/abs/2601.02358v2)** | 2026-01-16 | <details><summary>Proje...</summary><p>Project page: https://sotamak1r.github.io/VINO-web/</p></details> |
+| **[Multi-task Neural Diffusion Processes](https://arxiv.org/abs/2510.03419v2)** | 2026-01-16 | <details><summary>28 pa...</summary><p>28 pages, 12 figures, 2 tables</p></details> |
+| **[A Pressure-Based Diffusion Model for Influence Maximization on Social Networks](https://arxiv.org/abs/2509.12822v2)** | 2026-01-16 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, and 2 tables</p></details> |
+| **[T$^\star$: Progressive Block Scaling for MDM Through Trajectory Aware RL](https://arxiv.org/abs/2601.11214v1)** | 2026-01-16 |  |
+| **[SceneFoundry: Generating Interactive Infinite 3D Worlds](https://arxiv.org/abs/2601.05810v2)** | 2026-01-16 | 15 pages |
+| **[Simple Models, Rich Representations: Visual Decoding from Primate Intracortical Neural Signals](https://arxiv.org/abs/2601.11108v1)** | 2026-01-16 | <details><summary>Prese...</summary><p>Presented at "Foundation Models for the Brain and Body" - NeurIPS 2025 Workshop</p></details> |
+| **[Generation of Chest CT pulmonary Nodule Images by Latent Diffusion Models using the LIDC-IDRI Dataset](https://arxiv.org/abs/2601.11085v1)** | 2026-01-16 |  |
 
