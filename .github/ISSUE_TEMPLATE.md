@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 20, 2026
+title: Latest 15 Papers - February 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## 6d Object Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Benchmarking the Effects of Object Pose Estimation and Reconstruction on Robotic Grasping Success](https://arxiv.org/abs/2602.17101v1)** | 2026-02-19 |  |
 | **[IndustryShapes: An RGB-D Benchmark dataset for 6D object pose estimation of industrial assembly components and tools](https://arxiv.org/abs/2602.05555v1)** | 2026-02-05 | <details><summary>To ap...</summary><p>To appear in ICRA 2026</p></details> |
 | **[Learning Fine-Grained Correspondence with Cross-Perspective Perception for Open-Vocabulary 6D Object Pose Estimation](https://arxiv.org/abs/2601.13565v1)** | 2026-01-20 | <details><summary>The s...</summary><p>The source code will be made publicly available at https://github.com/zjjqinyu/FiCoP</p></details> |
 | **[OSCAR: Open-Set CAD Retrieval from a Language Prompt and a Single Image](https://arxiv.org/abs/2601.07333v1)** | 2026-01-12 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[WALDO: Where Unseen Model-based 6D Pose Estimation Meets Occlusion](https://arxiv.org/abs/2511.15874v1)** | 2025-11-19 |  |
 | **[RayPose: Ray Bundling Diffusion for Template Views in Unseen 6D Object Pose Estimation](https://arxiv.org/abs/2510.18521v1)** | 2025-10-21 |  |
 | **[GS2POSE: Marry Gaussian Splatting to 6D Object Pose Estimation](https://arxiv.org/abs/2510.16777v1)** | 2025-10-19 |  |
-| **[SenseShift6D: Multimodal RGB-D Benchmarking for Robust 6D Pose Estimation across Environment and Sensor Variations](https://arxiv.org/abs/2507.05751v2)** | 2025-10-11 |  |
 
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,12 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[4D Monocular Surgical Reconstruction under Arbitrary Camera Motions](https://arxiv.org/abs/2602.17473v1)** | 2026-02-19 | <details><summary>Due t...</summary><p>Due to the limitation "The abstract field cannot be longer than 1,920 characters", the abstract here is shorter than that in the PDF file Subjects</p></details> |
+| **[NRGS-SLAM: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting](https://arxiv.org/abs/2602.17182v1)** | 2026-02-19 |  |
+| **[B$^3$-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates](https://arxiv.org/abs/2602.17134v1)** | 2026-02-19 | <details><summary>Proje...</summary><p>Project page: https://sony.github.io/B3-Seg-project/</p></details> |
+| **[3D Scene Rendering with Multimodal Gaussian Splatting](https://arxiv.org/abs/2602.17124v1)** | 2026-02-19 |  |
+| **[i-PhysGaussian: Implicit Physical Simulation for 3D Gaussian Splatting](https://arxiv.org/abs/2602.17117v1)** | 2026-02-19 |  |
+| **[MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing](https://arxiv.org/abs/2404.19026v2)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025. Project page: https://conallwang.github.io/MeGA_Pages/</p></details> |
 | **[3DGEER: 3D Gaussian Rendering Made Exact and Efficient for Generic Cameras](https://arxiv.org/abs/2505.24053v2)** | 2026-02-18 | <details><summary>Publi...</summary><p>Published at ICLR 2026. Project page and codes available at https://zixunh.github.io/3d-geer</p></details> |
 | **[Uncertainty Matters in Dynamic Gaussian Splatting for Monocular 4D Reconstruction](https://arxiv.org/abs/2510.12768v2)** | 2026-02-18 | <details><summary>Proje...</summary><p>Project page: https://tamu-visual-ai.github.io/usplat4d/</p></details> |
 | **[Zero-Shot UAV Navigation in Forests via Relightable 3D Gaussian Splatting](https://arxiv.org/abs/2602.07101v2)** | 2026-02-18 | 12 pages, 8 figures |
@@ -54,29 +60,23 @@ labels: documentation
 | **[DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions](https://arxiv.org/abs/2501.12369v3)** | 2026-02-17 | <details><summary>Link ...</summary><p>Link to the project page: https://github.com/viruthshaan/darb-splatting/</p></details> |
 | **[DAV-GSWT: Diffusion-Active-View Sampling for Data-Efficient Gaussian Splatting Wang Tiles](https://arxiv.org/abs/2602.15355v1)** | 2026-02-17 | 16 pages, 7 figures |
 | **[Digital Twin Generation from Visual Data: A Survey](https://arxiv.org/abs/2504.13159v2)** | 2026-02-16 |  |
-| **[Time-Archival Camera Virtualization for Sports and Visual Performances](https://arxiv.org/abs/2602.15181v1)** | 2026-02-16 | <details><summary>Proje...</summary><p>Project Page: https://yunxiaozhangjack.com/tacv/; Under minor revision in Journal of Computer Vision and Image Understanding (CVIU); Special Issue: Computer Vision for Sports and Winter Sports. Outcome of a master and bachelor student project completed in Visual and Spatial AI Lab at TAMU</p></details> |
-| **[Wrivinder: Towards Spatial Intelligence for Geo-locating Ground Images onto Satellite Imagery](https://arxiv.org/abs/2602.14929v1)** | 2026-02-16 |  |
-| **[Multi-Spectral Gaussian Splatting with Neural Color Representation](https://arxiv.org/abs/2506.03407v2)** | 2026-02-16 | <details><summary>for p...</summary><p>for project page, see https://meyerls.github.io/ms_splatting</p></details> |
-| **[Gaussian Mesh Renderer for Lightweight Differentiable Rendering](https://arxiv.org/abs/2602.14493v1)** | 2026-02-16 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026). GitHub: https://github.com/huntorochi/Gaussian-Mesh-Renderer</p></details> |
-| **[Learnable Multi-level Discrete Wavelet Transforms for 3D Gaussian Splatting Frequency Modulation](https://arxiv.org/abs/2602.14199v1)** | 2026-02-15 |  |
-| **[High-fidelity 3D reconstruction for planetary exploration](https://arxiv.org/abs/2602.13909v1)** | 2026-02-14 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, conference paper</p></details> |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Residual Diffusion Models for Variable-Rate Joint Source Channel Coding of MIMO CSI](https://arxiv.org/abs/2505.21681v2)** | 2026-02-18 | <details><summary>15 pa...</summary><p>15 pages, 13 figures, To appear in IEEE Journal on Selected Areas in Communications, 2026</p></details> |
-| **[Unpaired Image-to-Image Translation via a Self-Supervised Semantic Bridge](https://arxiv.org/abs/2602.16664v1)** | 2026-02-18 | 36 pages |
-| **[Closing the Distribution Gap in Adversarial Training for LLMs](https://arxiv.org/abs/2602.15238v2)** | 2026-02-18 |  |
-| **[Investigating Nonlinear Quenching Effects on Polar Field Buildup in the Sun Using Physics-Informed Neural Networks](https://arxiv.org/abs/2602.16656v1)** | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted for publication in The Astrophysical Journal</p></details> |
-| **[Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models](https://arxiv.org/abs/2602.16634v1)** | 2026-02-18 |  |
-| **[Style-Aware Gloss Control for Generative Non-Photorealistic Rendering](https://arxiv.org/abs/2602.16611v1)** | 2026-02-18 |  |
-| **[Error Propagation and Model Collapse in Diffusion Models: A Theoretical Study](https://arxiv.org/abs/2602.16601v1)** | 2026-02-18 |  |
-| **[Steering diffusion models with quadratic rewards: a fine-grained analysis](https://arxiv.org/abs/2602.16570v1)** | 2026-02-18 |  |
-| **[RIDER: 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion](https://arxiv.org/abs/2602.16548v1)** | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2026</p></details> |
-| **[Safe But Not Sorry: Reducing Over-Conservatism in Safety Critics via Uncertainty-Aware Modulation](https://arxiv.org/abs/2510.18478v2)** | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted into AAMAS '26</p></details> |
-| **[Fast and Scalable Analytical Diffusion](https://arxiv.org/abs/2602.16498v1)** | 2026-02-18 |  |
-| **[Weighted Birkhoff Averages Accelerate Data-Driven Methods](https://arxiv.org/abs/2511.17772v2)** | 2026-02-18 |  |
-| **[Parameter-Free Adaptive Multi-Scale Channel-Spatial Attention Aggregation framework for 3D Indoor Semantic Scene Completion Toward Assisting Visually Impaired](https://arxiv.org/abs/2602.16385v1)** | 2026-02-18 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, 5 tables</p></details> |
-| **[Embedding Inversion via Conditional Masked Diffusion Language Models](https://arxiv.org/abs/2602.11047v3)** | 2026-02-18 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 4 tables. Code and demo: https://github.com/jina-ai/embedding-inversion-demo</p></details> |
-| **[Label-Consistent Dataset Distillation with Detector-Guided Refinement](https://arxiv.org/abs/2507.13074v2)** | 2026-02-18 |  |
+| **[Sink-Aware Pruning for Diffusion Language Models](https://arxiv.org/abs/2602.17664v1)** | 2026-02-19 | <details><summary>Code ...</summary><p>Code at: https://github.com/VILA-Lab/Sink-Aware-Pruning</p></details> |
+| **[CORAL: Correspondence Alignment for Improved Virtual Try-On](https://arxiv.org/abs/2602.17636v1)** | 2026-02-19 | 32 pages, 25 figures |
+| **[Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning](https://arxiv.org/abs/2602.17625v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted for publication in the IEEE International Conference on Big Data (IEEE BigData) 2025</p></details> |
+| **[Contrastive Diffusion Alignment: Learning Structured Latents for Controllable Generation](https://arxiv.org/abs/2510.14190v2)** | 2026-02-19 |  |
+| **[pi-Flow: Policy-Based Few-Step Generation via Imitation Distillation](https://arxiv.org/abs/2510.14974v3)** | 2026-02-19 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code: https://github.com/Lakonik/piFlow Demos: https://huggingface.co/spaces/Lakonik/pi-Qwen | https://huggingface.co/spaces/Lakonik/pi-FLUX.1 | https://huggingface.co/spaces/Lakonik/pi-FLUX.2</p></details> |
+| **[MolHIT: Advancing Molecular-Graph Generation with Hierarchical Discrete Diffusion Models](https://arxiv.org/abs/2602.17602v1)** | 2026-02-19 |  |
+| **[Art2Mus: Artwork-to-Music Generation via Visual Conditioning and Large-Scale Cross-Modal Alignment](https://arxiv.org/abs/2602.17599v1)** | 2026-02-19 |  |
+| **[Rex: A Family of Reversible Exponential (Stochastic) Runge-Kutta Solvers](https://arxiv.org/abs/2502.08834v3)** | 2026-02-19 | <details><summary>Updat...</summary><p>Updated preprint. Added Boltzmann sampling experiments among other things</p></details> |
+| **[RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward](https://arxiv.org/abs/2602.17558v1)** | 2026-02-19 | 10 pages, 6 figures |
+| **[Diffusion-Guided Pretraining for Brain Graph Foundation Models](https://arxiv.org/abs/2602.09437v2)** | 2026-02-19 | <details><summary>Paper...</summary><p>Paper has some mistakes</p></details> |
+| **[Variational Grey-Box Dynamics Matching](https://arxiv.org/abs/2602.17477v1)** | 2026-02-19 | <details><summary>AISTA...</summary><p>AISTATS 2026. Code is available at https://github.com/DMML-Geneva/VGB-DM</p></details> |
+| **[LLM Fingerprinting via Semantically Conditioned Watermarks](https://arxiv.org/abs/2505.16723v3)** | 2026-02-19 |  |
+| **[CoreEditor: Correspondence-constrained Diffusion for Consistent 3D Editing](https://arxiv.org/abs/2508.11603v3)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted by IEEE TVCG</p></details> |
+| **[Watermarking Diffusion Language Models](https://arxiv.org/abs/2509.24368v2)** | 2026-02-19 |  |
+| **[DeepQuark: A Deep-Neural-Network Approach to Multiquark Bound States](https://arxiv.org/abs/2506.20555v2)** | 2026-02-19 | <details><summary>17 pa...</summary><p>17 pages, 7 figures, 9 tables. Version published in PRL</p></details> |
 
