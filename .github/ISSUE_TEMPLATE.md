@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 04, 2026
+title: Latest 15 Papers - March 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Differentially Private 2D Human Pose Estimation](https://arxiv.org/abs/2504.10190v4)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026</p></details> |
 | **[WiCompass: Oracle-driven Data Scaling for mmWave Human Pose Estimation](https://arxiv.org/abs/2602.18726v2)** | 2026-03-02 | <details><summary>This ...</summary><p>This paper has been accepted by The 32nd Annual International Conference on Mobile Computing and Networking (MobiCom'26)</p></details> |
 | **[Efficient Diffusion-Based 3D Human Pose Estimation with Hierarchical Temporal Pruning](https://arxiv.org/abs/2508.21363v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHOLOGY</p></details> |
 | **[Egocentric Visibility-Aware Human Pose Estimation](https://arxiv.org/abs/2602.23618v1)** | 2026-02-27 | <details><summary>Confe...</summary><p>Conference on Computer Vision and Pattern Recognition 2026</p></details> |
@@ -40,43 +41,42 @@ labels: documentation
 | **[Flexible Geometric Guidance for Probabilistic Human Pose Estimation with Diffusion Models](https://arxiv.org/abs/2602.03126v1)** | 2026-02-03 |  |
 | **[JRDB-Pose3D: A Multi-person 3D Human Pose and Shape Estimation Dataset for Robotics](https://arxiv.org/abs/2602.03064v1)** | 2026-02-03 |  |
 | **[Are Pose Estimators Ready for the Open World? STAGE: A GenAI Toolkit for Auditing 3D Human Pose Estimators](https://arxiv.org/abs/2408.16536v2)** | 2026-01-30 | <details><summary>Inter...</summary><p>International Conference on 3D Vision 2026(3DV 2026)</p></details> |
-| **[PyCAT4: A Hierarchical Vision Transformer-based Framework for 3D Human Pose Estimation](https://arxiv.org/abs/2508.02806v2)** | 2026-01-27 | 10 pages, 20 figures |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generalized non-exponential Gaussian splatting](https://arxiv.org/abs/2603.02887v2)** | 2026-03-04 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 4 tables</p></details> |
+| **[OnlineX: Unified Online 3D Reconstruction and Understanding with Active-to-Stable State Evolution](https://arxiv.org/abs/2603.02134v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by CVPR Finding 2026 (Project page: https://xiac20.github.io/OnlineX/)</p></details> |
+| **[VIRGi: View-dependent Instant Recoloring of 3D Gaussians Splats](https://arxiv.org/abs/2603.02986v1)** | 2026-03-03 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Pattern Analysis and Machine Intelligence. 2026 Feb 24</p></details> |
+| **[Intrinsic Geometry-Appearance Consistency Optimization for Sparse-View Gaussian Splatting](https://arxiv.org/abs/2603.02893v1)** | 2026-03-03 |  |
+| **[Multimodal-Prior-Guided Importance Sampling for Hierarchical Gaussian Splatting in Sparse-View Novel View Synthesis](https://arxiv.org/abs/2603.02866v1)** | 2026-03-03 |  |
+| **[R3GW: Relightable 3D Gaussians for Outdoor Scenes in the Wild](https://arxiv.org/abs/2603.02801v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at VISAPP 2026</p></details> |
+| **[HeroGS: Hierarchical Guidance for Robust 3D Gaussian Splatting under Sparse Views](https://arxiv.org/abs/2603.01099v2)** | 2026-03-03 |  |
+| **[Proxy-GS: Unified Occlusion Priors for Training and Inference in Structured 3D Gaussian Splatting](https://arxiv.org/abs/2509.24421v4)** | 2026-03-03 | <details><summary>Proje...</summary><p>Project page: https://visionary-laboratory.github.io/Proxy-GS</p></details> |
+| **[SemGS: Feed-Forward Semantic 3D Gaussian Splatting from Sparse Views for Generalizable Scene Understanding](https://arxiv.org/abs/2603.02548v1)** | 2026-03-03 | ICRA 2026 |
+| **[Zero-shot CT Super-Resolution using Diffusion-based 2D Projection Priors and Signed 3D Gaussians](https://arxiv.org/abs/2508.15151v2)** | 2026-03-03 |  |
+| **[StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams](https://arxiv.org/abs/2506.08862v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026, Project page: https://streamsplat3d.github.io/</p></details> |
 | **[tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction](https://arxiv.org/abs/2602.20160v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project Page: https://cwchenwang.github.io/tttLRM</p></details> |
-| **[OnlineX: Unified Online 3D Reconstruction and Understanding with Active-to-Stable State Evolution](https://arxiv.org/abs/2603.02134v1)** | 2026-03-02 |  |
 | **[LiftAvatar: Kinematic-Space Completion for Expression-Controlled 3D Gaussian Avatar Animation](https://arxiv.org/abs/2603.02129v1)** | 2026-03-02 | 19 pages, 11 figures |
 | **[Sparse View Distractor-Free Gaussian Splatting](https://arxiv.org/abs/2603.01603v1)** | 2026-03-02 |  |
 | **[Radiometrically Consistent Gaussian Surfels for Inverse Rendering](https://arxiv.org/abs/2603.01491v1)** | 2026-03-02 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, ICLR 2026 Oral paper</p></details> |
-| **[CloDS: Visual-Only Unsupervised Cloth Dynamics Learning in Unknown Conditions](https://arxiv.org/abs/2602.01844v3)** | 2026-03-01 | ICLR 2026 |
-| **[FLICKER: A Fine-Grained Contribution-Aware Accelerator for Real-Time 3D Gaussian Splatting](https://arxiv.org/abs/2603.01158v1)** | 2026-03-01 | <details><summary>Accep...</summary><p>Accepted at DATE 2026 (Design, Automation and Test in Europe Conference)</p></details> |
-| **[D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping](https://arxiv.org/abs/2603.01151v1)** | 2026-03-01 | ICLR 2026 Poster |
-| **[Openfly: A comprehensive platform for aerial vision-language navigation](https://arxiv.org/abs/2502.18041v7)** | 2026-03-01 | <details><summary>accep...</summary><p>accepted by ICLR 2026</p></details> |
-| **[Mono4DGS-HDR: High Dynamic Range 4D Gaussian Splatting from Alternating-exposure Monocular Videos](https://arxiv.org/abs/2510.18489v2)** | 2026-03-01 | <details><summary>This ...</summary><p>This paper is accepted by ICLR 2026. Project page is available at https://liujf1226.github.io/Mono4DGS-HDR/</p></details> |
-| **[HeroGS: Hierarchical Guidance for Robust 3D Gaussian Splatting under Sparse Views](https://arxiv.org/abs/2603.01099v1)** | 2026-03-01 |  |
-| **[FastAvatar: Towards Unified and Fast 3D Avatar Reconstruction with Large Gaussian Reconstruction Transformers](https://arxiv.org/abs/2508.19754v2)** | 2026-03-01 |  |
-| **[Decoupling Motion and Geometry in 4D Gaussian Splatting](https://arxiv.org/abs/2603.00952v1)** | 2026-03-01 |  |
-| **[HorizonForge: Driving Scene Editing with Any Trajectories and Any Vehicles](https://arxiv.org/abs/2602.21333v2)** | 2026-03-01 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Splat the Net: Radiance Fields with Splattable Neural Primitives](https://arxiv.org/abs/2510.08491v2)** | 2026-02-28 |  |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Main Conference (11 pages, 5 figures)</p></details> |
-| **[GeoDiT: Point-Conditioned Diffusion Transformer for Satellite Image Synthesis](https://arxiv.org/abs/2603.02172v1)** | 2026-03-02 | 26 pages, 17 figures |
-| **[Concept-TRAK: Understanding how diffusion models learn concepts through concept-level attribution](https://arxiv.org/abs/2507.06547v3)** | 2026-03-02 | <details><summary>This ...</summary><p>This paper has been accepted at ICLR 2026</p></details> |
-| **[Astral: training physics-informed neural networks with error majorants](https://arxiv.org/abs/2406.02645v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 workshop AI&PDE, reviewed at https://openreview.net/forum?id=TcFpJK2FcN</p></details> |
-| **[Data-to-Energy Stochastic Dynamics](https://arxiv.org/abs/2509.26364v2)** | 2026-03-02 |  |
-| **[Socio-Spatial Patterns of Suicide Mortality in the United States](https://arxiv.org/abs/2603.02131v1)** | 2026-03-02 | <details><summary>Code ...</summary><p>Code and data: https://github.com/kut97/suicide-sci</p></details> |
-| **[LiftAvatar: Kinematic-Space Completion for Expression-Controlled 3D Gaussian Avatar Animation](https://arxiv.org/abs/2603.02129v1)** | 2026-03-02 | 19 pages, 11 figures |
-| **[S3OD: Towards Generalizable Salient Object Detection with Synthetic Data](https://arxiv.org/abs/2510.21605v2)** | 2026-03-02 |  |
-| **[CADC: Content Adaptive Diffusion-Based Generative Image Compression](https://arxiv.org/abs/2602.21591v2)** | 2026-03-02 |  |
-| **[WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories](https://arxiv.org/abs/2603.02049v1)** | 2026-03-02 |  |
-| **[LAD-Drive: Bridging Language and Trajectory with Action-Aware Diffusion Transformers](https://arxiv.org/abs/2603.02035v1)** | 2026-03-02 |  |
-| **[Molecular Communication for Gastroretentive Drug Delivery](https://arxiv.org/abs/2508.19739v2)** | 2026-03-02 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, This paper has been accepted as Transactions Letter at IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</p></details> |
-| **[LVTINO: LAtent Video consisTency INverse sOlver for High Definition Video Restoration](https://arxiv.org/abs/2510.01339v2)** | 2026-03-02 | <details><summary>30 pa...</summary><p>30 pages, 16 figures. The Fourteenth International Conference on Learning Representations, ICLR 2026</p></details> |
-| **[CausalWrap: Model-Agnostic Causal Constraint Wrappers for Tabular Synthetic Data](https://arxiv.org/abs/2603.02015v1)** | 2026-03-02 |  |
-| **[MAP-Diff: Multi-Anchor Guided Diffusion for Progressive 3D Whole-Body Low-Dose PET Denoising](https://arxiv.org/abs/2603.02012v1)** | 2026-03-02 | 8 pages, 3 figures |
+| **[Helios: Real Real-Time Long Video Generation Model](https://arxiv.org/abs/2603.04379v1)** | 2026-03-04 | <details><summary>Page:...</summary><p>Page: pku-yuangroup.github.io/Helios-Page</p></details> |
+| **[Low-Resource Guidance for Controllable Latent Audio Diffusion](https://arxiv.org/abs/2603.04366v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
+| **[Do We Need All the Synthetic Data? Targeted Image Augmentation via Diffusion Models](https://arxiv.org/abs/2505.21574v3)** | 2026-03-04 |  |
+| **[Enhancing Authorship Attribution with Synthetic Paintings](https://arxiv.org/abs/2603.04343v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for publication at the 24th IEEE International Conference on Machine Learning and Applications (ICMLA 2025)</p></details> |
+| **[Balancing Fidelity, Utility, and Privacy in Synthetic Cardiac MRI Generation: A Comparative Study](https://arxiv.org/abs/2603.04340v1)** | 2026-03-04 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, Preprint</p></details> |
+| **[ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors](https://arxiv.org/abs/2603.04338v1)** | 2026-03-04 | <details><summary>Proje...</summary><p>Project Page: https://arthoi.github.io/</p></details> |
+| **[Dual Diffusion Models for Multi-modal Guided 3D Avatar Generation](https://arxiv.org/abs/2603.04307v1)** | 2026-03-04 | 18 pages, 10 figures |
+| **[Planner Aware Path Learning in Diffusion Language Models Training](https://arxiv.org/abs/2509.23405v2)** | 2026-03-04 | <details><summary>Camer...</summary><p>Camera ready version for ICLR2026</p></details> |
+| **[CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video](https://arxiv.org/abs/2603.04291v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos](https://arxiv.org/abs/2603.04265v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
+| **[Hybrid Diffusion Policies with Projective Geometric Algebra for Efficient Robot Manipulation Learning](https://arxiv.org/abs/2507.05695v3)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026</p></details> |
+| **[Intrusive and Non-Intrusive Model Order Reduction for Airborne Contaminant Transport: Comparative Analysis and Uncertainty Quantification](https://arxiv.org/abs/2602.21996v2)** | 2026-03-04 |  |
+| **[DiverseDiT: Towards Diverse Representation Learning in Diffusion Transformers](https://arxiv.org/abs/2603.04239v1)** | 2026-03-04 | <details><summary>To ap...</summary><p>To appear in CVPR 2026, GitHub Code: https://github.com/kobeshegu/DiverseDiT, Project Page: https://forevermamba.work/projects/DiverseDiT/</p></details> |
+| **[Semi-Supervised Generative Learning via Latent Space Distribution Matching](https://arxiv.org/abs/2603.04223v1)** | 2026-03-04 |  |
+| **[NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction](https://arxiv.org/abs/2603.04179v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Project Page: https://wrchen530.github.io/nova3r</p></details> |
 
