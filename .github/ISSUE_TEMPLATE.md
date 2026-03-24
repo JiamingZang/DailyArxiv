@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 23, 2026
+title: Latest 15 Papers - March 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FlashCap: Millisecond-Accurate Human Motion Capture via Flashing LEDs and Event-Based Vision](https://arxiv.org/abs/2603.19770v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[NCSTR: Node-Centric Decoupled Spatio-Temporal Reasoning for Video-based Human Pose Estimation](https://arxiv.org/abs/2603.20323v1)** | 2026-03-20 |  |
 | **[Expanding mmWave Datasets for Human Pose Estimation with Unlabeled Data and LiDAR Datasets](https://arxiv.org/abs/2603.14507v2)** | 2026-03-19 | Accepted by CVPR2026 |
 | **[Learning Human-Object Interaction for 3D Human Pose Estimation from LiDAR Point Clouds](https://arxiv.org/abs/2603.16343v1)** | 2026-03-17 | <details><summary>Proje...</summary><p>Project page: https://hoil-release.github.io/</p></details> |
 | **[Towards Balanced Multi-Modal Learning in 3D Human Pose Estimation](https://arxiv.org/abs/2501.05264v5)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
@@ -39,44 +41,42 @@ labels: documentation
 | **[Exploiting Spatiotemporal Properties for Efficient Event-Driven Human Pose Estimation](https://arxiv.org/abs/2512.06306v2)** | 2026-03-06 |  |
 | **[Differentially Private 2D Human Pose Estimation](https://arxiv.org/abs/2504.10190v4)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026</p></details> |
 | **[WiCompass: Oracle-driven Data Scaling for mmWave Human Pose Estimation](https://arxiv.org/abs/2602.18726v2)** | 2026-03-02 | <details><summary>This ...</summary><p>This paper has been accepted by The 32nd Annual International Conference on Mobile Computing and Networking (MobiCom'26)</p></details> |
-| **[Egocentric Visibility-Aware Human Pose Estimation](https://arxiv.org/abs/2602.23618v1)** | 2026-02-27 | <details><summary>Confe...</summary><p>Conference on Computer Vision and Pattern Recognition 2026</p></details> |
-| **[PoseAdapt: Sustainable Human Pose Estimation via Continual Learning Benchmarks and Toolkit](https://arxiv.org/abs/2409.20469v3)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted in WACV 2026 Applications Track</p></details> |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Matryoshka Gaussian Splatting](https://arxiv.org/abs/2603.19234v1)** | 2026-03-19 | <details><summary>proje...</summary><p>project page: https://zhilinguo.github.io/MGS</p></details> |
-| **[Reconstruction Matters: Learning Geometry-Aligned BEV Representation through 3D Gaussian Splatting](https://arxiv.org/abs/2603.19193v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project page at https://vulab-ai.github.io/Splat2BEV/</p></details> |
-| **[GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning](https://arxiv.org/abs/2603.19137v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project page at https://vulab-ai.github.io/GSMem/</p></details> |
-| **[GHOST: Fast Category-agnostic Hand-Object Interaction Reconstruction from RGB Videos using Gaussian Splatting](https://arxiv.org/abs/2603.18912v1)** | 2026-03-19 |  |
-| **[GTAvatar: Bridging Gaussian Splatting and Texture Mapping for Relightable and Editable Gaussian Avatars](https://arxiv.org/abs/2512.09162v3)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted to Eurographics 2026. Project page: https://kelianb.github.io/GTAvatar/</p></details> |
-| **[Remove360: Benchmarking Residuals After Object Removal in 3D Gaussian Splatting](https://arxiv.org/abs/2508.11431v2)** | 2026-03-19 |  |
-| **[From ex(p) to poly: Gaussian Splatting with Polynomial Kernels](https://arxiv.org/abs/2603.18707v1)** | 2026-03-19 |  |
-| **[DriveSplat: Unified Neural Gaussian Reconstruction for Dynamic Driving Scenes](https://arxiv.org/abs/2508.15376v4)** | 2026-03-19 |  |
-| **[FSFSplatter: Build Surface and Novel Views with Sparse-Views within 2min](https://arxiv.org/abs/2510.02691v3)** | 2026-03-19 |  |
-| **[OnlinePG: Online Open-Vocabulary Panoptic Mapping with 3D Gaussian Splatting](https://arxiv.org/abs/2603.18510v1)** | 2026-03-19 | CVPR 2026 |
-| **[Inst4DGS: Instance-Decomposed 4D Gaussian Splatting with Multi-Video Label Permutation Learning](https://arxiv.org/abs/2603.18402v1)** | 2026-03-19 |  |
-| **[Semantic Segmentation and Depth Estimation for Real-Time Lunar Surface Mapping Using 3D Gaussian Splatting](https://arxiv.org/abs/2603.18218v1)** | 2026-03-18 |  |
-| **[AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors](https://arxiv.org/abs/2603.17975v1)** | 2026-03-18 | <details><summary>Our p...</summary><p>Our project page is available at https://miraymen.github.io/ahoy/</p></details> |
-| **[CrowdGaussian: Reconstructing High-Fidelity 3D Gaussians for Human Crowd from a Single Image](https://arxiv.org/abs/2603.17779v1)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[ReLaGS: Relational Language Gaussian Splatting](https://arxiv.org/abs/2603.17605v1)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
+| **[FreeArtGS: Articulated Gaussian Splatting Under Free-moving Scenario](https://arxiv.org/abs/2603.22102v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting](https://arxiv.org/abs/2412.01583v3)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by WACV 2026, Project Page: https://ziyangyan.github.io/3DSceneEditor</p></details> |
+| **[Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment](https://arxiv.org/abs/2603.21936v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[Camera-Agnostic Pruning of 3D Gaussian Splats via Descriptor-Based Beta Evidence](https://arxiv.org/abs/2603.21933v1)** | 2026-03-23 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 2 tables</p></details> |
+| **[IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes](https://arxiv.org/abs/2511.19235v2)** | 2026-03-23 |  |
+| **[RefracGS: Novel View Synthesis Through Refractive Water Surfaces with 3D Gaussian Ray Tracing](https://arxiv.org/abs/2603.21695v1)** | 2026-03-23 |  |
+| **[CrowdGaussian: Reconstructing High-Fidelity 3D Gaussians for Human Crowd from a Single Image](https://arxiv.org/abs/2603.17779v2)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[SignSparK: Efficient Multilingual Sign Language Production via Sparse Keyframe Learning](https://arxiv.org/abs/2603.10446v3)** | 2026-03-23 |  |
+| **[MipSLAM: Alias-Free Gaussian Splatting SLAM](https://arxiv.org/abs/2603.06989v2)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026</p></details> |
+| **[EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization](https://arxiv.org/abs/2603.21332v1)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Page: https://emotag26.github.io/</p></details> |
+| **[F4Splat: Feed-Forward Predictive Densification for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2603.21304v1)** | 2026-03-22 | <details><summary>Proje...</summary><p>Project Page: $\href{https://mlvlab.github.io/F4Splat}{\text{this http URL}}$</p></details> |
+| **[Two Experts Are Better Than One Generalist: Decoupling Geometry and Appearance for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2603.21064v1)** | 2026-03-22 | <details><summary>Proje...</summary><p>Project page: $\href{https://hwasikjeong.github.io/2Xplat}{URL}$</p></details> |
+| **[SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM](https://arxiv.org/abs/2603.21055v1)** | 2026-03-22 | CVPR 2026 |
+| **[Fast and Robust Deformable 3D Gaussian Splatting](https://arxiv.org/abs/2603.20857v1)** | 2026-03-21 |  |
+| **[MetroGS: Efficient and Stable Reconstruction of Geometrically Accurate High-Fidelity Large-Scale Scenes](https://arxiv.org/abs/2511.19172v2)** | 2026-03-21 | <details><summary>Proje...</summary><p>Project page: https://m3phist0.github.io/MetroGS</p></details> |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/abs/2603.19235v1)** | 2026-03-19 | 31 pages, 12 figures |
-| **[Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](https://arxiv.org/abs/2603.19232v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 main track; Code: https://github.com/YuqingWang1029/CubiD</p></details> |
-| **[Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer](https://arxiv.org/abs/2603.19227v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project Page: https://rheallyc.github.io/projects/motok GitHub: https://github.com/rheallyc/MoTok</p></details> |
-| **[Under One Sun: Multi-Object Generative Perception of Materials and Illumination](https://arxiv.org/abs/2603.19226v1)** | 2026-03-19 |  |
-| **[EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing](https://arxiv.org/abs/2603.19224v1)** | 2026-03-19 | <details><summary>CVPR ...</summary><p>CVPR 2026, Project Page: https://henghuiding.com/EffectErase/</p></details> |
-| **[Spectrally-Guided Diffusion Noise Schedules](https://arxiv.org/abs/2603.19222v1)** | 2026-03-19 |  |
-| **[Rethinking Vector Field Learning for Generative Segmentation](https://arxiv.org/abs/2603.19218v1)** | 2026-03-19 |  |
-| **[RPiAE: A Representation-Pivoted Autoencoder Enhancing Both Image Generation and Editing](https://arxiv.org/abs/2603.19206v1)** | 2026-03-19 |  |
-| **[Score Reversal Is Not Free for Quantum Diffusion Models](https://arxiv.org/abs/2603.06488v3)** | 2026-03-19 |  |
-| **[MIDST Challenge at SaTML 2025: Membership Inference over Diffusion-models-based Synthetic Tabular data](https://arxiv.org/abs/2603.19185v1)** | 2026-03-19 | 4 page, 1 table |
-| **[Image2Gcode: Image-to-G-code Generation for Additive Manufacturing Using Diffusion-Transformer Model](https://arxiv.org/abs/2511.20636v3)** | 2026-03-19 |  |
-| **[WebWeaver: Breaking Topology Confidentiality in LLM Multi-Agent Systems with Stealthy Context-Based Inference](https://arxiv.org/abs/2603.11132v2)** | 2026-03-19 |  |
-| **[Few-shot Acoustic Synthesis with Multimodal Flow Matching](https://arxiv.org/abs/2603.19176v1)** | 2026-03-19 | <details><summary>To ap...</summary><p>To appear at CVPR 2026. 23 pages, 16 figures. Project Page: https://amandinebtto.github.io/FLAC/</p></details> |
-| **[SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits](https://arxiv.org/abs/2603.19173v1)** | 2026-03-19 |  |
-| **[Flow Matching Policy with Entropy Regularization](https://arxiv.org/abs/2603.17685v2)** | 2026-03-19 |  |
+| **[WorldCache: Content-Aware Caching for Accelerated Video World Models](https://arxiv.org/abs/2603.22286v1)** | 2026-03-23 | 33 Pages |
+| **[End-to-End Training for Unified Tokenization and Latent Denoising](https://arxiv.org/abs/2603.22283v1)** | 2026-03-23 | <details><summary>First...</summary><p>First two authors contributed equally. Project: https://xingjianbai.com/unite-tokenization-generation/ Code: https://github.com/ShivamDuggal4/UNITE-tokenization-generation</p></details> |
+| **[Repurposing Geometric Foundation Models for Multi-view Diffusion](https://arxiv.org/abs/2603.22275v1)** | 2026-03-23 | <details><summary>proje...</summary><p>project website: https://cvlab-kaist.github.io/GLD/</p></details> |
+| **[DUO-VSR: Dual-Stream Distillation for One-Step Video Super-Resolution](https://arxiv.org/abs/2603.22271v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning](https://arxiv.org/abs/2603.22254v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, research article</p></details> |
+| **[Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling](https://arxiv.org/abs/2512.03044v2)** | 2026-03-23 |  |
+| **[Confidence-Based Decoding is Provably Efficient for Diffusion Language Models](https://arxiv.org/abs/2603.22248v1)** | 2026-03-23 |  |
+| **[MemDLM: Memory-Enhanced DLM Training](https://arxiv.org/abs/2603.22241v1)** | 2026-03-23 |  |
+| **[SpatialReward: Verifiable Spatial Reward Modeling for Fine-Grained Spatial Consistency in Text-to-Image Generation](https://arxiv.org/abs/2603.22228v1)** | 2026-03-23 |  |
+| **[DisPatch: Disarming Adversarial Patches in Object Detection with Diffusion Models](https://arxiv.org/abs/2509.04597v2)** | 2026-03-23 |  |
+| **[Stable diffusion models reveal a persisting human and AI gap in visual creativity](https://arxiv.org/abs/2511.16814v2)** | 2026-03-23 |  |
+| **[Training-Free Layout-to-Image Generation with Marginal Attention Constraints](https://arxiv.org/abs/2411.10495v3)** | 2026-03-23 |  |
+| **[DA-VAE: Plug-in Latent Compression for Diffusion via Detail Alignment](https://arxiv.org/abs/2603.22125v1)** | 2026-03-23 | CVPR 2026 |
+| **[Autoregressive vs. Masked Diffusion Language Models: A Controlled Comparison](https://arxiv.org/abs/2603.22075v1)** | 2026-03-23 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 4 tables. Code and checkpoints at https://github.com/caiovicentino/arche</p></details> |
+| **[Memory-V2V: Memory-Augmented Video-to-Video Diffusion for Consistent Multi-Turn Editing](https://arxiv.org/abs/2601.16296v2)** | 2026-03-23 | <details><summary>Proje...</summary><p>Project page: https://dohunlee1.github.io/MemoryV2V</p></details> |
 
