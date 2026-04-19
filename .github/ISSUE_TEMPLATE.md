@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 17, 2026
+title: Latest 15 Papers - April 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JiamingZang/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Human Pose Estimation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees](https://arxiv.org/abs/2604.15221v1)** | 2026-04-16 |  |
 | **[WiFlow: A Lightweight WiFi-based Continuous Human Pose Estimation Network with Spatio-Temporal Feature Decoupling](https://arxiv.org/abs/2602.08661v2)** | 2026-04-12 |  |
 | **[UDAPose: Unsupervised Domain Adaptation for Low-Light Human Pose Estimation](https://arxiv.org/abs/2604.10485v1)** | 2026-04-12 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 | **[E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation](https://arxiv.org/abs/2604.08543v1)** | 2026-04-09 | <details><summary>20 pa...</summary><p>20 pages; 14 figures and 14 tables; CVPR 2026; project page: https://4dqv.mpi-inf.mpg.de/E-3DPSM/</p></details> |
@@ -40,11 +41,16 @@ labels: documentation
 | **[AG-EgoPose: Leveraging Action-Guided Motion and Kinematic Joint Encoding for Egocentric 3D Pose Estimation](https://arxiv.org/abs/2603.25175v1)** | 2026-03-26 |  |
 | **[OpenCap Monocular: 3D Human Kinematics and Musculoskeletal Dynamics from a Single Smartphone Video](https://arxiv.org/abs/2603.24733v1)** | 2026-03-25 |  |
 | **[An Intelligent Framework for Real-Time Yoga Pose Detection and Posture Correction](https://arxiv.org/abs/2603.26760v1)** | 2026-03-23 |  |
-| **[FlashCap: Millisecond-Accurate Human Motion Capture via Flashing LEDs and Event-Based Vision](https://arxiv.org/abs/2603.19770v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens](https://arxiv.org/abs/2604.15284v1)** | 2026-04-16 |  |
+| **[TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens](https://arxiv.org/abs/2604.15239v1)** | 2026-04-16 | <details><summary>Proje...</summary><p>Project page: https://research.nvidia.com/labs/toronto-ai/tokengs</p></details> |
+| **[One-shot Compositional 3D Head Avatars with Deformable Hair](https://arxiv.org/abs/2604.14782v1)** | 2026-04-16 | <details><summary>proje...</summary><p>project page: https://yuansun-xjtu.github.io/CompHairHead.io</p></details> |
+| **[NG-GS: NeRF-Guided 3D Gaussian Splatting Segmentation](https://arxiv.org/abs/2604.14706v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Highlight)</p></details> |
+| **[PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting](https://arxiv.org/abs/2604.12580v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to CVPR Findings 2026. Project Page: https://kangrnin.github.io/PDF-GS</p></details> |
+| **[HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds](https://arxiv.org/abs/2604.14268v1)** | 2026-04-15 | <details><summary>Proje...</summary><p>Project Page: https://3d-models.hunyuan.tencent.com/world/ ; Code: https://github.com/Tencent-Hunyuan/HY-World-2.0</p></details> |
 | **[ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction](https://arxiv.org/abs/2604.13746v1)** | 2026-04-15 | <details><summary>CVPR ...</summary><p>CVPR 2026, Project pages: https://liangjie1999.github.io/ClipGStreamWeb/</p></details> |
 | **[Dehaze-then-Splat: Generative Dehazing with Physics-Informed 3D Gaussian Splatting for Smoke-Free Novel View Synthesis](https://arxiv.org/abs/2604.13589v1)** | 2026-04-15 |  |
 | **[LIVE-GS: LLM Powers Interactive VR Experience with Physics-Aware Gaussian Splatting](https://arxiv.org/abs/2412.09176v2)** | 2026-04-15 |  |
@@ -54,29 +60,23 @@ labels: documentation
 | **[SSD-GS: Scattering and Shadow Decomposition for Relightable 3D Gaussian Splatting](https://arxiv.org/abs/2604.13333v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Code available at: https://github.com/irisfreesiri/SSD-GS</p></details> |
 | **[PatchPoison: Poisoning Multi-View Datasets to Degrade 3D Reconstruction](https://arxiv.org/abs/2604.13153v1)** | 2026-04-14 | <details><summary>CVPR ...</summary><p>CVPR Workshop on Security, Privacy, and Adversarial Robustness in 3D Generative Vision Models (SPAR-3D), 2026</p></details> |
 | **[RMGS-SLAM: Real-time Multi-sensor Gaussian Splatting SLAM](https://arxiv.org/abs/2604.12942v1)** | 2026-04-14 |  |
-| **[GGD-SLAM: Monocular 3DGS SLAM Powered by Generalizable Motion Model for Dynamic Environments](https://arxiv.org/abs/2604.12837v1)** | 2026-04-14 | <details><summary>8 pag...</summary><p>8 pages, Accepted by ICRA 2026</p></details> |
-| **[MedGS: Gaussian Splatting for Multi-Modal 3D Medical Imaging](https://arxiv.org/abs/2509.16806v4)** | 2026-04-14 |  |
-| **[Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting](https://arxiv.org/abs/2604.12626v1)** | 2026-04-14 | <details><summary>Proje...</summary><p>Project page: https://zju3dv.github.io/habitat-gs/</p></details> |
-| **[Rein3D: Reinforced 3D Indoor Scene Generation with Panoramic Video Diffusion Models](https://arxiv.org/abs/2604.10578v2)** | 2026-04-14 |  |
-| **[ELoG-GS: Dual-Branch Gaussian Splatting with Luminance-Guided Enhancement for Extreme Low-light 3D Reconstruction](https://arxiv.org/abs/2604.12592v1)** | 2026-04-14 | <details><summary>Our m...</summary><p>Our method achieved a ranking of 9 out of 148 participants in Track 1 of the NTIRE 3DRR Challenge, as reported on the official competition website: https://www.codabench.org/competitions/13854/</p></details> |
-| **[PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting](https://arxiv.org/abs/2604.12580v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to CVPR Findings 2026</p></details> |
 
 ## diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System](https://arxiv.org/abs/2604.14125v1)** | 2026-04-15 | <details><summary>Proje...</summary><p>Project Page: https://tianshuoy.github.io/HiVLA-page/</p></details> |
-| **[ReproMIA: A Comprehensive Analysis of Model Reprogramming for Proactive Membership Inference Attacks](https://arxiv.org/abs/2603.28942v3)** | 2026-04-15 | <details><summary>This ...</summary><p>This version was posted without enough prior discussion with my collaborator. Thus, it is being withdrawn pending further internal review. The authors do not wish this version to be considered part of the active scientific record in its current form</p></details> |
-| **[Mini-Batch Covariance, Diffusion Limits, and Oracle Complexity in Stochastic Gradient Descent: A Sampling-Design Perspective](https://arxiv.org/abs/2603.02417v4)** | 2026-04-15 |  |
-| **[OneHOI: Unifying Human-Object Interaction Generation and Editing](https://arxiv.org/abs/2604.14062v1)** | 2026-04-15 | <details><summary>Accep...</summary><p>Accepted at CVPR2026. This paper moves toward unifying HOI generation and editing within a single model</p></details> |
-| **[LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling](https://arxiv.org/abs/2604.11748v3)** | 2026-04-15 |  |
-| **[Diffusion Language Models for Speech Recognition](https://arxiv.org/abs/2604.14001v1)** | 2026-04-15 |  |
-| **[Remote Sensing Image Super-Resolution for Imbalanced Textures: A Texture-Aware Diffusion Framework](https://arxiv.org/abs/2604.13994v1)** | 2026-04-15 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 9 Tables</p></details> |
-| **[Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection](https://arxiv.org/abs/2604.13942v1)** | 2026-04-15 |  |
-| **[ASTRA: Enhancing Multi-Subject Generation with Retrieval-Augmented Pose Guidance and Disentangled Position Embedding](https://arxiv.org/abs/2604.13938v1)** | 2026-04-15 |  |
-| **[Blind Bitstream-corrupted Video Recovery via Metadata-guided Diffusion Model](https://arxiv.org/abs/2604.13906v1)** | 2026-04-15 | CVPR 2025 |
-| **[Frozen Forecasting: A Unified Evaluation](https://arxiv.org/abs/2507.13942v2)** | 2026-04-15 | <details><summary>New T...</summary><p>New Title, Additional Author</p></details> |
-| **[Algorithms Trained on Normal Chest X-rays Can Predict Health Insurance Types](https://arxiv.org/abs/2511.11030v6)** | 2026-04-15 | <details><summary>Accep...</summary><p>Accepted by MIDL 2026</p></details> |
-| **[Learning to Control PDEs with Differentiable Predictive Control and Time-Integrated Neural Operators](https://arxiv.org/abs/2511.08992v2)** | 2026-04-15 |  |
-| **[PostureObjectstitch: Anomaly Image Generation Considering Assembly Relationships in Industrial Scenarios](https://arxiv.org/abs/2604.13863v1)** | 2026-04-15 |  |
-| **[DiffMagicFace: Identity Consistent Facial Editing of Real Videos](https://arxiv.org/abs/2604.13841v1)** | 2026-04-15 |  |
+| **[TokenLight: Precise Lighting Control in Images using Attribute Tokens](https://arxiv.org/abs/2604.15310v1)** | 2026-04-16 | 32 pages, CVPR 2026 |
+| **[RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework](https://arxiv.org/abs/2604.15308v1)** | 2026-04-16 | <details><summary>Proje...</summary><p>Project page: https://hgao-cv.github.io/RAD-2</p></details> |
+| **[R3D: Revisiting 3D Policy Learning](https://arxiv.org/abs/2604.15281v1)** | 2026-04-16 |  |
+| **[Kinetic Interacting Particle Langevin Monte Carlo](https://arxiv.org/abs/2407.05790v3)** | 2026-04-16 |  |
+| **[Distributed games with jumps: An $α$-potential game approach](https://arxiv.org/abs/2508.01929v2)** | 2026-04-16 | 29 pages, 4 figures |
+| **[PixelDiT: Pixel Diffusion Transformers for Image Generation](https://arxiv.org/abs/2511.20645v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[An Analysis of Regularization and Fokker-Planck Residuals in Diffusion Models for Image Generation](https://arxiv.org/abs/2604.15171v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
+| **[A Semantic Geometry for Uncovering Paradigm Dynamics via Scientific Publications](https://arxiv.org/abs/2604.15150v1)** | 2026-04-16 | 26 pages,8figures |
+| **[Continuous-time reinforcement learning: ellipticity enables model-free value function approximation](https://arxiv.org/abs/2602.06930v2)** | 2026-04-16 | <details><summary>updat...</summary><p>update from previous version: removed unnecessarily strong requirement on discount rate</p></details> |
+| **[Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching](https://arxiv.org/abs/2604.15009v1)** | 2026-04-16 |  |
+| **[Edge-preserving noise for diffusion models](https://arxiv.org/abs/2410.01540v4)** | 2026-04-16 |  |
+| **[Towards Deploying VLA without Fine-Tuning: Plug-and-Play Inference-Time VLA Policy Steering via Embodied Evolutionary Diffusion](https://arxiv.org/abs/2511.14178v2)** | 2026-04-16 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, submitted to IEEE RA-L</p></details> |
+| **[Bird-SR: Bidirectional Reward-Guided Diffusion for Real-World Image Super-Resolution](https://arxiv.org/abs/2602.07069v2)** | 2026-04-16 |  |
+| **[Diffusion Crossover: Defining Evolutionary Recombination in Diffusion Models via Noise Sequence Interpolation](https://arxiv.org/abs/2604.14790v1)** | 2026-04-16 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 2 tables</p></details> |
+| **[JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation](https://arxiv.org/abs/2411.09209v5)** | 2026-04-16 |  |
 
